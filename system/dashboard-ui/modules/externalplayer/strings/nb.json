@@ -1,0 +1,15 @@
+{
+    "MediaType": "Media type",
+    "ExternalPlayers": "Eksterne avspillere",
+    "ExternalPlayer": "Ekstern avspiller",
+    "PlayerPath": "Avspillersti",
+    "ArgumentsHelp": "Plasser hvert argument p\u00e5 en separat linje.",
+    "TokenPath": "{path} = stil til media fil",
+    "EnableFor": "Aktiver for",
+    "VideoFiles": "Video filer",
+    "InternetStreams": "Internett str\u00f8mmer",
+    "CommandLineArguments": "Kommandolinjeargumenter",
+    "TokenStartPosMs": "{ms} = start posisjon ms",
+    "TokenStartPosSeconds": "{Seconds} = start posisjon sekunder",
+    "AdditionalFilters": "Ytterligere filtre"
+}

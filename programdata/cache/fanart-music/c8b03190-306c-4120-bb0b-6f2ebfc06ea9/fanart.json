@@ -1,0 +1,813 @@
+{
+    "name": "The Weeknd",
+    "mbid_id": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+    "artistbackground": [
+        {
+            "id": "15868",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistbackground/the-weeknd-4ee6928ad3a11.jpg",
+            "likes": "2",
+            "added": "2011-12-14 20:53:02"
+        },
+        {
+            "id": "199520",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistbackground/weeknd-the-579d677ca70a6.jpg",
+            "likes": "2",
+            "added": "2016-07-31 16:02:05"
+        },
+        {
+            "id": "199601",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistbackground/weeknd-the-579f4a5c4ef89.jpg",
+            "likes": "1",
+            "added": "2016-08-01 16:48:32"
+        },
+        {
+            "id": "199600",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistbackground/weeknd-the-579f4a2fe34f1.jpg",
+            "likes": "1",
+            "added": "2016-08-01 16:49:51"
+        },
+        {
+            "id": "15871",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistbackground/the-weeknd-4ee693dd07fe9.jpg",
+            "likes": "0",
+            "added": "2011-12-14 20:53:07"
+        },
+        {
+            "id": "47589",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistbackground/weeknd-the-502a99d94aa39.jpg",
+            "likes": "0",
+            "added": "2012-08-15 00:26:27"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "61251",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/hdmusiclogo/weeknd-the-50a1444ccf2bf.png",
+            "likes": "2",
+            "added": "2012-11-15 21:37:59"
+        },
+        {
+            "id": "250283",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/hdmusiclogo/weeknd-the-5bd2fb1b4197b.png",
+            "likes": "0",
+            "added": "2018-10-26 22:50:28"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "387151",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistthumb/weeknd-the-6307b51e6cd22.jpeg",
+            "likes": "1",
+            "added": "2022-08-26 18:39:40"
+        },
+        {
+            "id": "199803",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/artistthumb/weeknd-the-57a36289b5830.jpg",
+            "likes": "1",
+            "added": "2016-08-04 21:44:15"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "47588",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/musiclogo/weeknd-the-502a99cd6e9c9.png",
+            "likes": "0",
+            "added": "2012-08-15 00:06:42"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "132669",
+            "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/musicbanner/weeknd-the-53ee01c6e2d14.jpg",
+            "likes": "0",
+            "added": "2014-08-15 13:00:41"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "78570bea-2a26-467c-a3db-c52723ceb394",
+            "albumcover": [
+                {
+                    "id": "291051",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/after-hours-5e756e2ce9573.jpg",
+                    "likes": "2",
+                    "added": "2020-03-22 01:27:00"
+                },
+                {
+                    "id": "291625",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/after-hours-5e7cb18640214.jpg",
+                    "likes": "1",
+                    "added": "2020-03-27 22:58:38"
+                },
+                {
+                    "id": "291054",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/after-hours-5e75894bec8a5.jpg",
+                    "likes": "0",
+                    "added": "2020-03-22 01:26:08"
+                }
+            ]
+        },
+        {
+            "release_group_id": "de9470f4-f4a3-4ddf-967b-ac77c886ad49",
+            "albumcover": [
+                {
+                    "id": "199825",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/kiss-land-57a37ae4dbc5b.jpg",
+                    "likes": "2",
+                    "added": "2016-08-05 09:27:10"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "99189",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/cdart/kiss-land-524334b4d2d46.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-09-25 19:42:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a85b8aff-fcbc-4431-95ba-d8c20bbfb77e",
+            "albumcover": [
+                {
+                    "id": "176729",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/beauty-behind-the-madness-55e1c3fa4053a.jpg",
+                    "likes": "2",
+                    "added": "2015-09-02 10:08:27"
+                },
+                {
+                    "id": "341881",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/beauty-behind-the-madness-60b1b5754379c.jpg",
+                    "likes": "0",
+                    "added": "2021-05-29 08:11:53"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "177843",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/cdart/beauty-behind-the-madness-55ee0ade1f893.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2015-09-08 21:00:08"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1db069f4-4e1f-486e-9637-1cdff704e87d",
+            "albumcover": [
+                {
+                    "id": "291626",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/pray-for-me-5e7cb28cbfd43.jpg",
+                    "likes": "1",
+                    "added": "2020-03-27 23:04:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ceaa5c39-91c7-4c8a-886c-85b11fa8a1f6",
+            "albumcover": [
+                {
+                    "id": "208162",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/starboy-584b57827ae0e.jpg",
+                    "likes": "1",
+                    "added": "2016-12-11 23:44:25"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "218108",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/cdart/starboy-590c4ec9db6dd.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2017-05-05 19:07:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3f8afd15-c8be-4e77-bd66-d051ea1630df",
+            "albumcover": [
+                {
+                    "id": "199598",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/thursday-579f492026f02.jpg",
+                    "likes": "1",
+                    "added": "2016-08-02 12:08:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2022a9b8-ee1c-45ab-976e-3c373f61a49f",
+            "albumcover": [
+                {
+                    "id": "147107",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/earned-it-fifty-shades-of-grey-from-the-fifty-shades-of-grey-54b633791ab83.jpg",
+                    "likes": "1",
+                    "added": "2015-01-14 14:41:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d0ae475d-ee3b-4934-a442-631468867384",
+            "cdart": [
+                {
+                    "id": "65891",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/cdart/trilogy-50e503576da7e.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-01-03 11:08:51"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "61252",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/trilogy-50a144b520162.jpg",
+                    "likes": "1",
+                    "added": "2012-11-19 11:04:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0c687737-222a-4473-ad8e-e2377ac7dc83",
+            "albumcover": [
+                {
+                    "id": "368855",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/you-right-61e462c3ce609.jpg",
+                    "likes": "0",
+                    "added": "2022-01-17 14:20:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5e6b05e2-395e-40e6-9c04-98f2d700a8c3",
+            "albumcover": [
+                {
+                    "id": "341859",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/save-your-tears-remix-60b150f12f107.jpg",
+                    "likes": "0",
+                    "added": "2021-05-28 20:25:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3344452a-3da9-4b4f-8954-ae23a86c2ecf",
+            "albumcover": [
+                {
+                    "id": "368144",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/dawn-fm-61d8af8c95a1b.jpeg",
+                    "likes": "0",
+                    "added": "2022-01-08 08:38:36"
+                },
+                {
+                    "id": "409185",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/dawn-fm-647214d6819ff.jpg",
+                    "likes": "0",
+                    "added": "2023-05-27 17:09:01"
+                },
+                {
+                    "id": "409182",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/dawn-fm-647214464fa27.jpg",
+                    "likes": "0",
+                    "added": "2023-05-27 17:08:13"
+                },
+                {
+                    "id": "368862",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/dawn-fm-61e469fb025f3.jpg",
+                    "likes": "0",
+                    "added": "2022-01-17 08:27:28"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "417280",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/cdart/dawn-fm-651b2a80778be.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2023-10-07 12:35:27"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eb85c99a-e135-4c77-9b15-21c7746b7217",
+            "albumcover": [
+                {
+                    "id": "341858",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/in-your-eyes-remix-60b14d3f1a3c0.jpg",
+                    "likes": "0",
+                    "added": "2021-05-28 20:24:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "48b3851a-7f36-4207-8fa3-cea6291cd8ee",
+            "albumcover": [
+                {
+                    "id": "371795",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/moth-to-a-flame-621472d1adda8.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:44:27"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cb5edcad-4ff0-4250-a845-e5aaa47a1b7b",
+            "albumcover": [
+                {
+                    "id": "328886",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/after-hours-6032ff108ec31.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:17:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8e41afa3-4c00-44cd-902d-a9b165a25330",
+            "albumcover": [
+                {
+                    "id": "328884",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/legend-of-the-fall-6032f9f710ceb.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:17:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9393f827-2d5c-4c81-94e9-125473eb5c76",
+            "albumcover": [
+                {
+                    "id": "328883",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/in-your-eyes-remix-6032f752be671.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:17:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "556c3dee-c52f-46a6-aa88-4f8bc4cd3aa8",
+            "albumcover": [
+                {
+                    "id": "328881",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/elastic-heart-6032f59ef1fd0.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:18:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "985a7746-4207-45ba-9400-49796eaaaf72",
+            "albumcover": [
+                {
+                    "id": "328879",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/starboy-6032f31fe647c.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:20:00"
+                },
+                {
+                    "id": "407999",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/starboy-64594a7eb22f3.jpg",
+                    "likes": "0",
+                    "added": "2023-05-09 19:31:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f60c961a-b4c8-4e01-831c-51a0dfa55188",
+            "albumcover": [
+                {
+                    "id": "328878",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/the-highlights-6032f0b4ab222.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:19:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6dc53c16-0b2c-4681-906f-04c44a6cc1bc",
+            "albumcover": [
+                {
+                    "id": "328877",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/smile-6032eff24c387.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:19:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "900c297e-0d72-461f-bada-b8993c929b7b",
+            "albumcover": [
+                {
+                    "id": "328876",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/over-now-6032ef488e979.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:20:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ce12c179-98ef-4a47-bbee-708fd1831025",
+            "albumcover": [
+                {
+                    "id": "371797",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/poison-621473045991d.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:44:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1b0a1d5d-8d87-4627-8e01-1e1f0dcf0b5a",
+            "albumcover": [
+                {
+                    "id": "409184",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/the-dawn-fm-experience-647214a3b7736.jpg",
+                    "likes": "0",
+                    "added": "2023-05-27 17:09:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b4f0a78c-ca71-4aaa-9d14-d29281a456d3",
+            "albumcover": [
+                {
+                    "id": "409183",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/live-at-sofi-stadium-64721475b8935.jpg",
+                    "likes": "0",
+                    "added": "2023-05-27 17:08:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f0e7ea1e-098a-44a9-8e6f-e449d0ebf6c6",
+            "albumcover": [
+                {
+                    "id": "371799",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/take-my-breath-6214732b45f49.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:44:18"
+                },
+                {
+                    "id": "368861",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/take-my-breath-61e465bd176ea.jpg",
+                    "likes": "0",
+                    "added": "2022-01-17 14:23:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0101553b-30f6-404e-935c-751250c4c99a",
+            "albumcover": [
+                {
+                    "id": "371798",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/take-my-breath-moris-blak-remix-62147307a28c0.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:44:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f7783968-670e-4991-a5d6-56a2e2dea758",
+            "albumcover": [
+                {
+                    "id": "368858",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/tears-in-the-club-61e464a3c5b08.jpg",
+                    "likes": "0",
+                    "added": "2022-01-17 14:20:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "08fd4eae-2f20-468b-875b-e8a66d3caba6",
+            "albumcover": [
+                {
+                    "id": "371796",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/or-nah-remix-621472d4bad2b.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:44:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3fd96f85-3c46-462f-9a49-86f3aad04f68",
+            "albumcover": [
+                {
+                    "id": "294722",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/blinding-lights-major-lazer-remix-5e991ea030a72.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 07:30:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "56684b3a-759a-42fa-9098-c7e7ab7a853c",
+            "albumcover": [
+                {
+                    "id": "371794",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/might-not-621472a707b9c.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:44:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "44d471da-0c22-4ee3-88a6-80cfed469301",
+            "albumcover": [
+                {
+                    "id": "371793",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/better-believe-621472a43eb56.jpg",
+                    "likes": "0",
+                    "added": "2022-02-22 14:45:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fe332788-c2d5-46f6-a18d-ddb2fa534d7f",
+            "albumcover": [
+                {
+                    "id": "368860",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/one-right-now-61e4657603ad8.jpg",
+                    "likes": "0",
+                    "added": "2022-01-17 14:23:27"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d8fe1539-22a9-4648-b771-8221f589ec9b",
+            "albumcover": [
+                {
+                    "id": "368859",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/la-fama-61e4651d87d6f.jpg",
+                    "likes": "0",
+                    "added": "2022-01-17 14:22:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c134a17e-f97c-4cce-989b-80a0c2eea13f",
+            "albumcover": [
+                {
+                    "id": "284341",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/lust-for-life-bloodpop-remix-5e28a200bd389.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6fe82196-df5d-4938-aa39-920df5b4517d",
+            "albumcover": [
+                {
+                    "id": "177722",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/house-of-balloons-55ecb54cc8dc6.jpg",
+                    "likes": "0",
+                    "added": "2015-09-07 01:01:09"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0f813c16-1663-49fa-8316-fb32766dd554",
+            "albumcover": [
+                {
+                    "id": "226928",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/i-feel-it-coming-59ca2dfcad535.jpg",
+                    "likes": "0",
+                    "added": "2017-09-26 12:59:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a827d288-00f7-47ad-982e-10ccbe67e9c7",
+            "albumcover": [
+                {
+                    "id": "226929",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/party-monster-59ca2dfcb1260.jpg",
+                    "likes": "0",
+                    "added": "2017-09-26 12:47:09"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5721d828-228e-439d-8bd8-307420b4ffda",
+            "albumcover": [
+                {
+                    "id": "226930",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/die-for-you-59ca2fa9683f5.jpg",
+                    "likes": "0",
+                    "added": "2017-09-26 12:58:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "282518ea-9019-43b8-8449-c2ec87629ced",
+            "albumcover": [
+                {
+                    "id": "275846",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/reminder-remix-5d744fa07c5ef.jpg",
+                    "likes": "0",
+                    "added": "2019-09-08 17:53:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9b905cac-df8d-4942-bc4e-4fe0f2ed635f",
+            "albumcover": [
+                {
+                    "id": "284337",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/blinding-lights-5e2898b532b1c.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:53:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5bdb59e9-6dcd-42e3-add9-2d829ab494c5",
+            "albumcover": [
+                {
+                    "id": "284339",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/heartless-5e28a11f64032.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4f37b4c0-7360-4bbc-b859-aeea20e983dc",
+            "albumcover": [
+                {
+                    "id": "284340",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/false-alarm-5e28a16d516e2.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e5066e77-727b-4d28-91f0-b539240aa9da",
+            "albumcover": [
+                {
+                    "id": "328875",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/blinding-lights-remix-6032eea972ced.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:20:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9a88c4e1-fabe-40a0-9842-6727fc06389f",
+            "albumcover": [
+                {
+                    "id": "284345",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/lust-for-life-the-avener-rework-5e28a36f988ef.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0d8f58f8-f96c-461c-a71f-9a8753520156",
+            "albumcover": [
+                {
+                    "id": "284349",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/nocturnal-disclosure-vip-5e28a44d06fe4.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:29"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0af17ae2-5cd2-4646-a2d4-c16c648adeec",
+            "albumcover": [
+                {
+                    "id": "284350",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/one-of-those-nights-5e28a4af34369.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d27ab5c0-7b64-404b-af71-54576c2ef4fc",
+            "albumcover": [
+                {
+                    "id": "284351",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/wild-love-5e28a5f9720b8.jpg",
+                    "likes": "0",
+                    "added": "2020-01-24 15:52:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b39f7314-a2b8-4b59-8ded-de5a3df1d04b",
+            "albumcover": [
+                {
+                    "id": "284528",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/the-hills-5e2b73a48be62.jpg",
+                    "likes": "0",
+                    "added": "2020-01-25 23:29:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "286591d4-ade8-4d24-a804-7024a9b565a4",
+            "albumcover": [
+                {
+                    "id": "291053",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/my-dear-melancholy-5e7572ce4851f.jpg",
+                    "likes": "0",
+                    "added": "2020-03-22 01:25:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "966a9bb3-ab85-4957-a9b7-06599d720026",
+            "albumcover": [
+                {
+                    "id": "294721",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/after-hours-remixes-5e991e0188178.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 07:30:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "362d10f6-39a7-45bf-8a2d-681e273e6871",
+            "albumcover": [
+                {
+                    "id": "294723",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/the-hills-remixes-5e9921a1d460e.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 07:30:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e0fd4b70-8fca-4f4a-b392-6f20f2510294",
+            "albumcover": [
+                {
+                    "id": "294788",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/cant-feel-my-face-martin-garrix-remix-5e99ae818eeb3.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 14:09:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "72087170-41c6-4371-a87c-47061feeda10",
+            "albumcover": [
+                {
+                    "id": "294809",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/echoes-of-silence-5e99b2654cfee.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 14:09:08"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e6e94a77-fea6-4778-bcdd-6977c775493f",
+            "albumcover": [
+                {
+                    "id": "294818",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/cant-feel-my-face-5e99b42a8c6d5.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 14:07:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "159e9b33-a800-4891-aba0-9e068264d312",
+            "albumcover": [
+                {
+                    "id": "295027",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/starboy-kygo-remix-5e9a6bd4b8a14.jpg",
+                    "likes": "0",
+                    "added": "2020-04-18 07:56:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "083bebaa-fcc1-43cb-8b93-463aac070cbe",
+            "albumcover": [
+                {
+                    "id": "324701",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/the-weeknd-in-japan-6004763f05684.jpg",
+                    "likes": "0",
+                    "added": "2021-01-17 22:09:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "13f521bb-a0bb-484d-a2f3-cf087dee2385",
+            "albumcover": [
+                {
+                    "id": "328874",
+                    "url": "https://assets.fanart.tv/fanart/music/c8b03190-306c-4120-bb0b-6f2ebfc06ea9/albumcover/hawi-remix-6032ee1990999.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:20:28"
+                }
+            ]
+        }
+    ]
+}

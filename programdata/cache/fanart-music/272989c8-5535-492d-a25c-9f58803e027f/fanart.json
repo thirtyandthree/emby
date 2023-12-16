@@ -1,0 +1,132 @@
+{
+    "name": "SZA",
+    "mbid_id": "272989c8-5535-492d-a25c-9f58803e027f",
+    "artistthumb": [
+        {
+            "id": "288616",
+            "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/artistthumb/sza-5e5d71dba89a6.jpg",
+            "likes": "2",
+            "added": "2020-03-03 05:44:41"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "399277",
+            "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/artistbackground/sza-63b6dfb63c183.jpg",
+            "likes": "0",
+            "added": "2023-01-06 13:10:58"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "ad0468a5-0f65-4174-b17b-a33916f58f0c",
+            "albumcover": [
+                {
+                    "id": "219438",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/love-galore-592114c4ab6b3.jpg",
+                    "likes": "0",
+                    "added": "2017-05-21 05:15:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2e9afe4b-4890-4a92-a684-459d1b189eac",
+            "albumcover": [
+                {
+                    "id": "325646",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/the-other-side-from-trolls-world-tour-60101a50e0961.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 14:53:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "01cc1560-e713-4835-b8ec-aba1823ede8b",
+            "albumcover": [
+                {
+                    "id": "325647",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/the-other-side-from-trolls-world-tour-ovy-on-the-drums-remix-60101a716efd7.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 14:53:44"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3102179c-3b1b-47a3-9c68-0b7932f209ca",
+            "albumcover": [
+                {
+                    "id": "325648",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/the-other-side-from-trolls-world-tour-oliver-heldens-remix-60101a92d4952.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 14:53:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "40035d98-27d5-42a0-b66b-2b790d3a69cf",
+            "albumcover": [
+                {
+                    "id": "325699",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/s-ep-60104f895f581.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 18:21:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "819706ff-4eea-4022-b639-5020c81e9e31",
+            "albumcover": [
+                {
+                    "id": "325701",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/seeszarun-ep-60104fc645097.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 18:21:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9f485525-4d5d-433d-ae7f-5514f8adf461",
+            "albumcover": [
+                {
+                    "id": "325702",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/z-60104fe72d4f5.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 18:21:46"
+                }
+            ]
+        },
+        {
+            "release_group_id": "20539270-070a-42e0-808e-31abbf8bd3dc",
+            "albumcover": [
+                {
+                    "id": "325703",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/sza-6010501293fc0.jpg",
+                    "likes": "0",
+                    "added": "2021-01-26 18:21:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8f892c1b-0709-4cf4-9711-493892a9eb9b",
+            "albumcover": [
+                {
+                    "id": "398264",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/ctrl-63a319de37c03.jpg",
+                    "likes": "0",
+                    "added": "2022-12-21 20:35:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1646286a-d0ad-4288-bfab-34b0fb7b22c1",
+            "albumcover": [
+                {
+                    "id": "398265",
+                    "url": "https://assets.fanart.tv/fanart/music/272989c8-5535-492d-a25c-9f58803e027f/albumcover/sos-63a31a01b5d78.jpg",
+                    "likes": "0",
+                    "added": "2022-12-21 20:20:56"
+                }
+            ]
+        }
+    ]
+}

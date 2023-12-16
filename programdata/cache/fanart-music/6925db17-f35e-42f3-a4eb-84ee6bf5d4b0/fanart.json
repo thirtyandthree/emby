@@ -1,0 +1,80 @@
+{
+    "name": "Olivia Rodrigo",
+    "mbid_id": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+    "hdmusiclogo": [
+        {
+            "id": "384645",
+            "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/hdmusiclogo/rodrigo-olivia-62e030b7bc26b.png",
+            "likes": "0",
+            "added": "2022-07-27 03:57:19"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "2ae2e504-7116-4b4f-b632-9748bb18ccd2",
+            "albumcover": [
+                {
+                    "id": "338839",
+                    "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/albumcover/sour-609a645540881.jpg",
+                    "likes": "1",
+                    "added": "2021-05-11 11:37:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "83920a38-e749-4bbf-a7f6-8aaf77cb9475",
+            "albumcover": [
+                {
+                    "id": "415774",
+                    "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/albumcover/guts-64fe0cb1c3236.jpg",
+                    "likes": "1",
+                    "added": "2023-09-14 03:59:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b6085650-a88d-43a3-9b63-d907a33a1cc0",
+            "albumcover": [
+                {
+                    "id": "326072",
+                    "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/albumcover/drivers-license-60145486b5418.jpg",
+                    "likes": "0",
+                    "added": "2021-01-29 20:07:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c48b6971-cdd4-4b96-9dc9-2f20a5ba3d83",
+            "albumcover": [
+                {
+                    "id": "326076",
+                    "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/albumcover/all-i-want-from-high-school-musical-the-musical-the-series-601458146eeb7.jpg",
+                    "likes": "0",
+                    "added": "2021-01-29 20:07:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b4c0b3a6-4a6a-47b7-a963-2311bf6bf6d3",
+            "albumcover": [
+                {
+                    "id": "343401",
+                    "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/albumcover/deja-vu-60bef0c5b35b7.jpg",
+                    "likes": "0",
+                    "added": "2021-06-08 07:31:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "32b48679-cf56-4ad9-9405-bcdb00bd878b",
+            "albumcover": [
+                {
+                    "id": "343402",
+                    "url": "https://assets.fanart.tv/fanart/music/6925db17-f35e-42f3-a4eb-84ee6bf5d4b0/albumcover/good-4-u-60bef0c5c521b.jpg",
+                    "likes": "0",
+                    "added": "2021-06-08 07:31:16"
+                }
+            ]
+        }
+    ]
+}

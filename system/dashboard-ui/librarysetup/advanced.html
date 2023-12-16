@@ -1,0 +1,64 @@
+﻿<div is="emby-scroller" class="view flex flex-direction-column scrollFrameY flex-grow withTabs" data-mousewheel="true" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" data-bindheader="true">
+    <div class="scrollSlider flex-grow flex-direction-column padded-left padded-left-page padded-right padded-bottom-page padded-top-page settingsContainer">
+        <form class="librarySettingsForm padded-top auto-center">
+
+            <div class="selectContainer">
+                <select is="emby-select" class="selectDateAdded" label="${LabelDateAddedBehavior}">
+                    <option value="0">${OptionDateAddedImportTime}</option>
+                    <option value="1">${OptionDateAddedFileTime}</option>
+                </select>
+                <div class="fieldDescription">${LabelDateAddedBehaviorHelp}</div>
+            </div>
+            <div class="inputContainer">
+                <div class="flex align-items-center">
+                    <div class="flex-grow">
+                        <input is="emby-input" class="txtMetadataPath" label="${LabelMetadataPath}" autocomplete="off" />
+                    </div>
+                    <button type="button" is="paper-icon-button-light" title="${ButtonSelectDirectory}" class="btnSelectMetadataPath emby-input-iconbutton"><i class="md-icon">search</i></button>
+                </div>
+                <div class="fieldDescription metadataPathDescription"></div>
+                <input type="hidden" class="txtMetadataNetworkPath" />
+            </div>
+
+            <div class="checkboxContainer checkboxContainer-withDescription fldPeopleMetadata hide">
+                <label>
+                    <input class="chkPeopleMetadata" type="checkbox" is="emby-checkbox" />
+                    <span>${EnableReadingAndWritingPeopleMetadata}</span>
+                </label>
+                <div class="fieldDescription checkboxFieldDescription">${EnableReadingAndWritingPeopleMetadataHelp}</div>
+            </div>
+
+            <div class="selectContainer">
+                <select is="emby-select" class="selectTrackTitleDisplay" label="${LabelTrackTitleDisplay}">
+                    <option value="">${GenerateUserFriendlyTrackTitles}</option>
+                    <option value="original">${PreferOriginalTrackTitles}</option>
+                </select>
+                <div class="fieldDescription">${TrackTitleDisplayHelp}</div>
+            </div>
+
+            <div class="checkboxContainer checkboxContainer-withDescription">
+                <label>
+                    <input class="chkExternalContentInSuggestions" type="checkbox" is="emby-checkbox" />
+                    <span>${OptionEnableExternalContentInSuggestions}</span>
+                </label>
+                <div class="fieldDescription checkboxFieldDescription">${OptionEnableExternalContentInSuggestionsHelp}</div>
+            </div>
+
+            <h2>${HeaderPreferredMetadataLanguage}</h2>
+
+            <p style="margin:1.5em 0;">${DefaultMetadataLangaugeDescription}</p>
+
+            <div class="selectContainer">
+                <select is="emby-select" class="selectLanguage" required="required" label="${LabelLanguage}"></select>
+            </div>
+
+            <div class="selectContainer">
+                <select is="emby-select" class="selectCountry" required="required" label="${LabelCountry}"></select>
+            </div>
+
+            <br />
+            <button is="emby-button" type="submit" class="raised button-submit block"><span>${Save}</span></button>
+
+        </form>
+    </div>
+</div>

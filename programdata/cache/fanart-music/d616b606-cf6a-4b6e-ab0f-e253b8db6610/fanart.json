@@ -1,0 +1,31 @@
+{
+    "name": "J.I.D",
+    "mbid_id": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+    "artistthumb": [
+        {
+            "id": "418285",
+            "url": "https://assets.fanart.tv/fanart/music/d616b606-cf6a-4b6e-ab0f-e253b8db6610/artistthumb/jid-65342b2648e1e.jpg",
+            "likes": "1",
+            "added": "2023-10-21 20:33:47"
+        },
+        {
+            "id": "294434",
+            "url": "https://assets.fanart.tv/fanart/music/d616b606-cf6a-4b6e-ab0f-e253b8db6610/artistthumb/jid-5e97298826c63.jpg",
+            "likes": "0",
+            "added": "2020-04-15 19:59:02"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "9817edbb-b1a1-419d-afab-b0ee3f214550",
+            "albumcover": [
+                {
+                    "id": "388138",
+                    "url": "https://assets.fanart.tv/fanart/music/d616b606-cf6a-4b6e-ab0f-e253b8db6610/albumcover/the-forever-story-631791c999707.jpg",
+                    "likes": "0",
+                    "added": "2022-09-08 05:54:48"
+                }
+            ]
+        }
+    ]
+}

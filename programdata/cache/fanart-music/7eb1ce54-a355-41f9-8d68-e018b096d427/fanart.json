@@ -1,0 +1,121 @@
+{
+    "name": "Harry Styles",
+    "mbid_id": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+    "artistbackground": [
+        {
+            "id": "372005",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistbackground/styles-harry-62174c705558e.jpg",
+            "likes": "0",
+            "added": "2022-03-03 18:52:16"
+        },
+        {
+            "id": "382669",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistbackground/styles-harry-62b857a62ee3c.jpg",
+            "likes": "0",
+            "added": "2022-07-11 19:19:01"
+        },
+        {
+            "id": "382670",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistbackground/styles-harry-62b857b3ebc44.jpg",
+            "likes": "0",
+            "added": "2022-07-11 19:19:06"
+        },
+        {
+            "id": "382671",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistbackground/styles-harry-62b857c666271.jpg",
+            "likes": "0",
+            "added": "2022-07-11 19:19:59"
+        },
+        {
+            "id": "382672",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistbackground/styles-harry-62b857d365676.jpg",
+            "likes": "0",
+            "added": "2022-07-19 07:38:15"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "382208",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistthumb/styles-harry-62b17777c54b9.jpg",
+            "likes": "0",
+            "added": "2022-06-21 13:33:55"
+        },
+        {
+            "id": "382209",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/artistthumb/styles-harry-62b177f20fa1d.jpg",
+            "likes": "0",
+            "added": "2022-06-21 13:33:53"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "382623",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/hdmusiclogo/styles-harry-62b7977fcae6a.png",
+            "likes": "0",
+            "added": "2022-06-26 11:02:51"
+        },
+        {
+            "id": "382624",
+            "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/hdmusiclogo/styles-harry-62b797c06a086.png",
+            "likes": "0",
+            "added": "2022-06-26 11:02:44"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "05e6b686-b590-472a-9924-e623b223cb6d",
+            "albumcover": [
+                {
+                    "id": "226775",
+                    "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/albumcover/harry-styles-59c7623a6e6cd.jpg",
+                    "likes": "1",
+                    "added": "2017-09-24 07:52:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f002e8f7-852e-4ece-92ee-c5cac26747bc",
+            "albumcover": [
+                {
+                    "id": "226776",
+                    "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/albumcover/sign-of-the-times-59c7623a73282.jpg",
+                    "likes": "1",
+                    "added": "2017-09-24 07:53:30"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b9990da8-7953-4e64-aea5-065ca9cd3cb7",
+            "albumcover": [
+                {
+                    "id": "281267",
+                    "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/albumcover/fine-line-5df77e07483da.jpg",
+                    "likes": "0",
+                    "added": "2019-12-17 01:18:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d712ba0e-25fa-4c03-aecd-ec0c100deba5",
+            "albumcover": [
+                {
+                    "id": "382322",
+                    "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/albumcover/harrys-house-62b3686f4eccc.jpg",
+                    "likes": "0",
+                    "added": "2022-06-23 15:34:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e67b3091-f71e-4fb7-b098-e1fd6dac4e08",
+            "albumcover": [
+                {
+                    "id": "382323",
+                    "url": "https://assets.fanart.tv/fanart/music/7eb1ce54-a355-41f9-8d68-e018b096d427/albumcover/lights-up-62b3687790909.jpg",
+                    "likes": "0",
+                    "added": "2022-06-23 15:34:26"
+                }
+            ]
+        }
+    ]
+}

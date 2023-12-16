@@ -1,0 +1,21 @@
+﻿<div is="emby-scroller" class="view flex flex-direction-column scrollFrameY flex-grow" data-mousewheel="true" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" data-bindheader="true">
+    <div class="scrollSlider flex-grow flex-direction-column padded-left padded-right padded-top-page padded-bottom-page">
+        <form class="wizardSettingsForm" style="margin: 0 auto;">
+            <h1>${HeaderConfigureRemoteAccess}</h1>
+
+            <div class="checkboxContainer checkboxContainer-withDescription">
+                <label>
+                    <input type="checkbox" is="emby-checkbox" class="chkEnableUpnp" checked />
+                    <span>${LabelEnableAutomaticPortMap}</span>
+                </label>
+                <div class="fieldDescription checkboxFieldDescription">${LabelEnableAutomaticPortMapHelp}</div>
+            </div>
+            <br />
+
+            <div class="flex justify-content-flex-end">
+                <button is="emby-button" type="button" class="raised button-cancel" onclick="history.back();"><i class="md-icon button-icon button-icon-left autortl">&#xE5C4;</i><span>${Previous}</span></button>
+                <button is="emby-button" type="submit" class="raised button-submit"><span>${Next}</span><i class="md-icon button-icon button-icon-right autortl">&#xe5c8;</i></button>
+            </div>
+        </form>
+    </div>
+</div>

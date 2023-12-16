@@ -1,0 +1,201 @@
+{
+    "name": "Andy Williams",
+    "mbid_id": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+    "artistbackground": [
+        {
+            "id": "109893",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistbackground/williams-andy-52d859f5e146e.jpg",
+            "likes": "2",
+            "added": "2014-01-16 22:22:17"
+        },
+        {
+            "id": "37173",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistbackground/williams-andy-4fdda98d9d29c.jpg",
+            "likes": "1",
+            "added": "2012-06-17 18:10:12"
+        },
+        {
+            "id": "135758",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistbackground/williams-andy-541497043e3f7.jpg",
+            "likes": "0",
+            "added": "2014-09-13 20:15:32"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "37175",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistthumb/williams-andy-4fdda9a9184e0.jpg",
+            "likes": "1",
+            "added": "2012-06-17 12:45:49"
+        },
+        {
+            "id": "37176",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistthumb/williams-andy-4fdda9b622c72.jpg",
+            "likes": "1",
+            "added": "2012-06-17 12:45:50"
+        },
+        {
+            "id": "189164",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistthumb/williams-andy-56bae76f82cd8.jpg",
+            "likes": "0",
+            "added": "2016-02-12 09:42:39"
+        },
+        {
+            "id": "126265",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistthumb/williams-andy-53915e7eae4a4.jpg",
+            "likes": "0",
+            "added": "2014-06-06 08:23:00"
+        },
+        {
+            "id": "109892",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistthumb/williams-andy-52d8594e9bc6d.jpg",
+            "likes": "0",
+            "added": "2014-01-16 22:39:33"
+        },
+        {
+            "id": "37174",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/artistthumb/williams-andy-4fdda99b5aa8c.jpg",
+            "likes": "0",
+            "added": "2012-06-17 12:45:48"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "209513",
+            "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/hdmusiclogo/williams-andy-5861a8669179c.png",
+            "likes": "1",
+            "added": "2016-12-27 00:17:47"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "bbec96b0-e492-4b14-b37f-b7d4a074f375",
+            "cdart": [
+                {
+                    "id": "74214",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/cdart/in-the-lounge-with-andy-williams-513b3a84007f8.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-03-11 20:58:21"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "74215",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/in-the-lounge-with-andy-williams-513b3a9d7942c.jpg",
+                    "likes": "1",
+                    "added": "2013-03-11 00:03:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "20edd6e1-b9e0-4276-860f-835abb4532fe",
+            "albumcover": [
+                {
+                    "id": "109896",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/the-very-best-of-andy-williams-52d85b62e3b24.jpg",
+                    "likes": "1",
+                    "added": "2014-01-16 22:25:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3ad926a9-c14b-4a07-acbf-e70992044761",
+            "albumcover": [
+                {
+                    "id": "156273",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/moon-river-550d466b9fbfc.jpg",
+                    "likes": "0",
+                    "added": "2015-03-22 02:44:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b8a0445b-56a0-315b-b67d-f1edd3d643d0",
+            "cdart": [
+                {
+                    "id": "280968",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/cdart/the-andy-williams-christmas-album-5df1c7b05e285.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2019-12-17 20:52:25"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "273625",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/the-andy-williams-christmas-album-5d423a413cc92.jpg",
+                    "likes": "0",
+                    "added": "2019-08-01 17:58:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "de3942c6-87ef-37fe-b111-b419ba77833b",
+            "cdart": [
+                {
+                    "id": "280967",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/cdart/moon-river--other-great-movie-themes-5df1c74410cd1.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2019-12-17 20:52:20"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "273633",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/moon-river--other-great-movie-themes-5d4259297e675.jpg",
+                    "likes": "0",
+                    "added": "2019-08-01 17:59:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e0721886-d20f-3d9c-9c89-79bc21e2848b",
+            "albumcover": [
+                {
+                    "id": "273635",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/merry-christmas-5d42668b0f6d6.jpg",
+                    "likes": "0",
+                    "added": "2019-08-01 17:59:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fc60abce-fa09-4847-856b-6e39b0904099",
+            "albumcover": [
+                {
+                    "id": "273634",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/honey-5d425f50e5ca1.jpg",
+                    "likes": "0",
+                    "added": "2019-08-01 17:59:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "67c23e5a-4ea6-3a82-84a4-79bc57f7e927",
+            "albumcover": [
+                {
+                    "id": "273632",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/love-story-5d4258e91d829.jpg",
+                    "likes": "0",
+                    "added": "2019-08-01 17:59:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6af2025c-bfca-3e7c-9297-c38c6b646dab",
+            "albumcover": [
+                {
+                    "id": "185178",
+                    "url": "https://assets.fanart.tv/fanart/music/57cb4257-9855-4a42-b1be-bfba1d9b520d/albumcover/the-love-songs-567ac6246f279.jpg",
+                    "likes": "0",
+                    "added": "2016-01-02 12:29:36"
+                }
+            ]
+        }
+    ]
+}

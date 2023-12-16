@@ -1,0 +1,114 @@
+{
+    "name": "Mitski",
+    "mbid_id": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+    "hdmusiclogo": [
+        {
+            "id": "270654",
+            "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/hdmusiclogo/mitski-5d0d5affea9f6.png",
+            "likes": "0",
+            "added": "2019-06-22 16:09:59"
+        },
+        {
+            "id": "384635",
+            "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/hdmusiclogo/mitski-62e002512b4f0.png",
+            "likes": "0",
+            "added": "2022-07-27 03:55:44"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "18564a20-d557-4f7c-81e7-8d1d40a1be55",
+            "albumcover": [
+                {
+                    "id": "257382",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/be-the-cowboy-5c5e09f0317fa.jpg",
+                    "likes": "1",
+                    "added": "2019-02-09 05:18:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "de3537cf-8dac-475a-b456-42227e314d7e",
+            "albumcover": [
+                {
+                    "id": "222760",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/puberty-2-5972bfd4c5b1c.jpg",
+                    "likes": "0",
+                    "added": "2017-07-22 03:38:09"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6c536920-f6a2-41f5-b0d0-bbbf5d1c0d98",
+            "albumcover": [
+                {
+                    "id": "370179",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/audiotree-live-61fc54ef63f67.jpg",
+                    "likes": "0",
+                    "added": "2022-02-05 13:56:13"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f99a6b54-900b-4f17-bdcf-451639873b5d",
+            "albumcover": [
+                {
+                    "id": "370180",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/laurel-hell-61fc54f207818.jpg",
+                    "likes": "0",
+                    "added": "2022-02-05 13:56:25"
+                },
+                {
+                    "id": "370184",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/laurel-hell-61fc55a4e696b.jpg",
+                    "likes": "0",
+                    "added": "2022-02-05 13:59:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4d5ce7f9-5eae-4863-a5ea-d6dcd12d79ef",
+            "albumcover": [
+                {
+                    "id": "370181",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/lush-61fc54f70bfc9.jpeg",
+                    "likes": "0",
+                    "added": "2022-02-05 13:56:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a2499c0a-6c87-413c-9f4f-f08a67ab4441",
+            "albumcover": [
+                {
+                    "id": "370182",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/bury-me-at-makeout-creek-61fc5550b360f.jpg",
+                    "likes": "0",
+                    "added": "2022-02-05 13:56:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e2198719-d858-4b80-90b5-5d9338f384a3",
+            "albumcover": [
+                {
+                    "id": "370183",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/retired-from-sad-new-career-in-business-61fc55850d1ec.jpg",
+                    "likes": "0",
+                    "added": "2022-02-05 13:59:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "242741bf-182e-45d9-9276-5af8d1b31ad9",
+            "albumcover": [
+                {
+                    "id": "416116",
+                    "url": "https://assets.fanart.tv/fanart/music/fa58cf24-0e44-421d-8519-8bf461dcfaa5/albumcover/the-land-is-inhospitable-and-so-are-we-650596a32cce2.jpg",
+                    "likes": "0",
+                    "added": "2023-09-16 12:45:48"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "The Power Station",
+    "mbid_id": "9b0534f9-8582-40b9-b34b-17aed3a638f0",
+    "hdmusiclogo": [
+        {
+            "id": "133655",
+            "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/hdmusiclogo/power-station-the-53faf69d18309.png",
+            "likes": "2",
+            "added": "2014-08-25 09:00:53"
+        },
+        {
+            "id": "133654",
+            "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/hdmusiclogo/power-station-the-53faf68ad9cc2.png",
+            "likes": "1",
+            "added": "2014-08-25 09:04:59"
+        },
+        {
+            "id": "234035",
+            "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/hdmusiclogo/power-station-the-5a5c7a5917e5c.png",
+            "likes": "1",
+            "added": "2018-01-15 10:49:24"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "85556",
+            "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/artistthumb/power-station-the-51bd3733c81b3.jpg",
+            "likes": "0",
+            "added": "2013-06-24 20:23:37"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "27822996-2c20-3af3-b044-2d761f9f15f8",
+            "albumcover": [
+                {
+                    "id": "133657",
+                    "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/albumcover/the-power-station-53faf72cd4cac.jpg",
+                    "likes": "4",
+                    "added": "2014-08-25 08:59:52"
+                },
+                {
+                    "id": "156708",
+                    "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/albumcover/the-power-station-5512ccb6e964f.jpg",
+                    "likes": "0",
+                    "added": "2015-03-27 14:28:29"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "105042",
+                    "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/cdart/the-power-station-528cf261d61a5.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-11-20 19:52:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b8163098-64ab-4da8-a2e7-f3dcf7f23989",
+            "albumcover": [
+                {
+                    "id": "353378",
+                    "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/albumcover/some-like-it-hot--the-heat-is-on-613578b901ded.jpg",
+                    "likes": "3",
+                    "added": "2021-09-07 05:57:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b396b91e-a824-34c8-8b7e-5fce8968b5ed",
+            "albumcover": [
+                {
+                    "id": "156837",
+                    "url": "https://assets.fanart.tv/fanart/music/9b0534f9-8582-40b9-b34b-17aed3a638f0/albumcover/living-in-fear-551544b2db563.jpg",
+                    "likes": "0",
+                    "added": "2015-03-27 15:06:12"
+                }
+            ]
+        }
+    ]
+}

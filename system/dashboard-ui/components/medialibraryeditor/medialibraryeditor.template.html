@@ -1,0 +1,32 @@
+﻿<div class="formDialogHeader">
+    <button type="button" is="emby-dialogclosebutton" closetype="done"></button>
+    <h3 class="formDialogHeaderTitle"></h3>
+</div>
+
+<div is="emby-scroller" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" class="formDialogContent">
+    <div class="scrollSlider dialogContentInner dialog-content-centered padded-left padded-right">
+
+        <div class="infoBanner" style="margin-bottom:1.8em;">
+            ${ChangingMetadataImageSettingsNewContent}
+        </div>
+
+        <div class="inputContainer text-align-end">
+            <label style="width:auto;">
+                <input is="emby-toggle" type="checkbox" class="chkAdvanced noautofocus" />
+                <span>${ShowAdvancedSettings}</span>
+            </label>
+        </div>
+
+        <div class="folders hide verticalSection">
+            <div class="sectionTitleContainer flex align-items-center flex-wrap-wrap focusable" data-focusabletype="nearest">
+                <h2 class="sectionTitle">${Folders}</h2>
+                <button is="emby-button" type="button" class="raised raised-mini btnAddFolder submit sectionTitleButton">
+                    <i class="md-icon button-icon button-icon button-icon-left">&#xE145;</i>
+                    <span>${Add}</span>
+                </button>
+            </div>
+            <div class="folderList sectionContent" style="margin-bottom:1em;"></div>
+        </div>
+        <div class="libraryOptions"></div>
+    </div>
+</div>

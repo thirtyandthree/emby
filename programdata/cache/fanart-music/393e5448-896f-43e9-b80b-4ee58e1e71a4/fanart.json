@@ -1,0 +1,68 @@
+{
+    "name": "The Ronettes",
+    "mbid_id": "393e5448-896f-43e9-b80b-4ee58e1e71a4",
+    "artistbackground": [
+        {
+            "id": "44978",
+            "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/artistbackground/ronettes-the-50121242e062b.jpg",
+            "likes": "1",
+            "added": "2012-07-28 13:33:25"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "110445",
+            "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/artistthumb/ronettes-the-52df5b4aa2e55.jpg",
+            "likes": "1",
+            "added": "2014-01-22 15:59:19"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "208309",
+            "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/hdmusiclogo/ronettes-the-584dcb4f890f6.png",
+            "likes": "0",
+            "added": "2016-12-11 23:09:06"
+        },
+        {
+            "id": "209754",
+            "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/hdmusiclogo/ronettes-the-5865706c7b16c.png",
+            "likes": "0",
+            "added": "2016-12-30 00:09:18"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "e10d6fe5-b554-377e-b397-cadd8e1a150c",
+            "albumcover": [
+                {
+                    "id": "133884",
+                    "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/albumcover/-presenting-the-fabulous-ronettes-53fd50eeb2c96.jpg",
+                    "likes": "1",
+                    "added": "2014-08-27 06:20:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5182cf12-26c3-3e1c-b427-1499a2f3be64",
+            "albumcover": [
+                {
+                    "id": "133882",
+                    "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/albumcover/the-ronettes-featuring-veronica-53fd5050625bf.jpg",
+                    "likes": "0",
+                    "added": "2014-08-27 06:20:06"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "133885",
+                    "url": "https://assets.fanart.tv/fanart/music/393e5448-896f-43e9-b80b-4ee58e1e71a4/cdart/the-ronettes-featuring-veronica-53fd552f14be8.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2014-08-27 06:11:39"
+                }
+            ]
+        }
+    ]
+}

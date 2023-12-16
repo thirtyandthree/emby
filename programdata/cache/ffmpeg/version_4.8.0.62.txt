@@ -1,0 +1,13 @@
+﻿ffmpeg version 5.1-emby_2023_06_25 Copyright (c) 2000-2022 the FFmpeg developers and softworkz for Emby LLC
+built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+configuration:  --pkg-config=pkgconf --cc='ccache gcc' --cxx='ccache g++' --ld='ccache g++' --extra-cxxflags=-fpermissive --extra-cflags=-Wno-int-conversion --extra-version='""' --disable-doc --disable-debug --enable-amf --enable-bzlib --enable-cuvid --enable-d3d11va --enable-dxva2 --enable-iconv --enable-lzma --enable-schannel --enable-zlib --disable-sdl2 --enable-cuda --enable-ffnvcodec --enable-nvenc --enable-nvdec --enable-cuda-llvm --disable-cuda-nvcc --disable-ptx-compression --disable-mediafoundation --disable-vulkan --enable-gmp --enable-libmp3lame --enable-libopus --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libx265 --enable-libdav1d --enable-libaribb24 --disable-librtmp --enable-fontconfig --enable-libass --enable-libbluray --enable-libfreetype --enable-libmfx --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvo-amrwbenc --enable-libwebp --enable-libzimg --enable-libshine --enable-gpl --disable-avisynth --enable-libxvid --enable-libaom --enable-version3 --enable-chromaprint --enable-libtesseract --enable-libzvbi --enable-opencl --extra-cflags=-DLIBTWOLAME_STATIC --extra-libs=-lstdc++ --extra-cflags=-DCHROMAPRINT_NODLL --extra-libs=-lstdc++
+libavutil      57. 28.100 / 57. 28.100
+libavcodec     59. 37.100 / 59. 37.100
+libavformat    59. 27.100 / 59. 27.100
+libavdevice    59.  7.100 / 59.  7.100
+libavfilter     8. 44.100 /  8. 44.100
+libswscale      6.  7.100 /  6.  7.100
+libswresample   4.  7.100 /  4.  7.100
+libpostproc    56.  6.100 / 56.  6.100
+EXIT
+

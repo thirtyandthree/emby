@@ -1,0 +1,34 @@
+﻿<div class="formDialogHeader">
+    <button type="button" is="emby-dialogclosebutton"></button>
+    <h3 class="formDialogHeaderTitle">
+    </h3>
+</div>
+
+<div is="emby-scroller" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" class="formDialogContent">
+    <div class="scrollSlider">
+        <div class="dialogContentInner dialog-content-centered padded-left padded-right padded-top">
+
+            <form>
+                <div class="warningBanner hide" style="margin-bottom:2em;">
+                    <i class="md-icon warningBannerIcon">warning</i>
+                    <span class="warningBannerText">${AdvancedOptionsWarning}</span>
+                </div>
+
+                <div class="codecConfig"></div>
+
+                <button is="emby-button" type="button" class="button-link btnReset hide">
+                    <span>${HeaderResetToDefault}</span>
+                </button>
+
+                <div class="codecInfo"></div>
+
+                <div class="formDialogFooter hide">
+                    <button is="emby-button" type="submit" class="raised button-submit block btnSave hide">
+                        <span>${Save}</span>
+                    </button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

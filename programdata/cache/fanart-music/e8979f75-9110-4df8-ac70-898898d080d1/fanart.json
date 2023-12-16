@@ -1,0 +1,405 @@
+{
+    "name": "Maluma",
+    "mbid_id": "e8979f75-9110-4df8-ac70-898898d080d1",
+    "hdmusiclogo": [
+        {
+            "id": "248223",
+            "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/hdmusiclogo/maluma-5ba90856e3a84.png",
+            "likes": "0",
+            "added": "2018-09-24 20:29:20"
+        },
+        {
+            "id": "248224",
+            "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/hdmusiclogo/maluma-5ba9085f3a531.png",
+            "likes": "0",
+            "added": "2018-09-24 20:29:29"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "bfc8f580-d636-4017-bfc6-fdc2ee535530",
+            "albumcover": [
+                {
+                    "id": "316837",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/el-prstamo-5f98090dd4ac4.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:17:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cc7e42be-4f01-44b0-9549-8fa3694b78b8",
+            "albumcover": [
+                {
+                    "id": "316754",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/maldad-5f96d2d6d49d4.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:23:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4ff3353b-843a-4501-9acc-8266c90f5f0e",
+            "albumcover": [
+                {
+                    "id": "316757",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/admv-5f96d6efc7985.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:33:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2d0b40dd-8a5c-4f64-a110-01a1c112d0e8",
+            "albumcover": [
+                {
+                    "id": "316758",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/qu-pena-5f96d6efd6a0b.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:33:14"
+                }
+            ]
+        },
+        {
+            "release_group_id": "51f7af6f-d67a-4468-b849-23b6df8b6684",
+            "albumcover": [
+                {
+                    "id": "316759",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/la-respuesta-5f96d943b925c.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:33:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a1886f36-9a89-451a-93f4-528c1796c133",
+            "albumcover": [
+                {
+                    "id": "316760",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/medelln-5f96da605e4a1.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:33:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "24ea90c3-f024-4519-b782-813637392683",
+            "albumcover": [
+                {
+                    "id": "316761",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/vivir-bailando-5f96db1ca01c8.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:33:29"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f7f4f8d2-917f-40da-bcf3-c22473ff243a",
+            "albumcover": [
+                {
+                    "id": "316762",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/creme-5f96dbda70dc2.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:33:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2c2be011-757a-4660-ad1f-b1f41791ae90",
+            "albumcover": [
+                {
+                    "id": "316835",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/corazn-5f98090db5aa2.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:17:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e0d0c30d-c7eb-45ad-92a0-ca1de1fa003a",
+            "albumcover": [
+                {
+                    "id": "316836",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/el-perdedor-x-version-5f98090dc4c24.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:17:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "671a691b-84ee-45c8-a240-9590252f878f",
+            "albumcover": [
+                {
+                    "id": "316752",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/lonely-5f96d1a43fdc8.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:24:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f9318d08-8367-4141-8b0c-c8fd70a047bf",
+            "albumcover": [
+                {
+                    "id": "316838",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/gps-5f98090de3a87.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:18:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a9f02d6d-0a3a-4346-a1a2-578cd635ed14",
+            "albumcover": [
+                {
+                    "id": "316842",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/todo-el-amor-5f9809532cf3d.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:18:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "13f521bb-a0bb-484d-a2f3-cf087dee2385",
+            "albumcover": [
+                {
+                    "id": "328893",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/hawi-remix-603333a1a2e23.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 07:38:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "847a39f5-3855-4a33-9556-c81bb87411b4",
+            "albumcover": [
+                {
+                    "id": "398088",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/s-o-no-63a158d141a18.jpg",
+                    "likes": "0",
+                    "added": "2022-12-20 11:20:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "24a7e672-be80-4d3b-9202-8782e92ae1be",
+            "albumcover": [
+                {
+                    "id": "398089",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/sim-ou-no-63a158da705ef.jpg",
+                    "likes": "0",
+                    "added": "2022-12-20 11:21:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ba4614d4-2bdc-4bc1-9de5-ab0f39598d60",
+            "albumcover": [
+                {
+                    "id": "398212",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/mi-nia-remix-63a2a3c591b6e.jpg",
+                    "likes": "0",
+                    "added": "2022-12-21 06:30:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eafcc5c0-f822-47d7-a5ed-ab826afe1b13",
+            "albumcover": [
+                {
+                    "id": "399373",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/el-que-espera-63b86db9de902.jpg",
+                    "likes": "0",
+                    "added": "2023-01-07 01:15:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3936b029-01db-4653-942f-35abddfe216d",
+            "albumcover": [
+                {
+                    "id": "399381",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/mala-ma-remix-63b871411d1a3.jpg",
+                    "likes": "0",
+                    "added": "2023-01-07 01:16:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e80f4868-8c4f-4518-955e-15d1a62ced43",
+            "albumcover": [
+                {
+                    "id": "316719",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/papi-juancho-5f96abf8b564f.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:34:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9a4d9d0a-f162-494e-b6dd-05b9f7695466",
+            "albumcover": [
+                {
+                    "id": "233333",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/vivo-pensando-en-ti-5a4cfe5047435.jpg",
+                    "likes": "0",
+                    "added": "2018-01-03 16:51:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3e4f1b0a-7487-424f-9e4f-39e04ecd57ab",
+            "albumcover": [
+                {
+                    "id": "233335",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/magia-5a4cfef803319.jpg",
+                    "likes": "0",
+                    "added": "2018-01-03 16:59:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ceb37da0-f665-42c3-9dbf-650f7ea8a480",
+            "albumcover": [
+                {
+                    "id": "233336",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/pbdb-the-mixtape-5a4cff83ef6bd.jpg",
+                    "likes": "0",
+                    "added": "2018-01-03 16:52:46"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ffdb6ffe-5aa7-4fa9-a2c8-edcff9e11716",
+            "albumcover": [
+                {
+                    "id": "316690",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/1111-5f95e500cf5af.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 17:18:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bacd344a-44e6-4b0f-8545-57d633e48e0a",
+            "albumcover": [
+                {
+                    "id": "316717",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/fame-5f96ab211f710.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:41:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8b20e6cf-fbd8-426a-923c-c463fda2562a",
+            "albumcover": [
+                {
+                    "id": "316718",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/sin-contrato-5f96ab212f11c.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:34:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "30f05897-7c3d-457d-bb1f-dbfe6ce3c28c",
+            "albumcover": [
+                {
+                    "id": "233332",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/pretty-boy-dirty-boy-5a4cfd9930acb.jpg",
+                    "likes": "0",
+                    "added": "2018-01-03 16:51:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2869e4e0-1a84-4669-8d7f-5ceba41c0211",
+            "albumcover": [
+                {
+                    "id": "316720",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/qu-chimba-5f96abf8c49af.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:34:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6f0eb570-a266-4928-9d5d-3dbc8cdec3ae",
+            "albumcover": [
+                {
+                    "id": "316721",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/hawi-5f96ace0dff0e.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:34:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5cd363c5-2bc2-49f1-82c4-016b545bb2a4",
+            "albumcover": [
+                {
+                    "id": "316722",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/hp-5f96ace0ef123.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:34:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a04ce0bd-b89b-4d81-972c-8ec4fe7e5592",
+            "albumcover": [
+                {
+                    "id": "316723",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/borr-cassette-5f96adb16da15.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:34:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a08524a9-7063-48c8-aa63-46bb88c5ddaa",
+            "albumcover": [
+                {
+                    "id": "316724",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/colors-5f96adb17cebe.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 12:41:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0090249b-3b4b-4485-bf03-d19c5dcfc24e",
+            "albumcover": [
+                {
+                    "id": "316749",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/felices-los-4-5f96d03bdc4da.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:23:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fa95f35b-a3d3-45fa-845a-2c54f08ac9ce",
+            "albumcover": [
+                {
+                    "id": "316750",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/felices-los-4-salsa-version-5f96d03beb658.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:23:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6eedcf8e-e9ba-4f7c-8f24-85032d712615",
+            "albumcover": [
+                {
+                    "id": "316751",
+                    "url": "https://assets.fanart.tv/fanart/music/e8979f75-9110-4df8-ac70-898898d080d1/albumcover/carnaval-5f96d1a4309ed.jpg",
+                    "likes": "0",
+                    "added": "2020-10-26 22:23:37"
+                }
+            ]
+        }
+    ]
+}

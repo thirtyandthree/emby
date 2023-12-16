@@ -1,0 +1,36 @@
+{
+    "name": "Tate McRae",
+    "mbid_id": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+    "artistthumb": [
+        {
+            "id": "293640",
+            "url": "https://assets.fanart.tv/fanart/music/f9133869-f87c-459c-9aa7-2f176cda7e06/artistthumb/mcrae-tate-5e90101c186b1.jpg",
+            "likes": "1",
+            "added": "2020-04-11 06:40:52"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "bb90b702-c38e-49e9-b0b6-297376b49c51",
+            "albumcover": [
+                {
+                    "id": "326155",
+                    "url": "https://assets.fanart.tv/fanart/music/f9133869-f87c-459c-9aa7-2f176cda7e06/albumcover/you-broke-me-first-6014961094675.jpg",
+                    "likes": "0",
+                    "added": "2021-01-30 04:18:30"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a94888d5-837e-4baa-93f2-6b1be0bafa6f",
+            "albumcover": [
+                {
+                    "id": "326156",
+                    "url": "https://assets.fanart.tv/fanart/music/f9133869-f87c-459c-9aa7-2f176cda7e06/albumcover/all-the-things-i-never-said-601496d23e707.jpg",
+                    "likes": "0",
+                    "added": "2021-01-30 04:18:39"
+                }
+            ]
+        }
+    ]
+}

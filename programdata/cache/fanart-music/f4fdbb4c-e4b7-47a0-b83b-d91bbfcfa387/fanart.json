@@ -1,0 +1,1535 @@
+{
+    "name": "Ariana Grande",
+    "mbid_id": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+    "artistbackground": [
+        {
+            "id": "265264",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc992d26c2eb.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:43:42"
+        },
+        {
+            "id": "265265",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9931ec7937.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:44:26"
+        },
+        {
+            "id": "265266",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc993363ca24.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:23"
+        },
+        {
+            "id": "265267",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9934c74a55.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:48:02"
+        },
+        {
+            "id": "265268",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc99366ed676.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:34"
+        },
+        {
+            "id": "265269",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc99387914d7.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:31"
+        },
+        {
+            "id": "265270",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b74851839.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:29"
+        },
+        {
+            "id": "265271",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b7619a737.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:22"
+        },
+        {
+            "id": "265272",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b78dd38f4.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:18"
+        },
+        {
+            "id": "265273",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b7b7a3eed.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:16"
+        },
+        {
+            "id": "265274",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b7e4d42dd.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:12"
+        },
+        {
+            "id": "265275",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b803605a1.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:10"
+        },
+        {
+            "id": "265276",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5cc9b82cb6000.jpg",
+            "likes": "13",
+            "added": "2019-05-02 03:47:09"
+        },
+        {
+            "id": "265353",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae28d326ff.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:49:13"
+        },
+        {
+            "id": "265354",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae2ed7fcab.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:53:57"
+        },
+        {
+            "id": "265355",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae3479f454.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:54:10"
+        },
+        {
+            "id": "265356",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae371d6944.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:54:22"
+        },
+        {
+            "id": "265357",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae38fcfe78.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:54:35"
+        },
+        {
+            "id": "265358",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae3da6f7da.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:54:47"
+        },
+        {
+            "id": "265359",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae3f45558a.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:55:01"
+        },
+        {
+            "id": "265360",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae4188ac24.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:55:28"
+        },
+        {
+            "id": "265361",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae43b7ca2b.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:55:48"
+        },
+        {
+            "id": "265362",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae451cb09a.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:56:02"
+        },
+        {
+            "id": "265363",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae46c713f5.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:56:16"
+        },
+        {
+            "id": "265364",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae4806003c.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:56:30"
+        },
+        {
+            "id": "265365",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae4967a127.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:56:48"
+        },
+        {
+            "id": "265366",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae4ae415f9.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:57:01"
+        },
+        {
+            "id": "265367",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae4fbab3d4.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:57:14"
+        },
+        {
+            "id": "265368",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae510d50b7.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:57:27"
+        },
+        {
+            "id": "265370",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae53e85469.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:57:48"
+        },
+        {
+            "id": "265371",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae5503bcb2.jpg",
+            "likes": "13",
+            "added": "2019-05-03 00:57:58"
+        },
+        {
+            "id": "265444",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc341ca5f90.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:41:58"
+        },
+        {
+            "id": "265445",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc34493ea30.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:45:37"
+        },
+        {
+            "id": "265446",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc345e13a30.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:42:17"
+        },
+        {
+            "id": "265448",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc348ce693d.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:44:13"
+        },
+        {
+            "id": "265451",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc34e515bb9.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:46:13"
+        },
+        {
+            "id": "265453",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc350c1f648.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:46:47"
+        },
+        {
+            "id": "265454",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc35245b2e0.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:47:11"
+        },
+        {
+            "id": "265455",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc35420a48a.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:47:28"
+        },
+        {
+            "id": "265456",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc3556ad733.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:47:45"
+        },
+        {
+            "id": "265457",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc3575c5b29.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:47:55"
+        },
+        {
+            "id": "265458",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc35915510d.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:48:07"
+        },
+        {
+            "id": "265459",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccc35a4ca046.jpg",
+            "likes": "13",
+            "added": "2019-05-03 19:48:15"
+        },
+        {
+            "id": "265536",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7d3686adb.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:42:58"
+        },
+        {
+            "id": "265537",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7d47b0aad.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:43:22"
+        },
+        {
+            "id": "265538",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7d59cacf0.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:43:35"
+        },
+        {
+            "id": "265539",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7d6bb8869.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:43:51"
+        },
+        {
+            "id": "265540",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7d7fe8528.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:44:05"
+        },
+        {
+            "id": "265541",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7d94c308a.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:44:22"
+        },
+        {
+            "id": "265542",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7db329e18.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:44:34"
+        },
+        {
+            "id": "265543",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7e2567679.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:44:51"
+        },
+        {
+            "id": "265544",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7e6223242.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:45:17"
+        },
+        {
+            "id": "265546",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7ee32c87e.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:48:42"
+        },
+        {
+            "id": "265547",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7f38074cb.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:49:23"
+        },
+        {
+            "id": "265548",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7fa7191e8.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:49:41"
+        },
+        {
+            "id": "265549",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd8000e7818.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:50:04"
+        },
+        {
+            "id": "265550",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd805c23e34.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:50:34"
+        },
+        {
+            "id": "265551",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd808869a09.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:50:46"
+        },
+        {
+            "id": "265552",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd80bba8855.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:51:03"
+        },
+        {
+            "id": "265553",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd81003d420.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:51:16"
+        },
+        {
+            "id": "265554",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd814496f47.jpg",
+            "likes": "13",
+            "added": "2019-05-05 03:52:16"
+        },
+        {
+            "id": "265369",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccae5252ba82.jpg",
+            "likes": "12",
+            "added": "2019-05-03 00:57:38"
+        },
+        {
+            "id": "202745",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-57e587ea45e26.jpg",
+            "likes": "4",
+            "added": "2016-09-25 09:12:58"
+        },
+        {
+            "id": "265545",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5ccd7ea0c3f3e.jpg",
+            "likes": "4",
+            "added": "2019-05-05 03:45:35"
+        },
+        {
+            "id": "162960",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-554d6d49927ab.jpg",
+            "likes": "3",
+            "added": "2015-05-09 18:12:44"
+        },
+        {
+            "id": "78309",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5164af909cce3.jpg",
+            "likes": "1",
+            "added": "2013-04-10 00:26:47"
+        },
+        {
+            "id": "99328",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5245046da1665.jpg",
+            "likes": "1",
+            "added": "2013-09-27 09:49:01"
+        },
+        {
+            "id": "99329",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-524504eb743bb.jpg",
+            "likes": "1",
+            "added": "2013-09-27 09:48:48"
+        },
+        {
+            "id": "162961",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-554d6d4992f68.jpg",
+            "likes": "1",
+            "added": "2015-05-09 18:12:49"
+        },
+        {
+            "id": "61228",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-50a121f6de096.jpg",
+            "likes": "0",
+            "added": "2012-11-13 11:17:25"
+        },
+        {
+            "id": "61229",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-50a121f6de7c0.jpg",
+            "likes": "0",
+            "added": "2012-11-13 11:17:40"
+        },
+        {
+            "id": "61230",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-50a121f6deb84.jpg",
+            "likes": "0",
+            "added": "2012-11-13 15:33:38"
+        },
+        {
+            "id": "78310",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5164af979119c.jpg",
+            "likes": "0",
+            "added": "2013-04-10 00:26:50"
+        },
+        {
+            "id": "78311",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5164af9e65a3a.jpg",
+            "likes": "0",
+            "added": "2013-04-10 00:26:49"
+        },
+        {
+            "id": "162962",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-554d6d4993330.JPG",
+            "likes": "0",
+            "added": "2015-05-09 18:12:54"
+        },
+        {
+            "id": "162963",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-554d6d499369f.jpg",
+            "likes": "0",
+            "added": "2015-05-09 18:13:02"
+        },
+        {
+            "id": "247247",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistbackground/grande-ariana-5b9289c3bf01b.jpg",
+            "likes": "0",
+            "added": "2018-09-07 14:38:22"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "127131",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/hdmusiclogo/grande-ariana-539e0d64a490d.png",
+            "likes": "2",
+            "added": "2014-06-15 21:18:09"
+        },
+        {
+            "id": "127132",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/hdmusiclogo/grande-ariana-539e0d6e2ca00.png",
+            "likes": "0",
+            "added": "2014-06-15 21:18:13"
+        },
+        {
+            "id": "209130",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/hdmusiclogo/grande-ariana-585c08c18e073.png",
+            "likes": "0",
+            "added": "2016-12-22 23:58:36"
+        },
+        {
+            "id": "209133",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/hdmusiclogo/grande-ariana-585c0aa47925f.png",
+            "likes": "0",
+            "added": "2016-12-22 23:58:41"
+        },
+        {
+            "id": "210187",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/hdmusiclogo/grande-ariana-586c0810e3aea.png",
+            "likes": "0",
+            "added": "2017-01-03 23:16:23"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "78312",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5164afb0aa1e5.jpg",
+            "likes": "1",
+            "added": "2013-04-10 12:34:51"
+        },
+        {
+            "id": "247244",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5b9284d6ee12b.jpg",
+            "likes": "1",
+            "added": "2018-09-07 14:38:00"
+        },
+        {
+            "id": "78313",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5164afb7e316f.jpg",
+            "likes": "0",
+            "added": "2013-04-10 12:34:54"
+        },
+        {
+            "id": "266251",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78aab11083.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:30:06"
+        },
+        {
+            "id": "266252",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78be0d8d06.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:30:19"
+        },
+        {
+            "id": "266259",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78c4f9ad59.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:33:51"
+        },
+        {
+            "id": "266261",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78cda8c878.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:34:34"
+        },
+        {
+            "id": "266262",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78d027054b.jpeg",
+            "likes": "0",
+            "added": "2019-05-12 20:34:45"
+        },
+        {
+            "id": "266263",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78d157b3bb.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:34:57"
+        },
+        {
+            "id": "266264",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78d43574c9.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:35:11"
+        },
+        {
+            "id": "266266",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78da2b821d.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:35:22"
+        },
+        {
+            "id": "266267",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/artistthumb/grande-ariana-5cd78dd112163.jpg",
+            "likes": "0",
+            "added": "2019-05-12 20:35:33"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "202962",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/musicbanner/grande-ariana-57e833286801b.jpg",
+            "likes": "1",
+            "added": "2016-09-26 05:30:30"
+        },
+        {
+            "id": "169776",
+            "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/musicbanner/grande-ariana-55a384c14c9b8.jpg",
+            "likes": "0",
+            "added": "2015-07-13 10:34:01"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "dfd582da-ab2e-4009-9365-405bf1ad2c49",
+            "albumcover": [
+                {
+                    "id": "193249",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/dangerous-woman-57060f400a60c.jpg",
+                    "likes": "4",
+                    "added": "2016-04-07 09:02:45"
+                },
+                {
+                    "id": "193250",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/dangerous-woman-57060f4c282e3.jpg",
+                    "likes": "2",
+                    "added": "2016-04-07 09:04:41"
+                },
+                {
+                    "id": "311680",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/dangerous-woman-5f52fb8b9e69f.jpg",
+                    "likes": "0",
+                    "added": "2020-09-05 17:42:53"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "210316",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/cdart/dangerous-woman-58702a22cc8f2.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2017-01-08 10:37:29"
+                }
+            ]
+        },
+        {
+            "release_group_id": "58afd5f5-a3cb-43c4-a0dc-fd15fbfe33bf",
+            "albumcover": [
+                {
+                    "id": "245047",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/sweetener-5b620b4e4b314.jpg",
+                    "likes": "3",
+                    "added": "2018-08-04 05:12:29"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "257588",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/cdart/sweetener-5c605c5aaca07.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2019-02-11 04:24:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "796bcad8-570c-4eda-a633-b699c6a7af4c",
+            "albumcover": [
+                {
+                    "id": "133436",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/my-everything-53f8794985df1.jpg",
+                    "likes": "2",
+                    "added": "2014-08-23 11:24:55"
+                },
+                {
+                    "id": "133965",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/my-everything-53fe278a1c8f0.jpg",
+                    "likes": "2",
+                    "added": "2014-08-27 18:49:37"
+                },
+                {
+                    "id": "193252",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/my-everything-5706105a831e7.jpg",
+                    "likes": "1",
+                    "added": "2016-04-07 09:17:15"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "202975",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/cdart/my-everything-57e84965bc9dd.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2016-09-27 18:36:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d494ab4a-924e-401f-adc3-fb0d2e97013c",
+            "albumcover": [
+                {
+                    "id": "193251",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/focus-570610311f962.jpg",
+                    "likes": "2",
+                    "added": "2016-04-07 09:07:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bbbee1e1-5ab0-4a0b-a9f8-53faf4ad99f0",
+            "albumcover": [
+                {
+                    "id": "193246",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/baby-i-57060e335dbbf.jpg",
+                    "likes": "1",
+                    "added": "2016-04-07 08:55:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d5904d8d-6f6f-45f7-b704-ca2476b9a776",
+            "albumcover": [
+                {
+                    "id": "193247",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/break-free-57060e50517c7.jpg",
+                    "likes": "1",
+                    "added": "2016-04-07 08:56:07"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9ea755e5-f4a7-495a-bea7-c1d55ac6eed4",
+            "albumcover": [
+                {
+                    "id": "193254",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/santa-tell-me-570610d875025.jpg",
+                    "likes": "1",
+                    "added": "2016-04-07 09:08:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1237b040-fb8f-4f23-8000-fb6909486c83",
+            "albumcover": [
+                {
+                    "id": "193256",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/yours-truly-5706112ee25fb.jpg",
+                    "likes": "1",
+                    "added": "2016-04-07 09:11:10"
+                },
+                {
+                    "id": "196410",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/yours-truly-574d60a831b42.jpg",
+                    "likes": "1",
+                    "added": "2016-05-31 19:52:21"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "97599",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/cdart/yours-truly-522d0104f2dde.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-09-09 04:58:11"
+                },
+                {
+                    "id": "99327",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/cdart/yours-truly-5245040c3ab84.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-09-27 06:59:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f13e9262-e8a3-49dc-bb50-00af5970f1be",
+            "albumcover": [
+                {
+                    "id": "193560",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/christmas--chill-570b172b7afdf.jpg",
+                    "likes": "1",
+                    "added": "2016-04-12 03:41:32"
+                },
+                {
+                    "id": "294838",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/christmas--chill-5e99bd8474143.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 17:29:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "51922f10-c8df-41fa-b219-e501df30cf19",
+            "albumcover": [
+                {
+                    "id": "203129",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/one-last-time-57eace549b83c.jpg",
+                    "likes": "1",
+                    "added": "2016-09-28 20:21:08"
+                },
+                {
+                    "id": "202668",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/one-last-time-57e426e5122cf.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:22:33"
+                },
+                {
+                    "id": "366777",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/one-last-time-61c1e3eb03121.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:39:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "485d3241-ef02-49a4-88df-a03eaa86d9cd",
+            "albumcover": [
+                {
+                    "id": "259054",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/thank-u-next-5c70dcfae6ff7.jpg",
+                    "likes": "1",
+                    "added": "2019-02-24 01:58:28"
+                },
+                {
+                    "id": "366779",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/thank-u-next-61c1e3f2924ee.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 12:24:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "72ed70a6-2883-4345-8372-f6f68e18eaf3",
+            "albumcover": [
+                {
+                    "id": "268412",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/problem-5cf04182c2b21.jpg",
+                    "likes": "1",
+                    "added": "2019-05-31 22:49:27"
+                }
+            ]
+        },
+        {
+            "release_group_id": "438d86bf-b03b-4d9a-8022-3d4807926926",
+            "cdart": [
+                {
+                    "id": "367838",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/cdart/positions-61d480052679e.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2022-01-05 04:42:40"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "316851",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/positions-5f9839c2d1380.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:19:20"
+                },
+                {
+                    "id": "317724",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/positions-5fa268752ed5c.jpg",
+                    "likes": "0",
+                    "added": "2020-11-04 11:27:03"
+                },
+                {
+                    "id": "317725",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/positions-5fa2688e606be.jpeg",
+                    "likes": "0",
+                    "added": "2020-11-04 11:27:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cc2ca501-4e2e-4355-91c3-f0692ffa2b07",
+            "albumcover": [
+                {
+                    "id": "62034",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/put-your-hearts-up-50aa274ddb70c.jpg",
+                    "likes": "0",
+                    "added": "2012-11-19 20:10:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0787d7d2-91c9-4f4a-9997-75e0fcd9a41a",
+            "albumcover": [
+                {
+                    "id": "195553",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/bang-bang-57365f1f3bf4b.jpg",
+                    "likes": "0",
+                    "added": "2016-05-14 04:26:07"
+                },
+                {
+                    "id": "265478",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/bang-bang-5ccc709022625.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:32:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fccc9e1d-8d98-4989-b1fb-4818a2785532",
+            "albumcover": [
+                {
+                    "id": "202664",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/christmas-kisses-57e426e510499.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:21:38"
+                },
+                {
+                    "id": "202673",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/christmas-kisses-57e42704cefa2.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:23:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "291adf35-dabd-45b7-9c15-56fc94a9df46",
+            "albumcover": [
+                {
+                    "id": "202665",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/last-christmas-57e426e5110a1.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:21:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6eeab1a9-c21e-428a-a1bb-4ddd379b5a7f",
+            "albumcover": [
+                {
+                    "id": "202666",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/love-is-everything-57e426e51187c.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:21:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "50e42470-3685-4cff-a4fb-b4d0896291d8",
+            "albumcover": [
+                {
+                    "id": "202667",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/love-me-harder-ep-57e426e511ce6.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:22:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bc894fdb-14af-4400-95b8-a28c1c9e1bb7",
+            "albumcover": [
+                {
+                    "id": "202669",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/santa-baby-57e426e5129d9.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:22:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a7e4924a-a4bf-4c52-b585-56c3a4dfa3a3",
+            "albumcover": [
+                {
+                    "id": "202670",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/snow-in-california-57e426e51308e.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:23:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2efc277f-8002-4f44-af6b-79a851d26cae",
+            "albumcover": [
+                {
+                    "id": "202671",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/the-remix-57e426e5136b3.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:23:14"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b9fab94f-37d5-4b42-9baf-26d8c6c69f3d",
+            "albumcover": [
+                {
+                    "id": "202672",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/the-way-57e426e513c94.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:23:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f70dee72-6ad5-4cb1-adc5-efc3f302bb0d",
+            "albumcover": [
+                {
+                    "id": "202674",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/the-way-57e42704d051e.jpg",
+                    "likes": "0",
+                    "added": "2016-09-23 19:23:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fa52d137-9684-477c-86e4-184515270ae3",
+            "albumcover": [
+                {
+                    "id": "229295",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/somewhere-over-the-rainbow-live-from-manchester-5a0146b6a09cf.jpg",
+                    "likes": "0",
+                    "added": "2017-11-07 07:06:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a62719cc-2728-4828-82ea-5f6fb611aab7",
+            "albumcover": [
+                {
+                    "id": "229297",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/side-to-side-remixes-5a014872e65f7.jpg",
+                    "likes": "0",
+                    "added": "2017-11-07 07:06:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "90ff3cc4-e4ad-4327-8200-7350abb688a8",
+            "albumcover": [
+                {
+                    "id": "229305",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/jasons-song-gave-it-away-5a01b57e886d0.jpg",
+                    "likes": "0",
+                    "added": "2017-11-07 13:56:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b6728a22-1934-4840-92ec-096944f20e12",
+            "albumcover": [
+                {
+                    "id": "252239",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/thank-u-next-5c05d02928fb0.jpg",
+                    "likes": "0",
+                    "added": "2018-12-04 04:50:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "782e2ec9-0e9f-4e83-9c57-8bd51e843ac5",
+            "albumcover": [
+                {
+                    "id": "265476",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/7-rings-5ccc709004983.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:32:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "45f8c13a-6fcb-4092-a192-4a79c2af4009",
+            "albumcover": [
+                {
+                    "id": "265477",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/7-rings-remix-5ccc7090138f4.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:32:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a488bc2b-3677-43ea-a10b-f45862c8bf3f",
+            "albumcover": [
+                {
+                    "id": "265479",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/brand-new-you-5ccc70903149c.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:32:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "53582278-10a7-4d7a-8b31-1bf380053591",
+            "albumcover": [
+                {
+                    "id": "265480",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/monopoly-5ccc7090400ed.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:33:07"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c7d8cc7b-145f-4bda-bfb1-b96a4b858c54",
+            "albumcover": [
+                {
+                    "id": "265483",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/no-tears-left-to-cry-5ccc712610c1e.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:38:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0b93bd23-a8c2-4c39-8711-d2edf477abd7",
+            "albumcover": [
+                {
+                    "id": "265485",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/the-light-is-coming-5ccc779a93fd1.jpg",
+                    "likes": "0",
+                    "added": "2019-05-03 19:39:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eeb9f376-58b3-42b7-9b00-a5cc8ddafabf",
+            "albumcover": [
+                {
+                    "id": "275705",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/imagine-5d7244b618df7.jpg",
+                    "likes": "0",
+                    "added": "2019-09-06 18:52:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e73b046d-cd1c-4ea8-94de-fd9e298f9219",
+            "albumcover": [
+                {
+                    "id": "294835",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/k-bye-for-now-swt-live-5e99bcb7c7a53.jpg",
+                    "likes": "0",
+                    "added": "2020-04-17 17:27:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "db98bbfd-90ef-433d-926d-b57cd88f026b",
+            "albumcover": [
+                {
+                    "id": "310081",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/stuck-with-u-5f3ea94c10bc0.jpg",
+                    "likes": "0",
+                    "added": "2020-08-21 00:48:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f71cd67f-bf59-48e6-a89f-359a26e7e977",
+            "albumcover": [
+                {
+                    "id": "311681",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/heatstroke-5f52fb8badafb.jpg",
+                    "likes": "0",
+                    "added": "2020-09-05 17:44:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9ccac222-b337-4127-87b1-e6effcd214f3",
+            "albumcover": [
+                {
+                    "id": "311682",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/one-last-time-attends-moi-5f52fb8bbcd8f.jpg",
+                    "likes": "0",
+                    "added": "2020-09-05 17:44:44"
+                }
+            ]
+        },
+        {
+            "release_group_id": "80465fe3-0016-4fc9-abbf-c2053f59de15",
+            "albumcover": [
+                {
+                    "id": "316850",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/boyfriend-5f9839c2c0f5e.jpg",
+                    "likes": "0",
+                    "added": "2020-10-28 18:19:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "06c74f2f-e1ee-4c32-aee0-3bbbbb02bd11",
+            "albumcover": [
+                {
+                    "id": "366704",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/rain-on-me-61c112a5478de.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:30:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "75560b55-47f1-4d95-8c12-6e34f404f861",
+            "albumcover": [
+                {
+                    "id": "366705",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/rain-on-me-purple-disco-machine-remix-61c112a7c038d.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:30:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3094ae4f-81f4-4afa-806c-ae246381b45b",
+            "albumcover": [
+                {
+                    "id": "366706",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/rain-on-me-ralphi-rosario-remix-61c112aa6e4e7.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:30:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "855a7a8d-b270-4819-98d6-edfbe5951303",
+            "albumcover": [
+                {
+                    "id": "366719",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/3435-remix-61c12b19529e8.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:36:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fe17daa8-d0ad-43e1-8725-d67bc5e3bf6c",
+            "albumcover": [
+                {
+                    "id": "366720",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/adore-61c12b1edf1a6.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:36:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6584f94b-222c-4215-9e93-5fe83e280b32",
+            "albumcover": [
+                {
+                    "id": "366721",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/beauty-and-the-beast-61c12b21a2006.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:36:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "07fd4214-a230-46a8-9061-be6c18c48a62",
+            "albumcover": [
+                {
+                    "id": "366722",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/bed-61c12b23dc323.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:37:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "315a5bd2-57df-4ace-82d0-77906db09124",
+            "albumcover": [
+                {
+                    "id": "366723",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/boys-like-you-61c12b2d5a717.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:37:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b79210e5-596c-4a6a-b083-80e07a9520a3",
+            "albumcover": [
+                {
+                    "id": "366724",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/problem-61c12b30d7259.jpg",
+                    "likes": "0",
+                    "added": "2021-12-21 11:38:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "18968d43-47e5-4a55-8c56-0ac8e3e41435",
+            "albumcover": [
+                {
+                    "id": "366774",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/all-my-love-61c1e3e0711ec.jpeg",
+                    "likes": "0",
+                    "added": "2021-12-23 12:24:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c24a2772-566f-44d5-9b8e-e052dbe48122",
+            "albumcover": [
+                {
+                    "id": "366775",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/breathin-61c1e3e38e2a9.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:40:00"
+                },
+                {
+                    "id": "366889",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/breathin-61c3aae9de374.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:37:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "75d3aab0-f939-4533-97a5-561ce69aed78",
+            "albumcover": [
+                {
+                    "id": "366778",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/side-to-side-61c1e3edc06bb.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:39:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5c320e34-a619-463b-9f10-66acc2b28fff",
+            "albumcover": [
+                {
+                    "id": "366780",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/the-best-61c1e3f5c7b0b.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:39:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ea031af0-7146-4de1-a89c-eaa1e2b52c35",
+            "albumcover": [
+                {
+                    "id": "366781",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/break-up-with-your-girlfriend-im-bored-61c1e43021380.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:40:13"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a6472cf7-2e86-4d72-b582-c7e5fdcd049c",
+            "albumcover": [
+                {
+                    "id": "366782",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/my-favorite-part-61c1e432ec800.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 12:24:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c620fbed-e842-4ab1-860f-69b4fbc0c551",
+            "albumcover": [
+                {
+                    "id": "366783",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/oh-santa-61c1e43679d26.jpg",
+                    "likes": "0",
+                    "added": "2021-12-22 12:35:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5e6b05e2-395e-40e6-9c04-98f2d700a8c3",
+            "albumcover": [
+                {
+                    "id": "366785",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/save-your-tears-remix-61c1e440a18b2.jpg",
+                    "likes": "0",
+                    "added": "2021-12-22 12:35:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ea4e2d58-570b-4d04-b6c6-21d40f40e15e",
+            "albumcover": [
+                {
+                    "id": "366786",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/faith-from-sing-original-motion-picture-soundtrack-61c1e50ebad1b.jpg",
+                    "likes": "0",
+                    "added": "2021-12-22 11:54:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "63c3ee22-cacc-4e3c-b63b-fcd2821cc01d",
+            "albumcover": [
+                {
+                    "id": "366787",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/good-as-hell-remix-61c1e51496a69.jpg",
+                    "likes": "0",
+                    "added": "2021-12-22 12:35:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8fe52b33-6c1c-4438-9994-c2605c1ce2c6",
+            "albumcover": [
+                {
+                    "id": "366890",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/dance-to-this-61c3aaedcca88.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:37:14"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5257da88-a084-49b8-a4d7-cba3317926c9",
+            "albumcover": [
+                {
+                    "id": "366891",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/e-pi-ti-penso-61c3aaf3ec008.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:37:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fee379f1-8c46-48bf-a510-fa309531b515",
+            "albumcover": [
+                {
+                    "id": "366892",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/into-you-61c3aaf65d1a1.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:36:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "12f3110d-9076-4656-80e2-448f772de619",
+            "albumcover": [
+                {
+                    "id": "366893",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/into-you-3lau-remix-61c3aaf8b8dfc.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:36:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "680ca1a5-b131-4ba0-a727-6182bffcce68",
+            "albumcover": [
+                {
+                    "id": "366894",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/into-you-alex-ghenea-remix-61c3aafc512e7.jpg",
+                    "likes": "0",
+                    "added": "2021-12-23 03:36:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f8892e2e-e297-45aa-83c0-b931ecc021f2",
+            "albumcover": [
+                {
+                    "id": "367874",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/it-was-a-masked-christmas-61d49f22519ee.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:37:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e84cc1bd-7aa1-4181-8cde-b98db947603e",
+            "albumcover": [
+                {
+                    "id": "367875",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/just-look-up-from-the-netflix-film-dont-look-up-61d49f248f9bb.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:37:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c1284e91-6a33-4c14-b6c1-9c750bbd95b8",
+            "albumcover": [
+                {
+                    "id": "367876",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/met-him-last-night-61d49f2717a56.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:41:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d96f6aa1-3411-4732-a0e8-8829e21c7652",
+            "albumcover": [
+                {
+                    "id": "367877",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/met-him-last-night-dave-aud-remix-61d49f2ab9efb.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:41:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c69b3882-d0c4-4e45-9dc4-b80a5911cbe7",
+            "albumcover": [
+                {
+                    "id": "367878",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/popular-song-61d49f39e9be1.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:41:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f0f78bd6-8a3e-4732-bfb9-971465e345e1",
+            "albumcover": [
+                {
+                    "id": "367879",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/right-there-61d49f3d37666.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:41:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f6a60880-6ad5-48cd-926b-7558571201cd",
+            "albumcover": [
+                {
+                    "id": "367880",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/a-hand-for-mrs-claus-61d4a07abc3df.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:41:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "91c6f141-8e50-4de4-900f-3bc91e123e58",
+            "albumcover": [
+                {
+                    "id": "367881",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/god-is-a-woman-61d4a07d06d09.jpg",
+                    "likes": "0",
+                    "added": "2022-01-04 22:41:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8884b010-24e7-424e-a30a-e21934ff67d7",
+            "albumcover": [
+                {
+                    "id": "401452",
+                    "url": "https://assets.fanart.tv/fanart/music/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387/albumcover/dont-call-me-angel-charlies-angels-63e13f78d25aa.jpg",
+                    "likes": "0",
+                    "added": "2023-02-07 04:17:04"
+                }
+            ]
+        }
+    ]
+}

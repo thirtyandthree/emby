@@ -1,0 +1,36 @@
+﻿<div is="emby-scroller" class="headerScroller flex-shrink-zero" data-mousewheel="false" data-horizontal="true" data-forcenativescroll="true" data-scrollbuttons="false">
+
+    <div class="scrollSlider focuscontainer-x">
+
+        <div class="guide-headerTimeslots secondaryText epgScrollSlider">
+            <div class="channelCell firstChannelCell">
+                <button is="emby-button" class="btnSelectDate btnSelectDate-text button-link secondaryText" data-focusscale="false">
+                    <span class="btnDateText" style="white-space:nowrap;"></span>
+                </button>
+
+                <button is="paper-icon-button-light" type="button" class="guideIconButton btnSelectDate btnSelectDate-icon" data-focusscale="false">
+                    <i class="md-icon">&#xebcc;</i>
+                </button>
+
+                <button is="paper-icon-button-light" type="button" class="guideIconButton btnGuideViewSettings" data-focusscale="false">
+                    <i class="md-icon">&#xe164;</i>
+                </button>
+            </div>
+            <div class="timeslotHeaders flex flex-grow flex-direction-row"></div>
+        </div>
+    </div>
+
+</div>
+
+<div is="emby-scroller" class="flex-grow virtualScrollerScrollContainer" data-dualscroll="true" data-horizontal="false" data-forcenativescroll="true" data-scrollbuttons="true" data-scrollbuttonstype="x" data-scrollbuttonparent="self">
+
+    <div class="scrollSlider epgScrollSlider focuscontainer-x focuscontainer-down" style="position:relative;">
+
+        <div is="emby-itemscontainer" data-virtualscrolllayout="vertical-grid" data-scrollresizeobserver="true" class="itemsContainer vertical-list padded-bottom-page epgItemsContainer" data-contextmenu="true">
+
+        </div>
+
+        <button is="emby-button" class="btnLiveGuide raised hide" aria-label="${Live}" tabindex="-1"><span class="btnLiveGuideText">${Live}</span></button>
+    </div>
+
+</div>

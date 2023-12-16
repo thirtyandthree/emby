@@ -1,0 +1,58 @@
+﻿<div is="emby-scroller" class="view flex flex-direction-column scrollFrameY flex-grow" data-mousewheel="true" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" data-bindheader="true">
+    <div class="scrollSlider flex-grow flex-direction-column padded-left padded-left-page padded-right padded-top-page padded-bottom-page settingsContainer">
+        <form class="notificationSettingForm auto-center">
+
+            <div class="verticalSection">
+                <div class="sectionTitleContainer flex align-items-center">
+                    <h2 class="notificationType sectionTitle"></h2>
+                </div>
+            </div>
+
+            <label class="checkboxContainer">
+                <input type="checkbox" is="emby-checkbox" class="chkEnabled" />
+                <span>Enable this notification</span>
+            </label>
+
+            <div class="monitorUsers hide">
+                <div class="paperLischeckboxListLabeltLabel">Monitor the following users</div>
+                <div class="monitorUsersList">
+                </div>
+                <br />
+            </div>
+
+            <div class="verticalSection">
+                <div class="selectContainer">
+                    <select is="emby-select" class="selectUsers" label="Send notification to:">
+                        <option value="All">All Users</option>
+                        <option value="Admins">Admin Users</option>
+                        <option value="Custom">Custom</option>
+                    </select>
+                </div>
+                <div class="selectCustomUsers hide">
+                    <label>${LimitUserEventsTo}</label>
+                    <div class="sendToUsersList">
+                    </div>
+                    <br />
+                </div>
+            </div>
+
+            <div class="verticalSection">
+                <label>Use the following notification services:</label>
+                <div class="servicesList">
+                </div>
+                <div class="fieldDescription additionalServicesDescription"></div>
+            </div>
+
+            <div>
+                <br />
+                <button is="emby-button" type="submit" class="raised button-submit block">
+                    <span>${Save}</span>
+                </button>
+
+                <button is="emby-button" type="button" class="raised button-cancel block btnCancel">
+                    <span>${Cancel}</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>

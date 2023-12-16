@@ -1,0 +1,50 @@
+{
+    "name": "전정국",
+    "mbid_id": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+    "albums": [
+        {
+            "release_group_id": "d610b1f3-c693-4258-a7bc-fddd05ef828e",
+            "albumcover": [
+                {
+                    "id": "412627",
+                    "url": "https://assets.fanart.tv/fanart/music/23c8056b-ee13-4cfc-a772-2f5292e35bb5/albumcover/dreamers-64bd2e568599d.jpg",
+                    "likes": "0",
+                    "added": "2023-07-26 05:36:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b5d3e2bf-927e-4d14-bad2-b0e363dbf9ce",
+            "albumcover": [
+                {
+                    "id": "412628",
+                    "url": "https://assets.fanart.tv/fanart/music/23c8056b-ee13-4cfc-a772-2f5292e35bb5/albumcover/my-you-64bd2e59c2255.jpg",
+                    "likes": "0",
+                    "added": "2023-07-26 05:36:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0fcf2223-0d9c-45cc-8eb2-f91293f282ea",
+            "albumcover": [
+                {
+                    "id": "412629",
+                    "url": "https://assets.fanart.tv/fanart/music/23c8056b-ee13-4cfc-a772-2f5292e35bb5/albumcover/seven-64bd2e5c86c55.jpg",
+                    "likes": "0",
+                    "added": "2023-07-25 09:15:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e51c54ea-71d2-413a-9fbe-1be9389b0fa6",
+            "albumcover": [
+                {
+                    "id": "418954",
+                    "url": "https://assets.fanart.tv/fanart/music/23c8056b-ee13-4cfc-a772-2f5292e35bb5/albumcover/golden-654e60496e464.jpg",
+                    "likes": "0",
+                    "added": "2023-11-12 09:50:58"
+                }
+            ]
+        }
+    ]
+}

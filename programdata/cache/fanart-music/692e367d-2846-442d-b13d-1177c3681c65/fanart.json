@@ -1,0 +1,31 @@
+{
+    "name": "王菲",
+    "mbid_id": "692e367d-2846-442d-b13d-1177c3681c65",
+    "musiclogo": [
+        {
+            "id": "10694",
+            "url": "https://assets.fanart.tv/fanart/music/692e367d-2846-442d-b13d-1177c3681c65/musiclogo/-4e6d69d3ce58c.png",
+            "likes": "0",
+            "added": "2011-09-12 02:20:29"
+        },
+        {
+            "id": "10695",
+            "url": "https://assets.fanart.tv/fanart/music/692e367d-2846-442d-b13d-1177c3681c65/musiclogo/-4e6d69de36caf.png",
+            "likes": "0",
+            "added": "2011-09-12 02:20:33"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "8971037e-9171-3b32-b3bf-d58c2da40060",
+            "albumcover": [
+                {
+                    "id": "367103",
+                    "url": "https://assets.fanart.tv/fanart/music/692e367d-2846-442d-b13d-1177c3681c65/albumcover/-61c8fa83ba8af.jpg",
+                    "likes": "0",
+                    "added": "2021-12-27 10:39:46"
+                }
+            ]
+        }
+    ]
+}

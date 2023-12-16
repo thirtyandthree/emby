@@ -1,0 +1,398 @@
+{
+    "name": "Dean Martin",
+    "mbid_id": "5e6c760b-42e0-4df4-a221-0269355da00a",
+    "artistbackground": [
+        {
+            "id": "69992",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/artistbackground/martin-dean-5110b0dce51ed.jpg",
+            "likes": "1",
+            "added": "2013-02-06 09:59:18"
+        },
+        {
+            "id": "95583",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/artistbackground/martin-dean-521b9cb428ba4.jpg",
+            "likes": "1",
+            "added": "2013-08-26 18:58:36"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "178120",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/hdmusiclogo/martin-dean-55f1dbdbb44f9.png",
+            "likes": "1",
+            "added": "2015-09-11 00:00:10"
+        },
+        {
+            "id": "182139",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/hdmusiclogo/martin-dean-562fdba660fe3.png",
+            "likes": "0",
+            "added": "2015-10-30 09:39:38"
+        },
+        {
+            "id": "181864",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/hdmusiclogo/martin-dean-562c8c3e46aa0.png",
+            "likes": "0",
+            "added": "2015-10-25 23:03:47"
+        },
+        {
+            "id": "178123",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/hdmusiclogo/martin-dean-55f1f55962d31.png",
+            "likes": "0",
+            "added": "2015-09-11 00:00:26"
+        },
+        {
+            "id": "178086",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/hdmusiclogo/martin-dean-55f16011b30b0.png",
+            "likes": "0",
+            "added": "2015-09-10 23:59:35"
+        },
+        {
+            "id": "178062",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/hdmusiclogo/martin-dean-55f0a7985c0e3.png",
+            "likes": "0",
+            "added": "2015-09-10 23:57:51"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "69991",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/artistthumb/martin-dean-5110b0cd05edf.jpg",
+            "likes": "1",
+            "added": "2013-02-07 00:11:19"
+        },
+        {
+            "id": "95582",
+            "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/artistthumb/martin-dean-521b9c51c76ba.jpg",
+            "likes": "1",
+            "added": "2013-08-26 19:12:32"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "25609304-4130-3a64-8867-534a0bc99c1d",
+            "albumcover": [
+                {
+                    "id": "85782",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/hurtin-country-songs-51be58851249d.jpg",
+                    "likes": "2",
+                    "added": "2013-06-17 13:22:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0b30cdc9-1c98-4d6c-b8ba-440669ea2afd",
+            "albumcover": [
+                {
+                    "id": "170441",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/hey-brother-pour-the-wine-55a954e07daff.jpg",
+                    "likes": "2",
+                    "added": "2015-07-17 20:11:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a5fd9381-7b45-3a73-b802-29e067b1ed29",
+            "albumcover": [
+                {
+                    "id": "188970",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/this-time-im-swingin-56b8934ead6b7.jpg",
+                    "likes": "1",
+                    "added": "2016-02-12 10:20:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7c7e5418-a687-4af1-9801-8f8af78d542d",
+            "albumcover": [
+                {
+                    "id": "182938",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/dean-martin-hits-again-563fb5b53a348.jpg",
+                    "likes": "1",
+                    "added": "2015-11-19 09:39:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0b3db466-9893-4dd1-b523-63c03c2c52c3",
+            "albumcover": [
+                {
+                    "id": "182937",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/collected-cool-563fb5b534a06.jpg",
+                    "likes": "1",
+                    "added": "2015-11-17 22:58:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d7b5b922-99e9-49cf-b0e8-759b3f53099e",
+            "albumcover": [
+                {
+                    "id": "182932",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/volare-nel-blu-dipinto-di-blu-563fb507aff96.jpg",
+                    "likes": "1",
+                    "added": "2015-11-17 22:58:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d350a6b2-80ee-4894-928f-c66603b7e6d2",
+            "albumcover": [
+                {
+                    "id": "182931",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/pretty-baby-563fb507ad72d.jpg",
+                    "likes": "1",
+                    "added": "2015-11-17 22:58:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6b15d9f9-f853-4343-a392-5cb26c7b8a7b",
+            "albumcover": [
+                {
+                    "id": "182930",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/i-cant-give-you-anything-but-love-563fb507ac5e3.jpg",
+                    "likes": "1",
+                    "added": "2015-11-17 22:58:29"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d3847ee4-4668-4f7b-a476-200c85dd9dae",
+            "albumcover": [
+                {
+                    "id": "174875",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/volare-55cfec1514d43.jpg",
+                    "likes": "1",
+                    "added": "2015-08-17 19:55:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7a3f701e-0aa5-4230-b92f-8596b924d351",
+            "albumcover": [
+                {
+                    "id": "171353",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/the-dean-martin-christmas-album-55b008a725812.jpg",
+                    "likes": "1",
+                    "added": "2015-07-23 10:09:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "27830667-8fd7-448a-a8cf-906c68f1ccca",
+            "albumcover": [
+                {
+                    "id": "171351",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/italian-love-songs-55b004e3a2b11.jpg",
+                    "likes": "1",
+                    "added": "2015-07-23 10:09:19"
+                },
+                {
+                    "id": "170442",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/italian-love-songs-55a954e07e400.jpg",
+                    "likes": "1",
+                    "added": "2015-07-17 20:11:25"
+                },
+                {
+                    "id": "323429",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/italian-love-songs-5ff6cb680bb70.jpg",
+                    "likes": "0",
+                    "added": "2021-01-07 20:24:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e4e74204-ff9b-3136-9284-1c138613c355",
+            "albumcover": [
+                {
+                    "id": "170436",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/a-winter-romance-55a954e07a149.jpg",
+                    "likes": "1",
+                    "added": "2015-07-17 20:12:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "28c38d14-b168-366a-8e13-e0faf5e7efe5",
+            "albumcover": [
+                {
+                    "id": "170438",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/everybody-loves-somebody-55a954e07c166.jpg",
+                    "likes": "1",
+                    "added": "2015-07-17 20:11:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7ebc10b0-8b0f-37b0-b6a4-71dfed3f4c3c",
+            "albumcover": [
+                {
+                    "id": "170439",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/forever-cool-55a954e07c763.jpg",
+                    "likes": "1",
+                    "added": "2015-07-17 20:11:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "66e4fc48-74b4-3b35-b026-75586b0bf395",
+            "albumcover": [
+                {
+                    "id": "170440",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/greatest-hits-55a954e07ce90.jpg",
+                    "likes": "1",
+                    "added": "2015-07-17 20:11:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "aa057e81-3c57-3907-87d1-aadb872c3181",
+            "albumcover": [
+                {
+                    "id": "171350",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/dino-the-essential-dean-martin-55b00488d197c.jpg",
+                    "likes": "1",
+                    "added": "2015-07-23 10:09:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ba73e42b-c95e-3072-832f-8e07ba23cbb2",
+            "albumcover": [
+                {
+                    "id": "171352",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/the-best-of-dean-martin-55b008a724e88.jpg",
+                    "likes": "1",
+                    "added": "2015-07-23 10:09:50"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bdbd444a-b8ac-4765-99d7-369e7e5e6b9f",
+            "albumcover": [
+                {
+                    "id": "323574",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/my-woman-my-woman-my-wife-5ff83a3787fd4.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:54:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "df5a97b2-8a92-4484-ba54-6a42a0a527ed",
+            "albumcover": [
+                {
+                    "id": "323573",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/for-the-good-times-5ff8397f8412a.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:54:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b33e4377-fb6b-42bb-80d3-779fe811cceb",
+            "albumcover": [
+                {
+                    "id": "323571",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/the-nashville-sessions-5ff835c3a216b.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:53:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "71347da5-d080-41c3-8916-a6da38f7d297",
+            "albumcover": [
+                {
+                    "id": "323575",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/the-hit-sound-of-dean-martin-5ff8419806c33.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:54:14"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6eea328c-fbfe-46c9-8b2d-1ee6b33e0026",
+            "albumcover": [
+                {
+                    "id": "323576",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/houston-5ff844061c51d.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:54:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e3c63c83-c4d7-42a2-b1a8-d174904fd741",
+            "albumcover": [
+                {
+                    "id": "323570",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/country-style-5ff835c392c41.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:53:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a10bf455-55f5-389c-a194-e4fbb19216f5",
+            "albumcover": [
+                {
+                    "id": "323568",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/dino-latino-5ff832719220d.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:52:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "616a826c-b816-3b8d-bc5e-6c564de5c9b6",
+            "albumcover": [
+                {
+                    "id": "323567",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/cha-cha-de-amor-5ff830cd2e256.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:52:28"
+                },
+                {
+                    "id": "323566",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/cha-cha-de-amor-5ff830a91b4c3.jpg",
+                    "likes": "0",
+                    "added": "2021-01-08 12:52:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "df7c7004-15e6-3684-965b-8546bfa6c9a5",
+            "albumcover": [
+                {
+                    "id": "319711",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/all-time-greatest-hits-5fb57f11b2b75.jpg",
+                    "likes": "0",
+                    "added": "2020-11-19 19:16:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "18651742-fdea-4e9f-a88c-c2b2afde970c",
+            "albumcover": [
+                {
+                    "id": "241761",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/the-door-is-still-open-to-my-heart-5b1a8180ed031.jpg",
+                    "likes": "0",
+                    "added": "2018-06-08 14:56:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7d3aabb0-306e-4c5f-8642-5340c9f82411",
+            "albumcover": [
+                {
+                    "id": "226048",
+                    "url": "https://assets.fanart.tv/fanart/music/5e6c760b-42e0-4df4-a221-0269355da00a/albumcover/the-platinum-collection-59b44ab1dc906.jpg",
+                    "likes": "0",
+                    "added": "2017-09-09 20:35:08"
+                }
+            ]
+        }
+    ]
+}

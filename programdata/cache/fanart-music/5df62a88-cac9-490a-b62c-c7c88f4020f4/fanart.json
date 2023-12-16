@@ -1,0 +1,193 @@
+{
+    "name": "Doja Cat",
+    "mbid_id": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+    "artistthumb": [
+        {
+            "id": "310913",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/artistthumb/doja-cat-5f4a3e91a1b99.jpg",
+            "likes": "0",
+            "added": "2020-08-29 19:59:09"
+        },
+        {
+            "id": "353897",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/artistthumb/doja-cat-613c45d03c0ee.jpg",
+            "likes": "0",
+            "added": "2021-09-11 08:13:20"
+        },
+        {
+            "id": "166646",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/artistthumb/doja-cat-5581d02c2c631.jpg",
+            "likes": "0",
+            "added": "2015-06-18 11:38:15"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "354022",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/hdmusiclogo/doja-cat-613d97f4ece76.png",
+            "likes": "0",
+            "added": "2021-09-12 09:57:32"
+        },
+        {
+            "id": "354020",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/hdmusiclogo/doja-cat-613d83646ceda.png",
+            "likes": "0",
+            "added": "2021-09-12 09:57:38"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "353901",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/artistbackground/doja-cat-613c5b168422c.jpg",
+            "likes": "0",
+            "added": "2021-09-11 07:59:54"
+        },
+        {
+            "id": "353899",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/artistbackground/doja-cat-613c583ee0fce.jpg",
+            "likes": "0",
+            "added": "2021-09-11 08:00:09"
+        },
+        {
+            "id": "310912",
+            "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/artistbackground/doja-cat-5f4a3e62416d3.jpg",
+            "likes": "0",
+            "added": "2020-08-29 19:57:46"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "88e46272-f172-42ad-ae4a-6df5dbfb5ae0",
+            "albumcover": [
+                {
+                    "id": "284627",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/hot-pink-5e2d1bc52f017.jpg",
+                    "likes": "1",
+                    "added": "2020-01-26 21:39:50"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6c90cb91-e615-4545-854b-6d6f10c5cb6d",
+            "albumcover": [
+                {
+                    "id": "353916",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/planet-her-613c6d03d5935.jpg",
+                    "likes": "1",
+                    "added": "2021-09-11 11:58:24"
+                },
+                {
+                    "id": "369331",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/planet-her-61ee050b9bb90.jpg",
+                    "likes": "0",
+                    "added": "2022-01-24 18:22:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dc755e23-3197-47ad-8cbe-acf11b181b24",
+            "albumcover": [
+                {
+                    "id": "351293",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/boss-bitch-611e5f015e4af.jpg",
+                    "likes": "0",
+                    "added": "2021-08-19 22:16:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f7031004-f900-4a8d-9687-314d74030fa5",
+            "albumcover": [
+                {
+                    "id": "337831",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/say-so-60917653b211c.jpg",
+                    "likes": "0",
+                    "added": "2021-05-05 18:08:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e58f35f5-0ac7-4de2-bfed-8586cf83dedd",
+            "albumcover": [
+                {
+                    "id": "337829",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/kiss-me-more-609175da68cc8.jpg",
+                    "likes": "0",
+                    "added": "2021-05-05 18:09:13"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fd847b68-5b8d-4485-82c2-2ccce870c1b7",
+            "albumcover": [
+                {
+                    "id": "284633",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/roll-with-us-5e2d1ebd99a42.jpg",
+                    "likes": "0",
+                    "added": "2020-01-26 21:39:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "10143e0e-7ef0-4eb6-af5f-77d659689350",
+            "albumcover": [
+                {
+                    "id": "284632",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/mooo-5e2d1e49ecb49.jpg",
+                    "likes": "0",
+                    "added": "2020-01-26 21:39:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e6cac8ce-b5f3-4db4-b8c8-5abf57fd2c3b",
+            "albumcover": [
+                {
+                    "id": "284631",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/go-to-town-5e2d1dcd5144a.jpg",
+                    "likes": "0",
+                    "added": "2020-01-26 21:39:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "77222aed-3f6e-4fcf-85e5-b6674275cfd7",
+            "albumcover": [
+                {
+                    "id": "284630",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/juicy-5e2d1d4a32942.jpg",
+                    "likes": "0",
+                    "added": "2020-01-26 21:39:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8446f969-5e4b-42d8-a6e5-fbe0a58adc0d",
+            "albumcover": [
+                {
+                    "id": "284629",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/amala-5e2d1ccce783d.jpg",
+                    "likes": "0",
+                    "added": "2020-01-26 21:39:45"
+                },
+                {
+                    "id": "284628",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/amala-5e2d1cb35fd9f.jpg",
+                    "likes": "0",
+                    "added": "2020-01-26 21:39:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "79902608-234b-4de2-a452-03f37d435707",
+            "albumcover": [
+                {
+                    "id": "276221",
+                    "url": "https://assets.fanart.tv/fanart/music/5df62a88-cac9-490a-b62c-c7c88f4020f4/albumcover/purrr---ep-5d7cb562d2498.jpeg",
+                    "likes": "0",
+                    "added": "2019-09-16 19:42:38"
+                }
+            ]
+        }
+    ]
+}

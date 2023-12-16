@@ -1,0 +1,863 @@
+{
+    "name": "Daft Punk",
+    "mbid_id": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+    "artistthumb": [
+        {
+            "id": "35296",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-4fd06cca50b0d.jpg",
+            "likes": "11",
+            "added": "2012-06-07 11:23:48"
+        },
+        {
+            "id": "42700",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-50028364f2c75.jpg",
+            "likes": "4",
+            "added": "2012-07-15 16:01:14"
+        },
+        {
+            "id": "42698",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-500282c335eab.jpg",
+            "likes": "2",
+            "added": "2012-07-15 16:01:09"
+        },
+        {
+            "id": "42701",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-50028413ea601.jpg",
+            "likes": "2",
+            "added": "2012-07-15 16:01:19"
+        },
+        {
+            "id": "84344",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-51adcb704a4f3.jpg",
+            "likes": "2",
+            "added": "2013-06-04 13:52:34"
+        },
+        {
+            "id": "189874",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-56c89a75e46c4.jpg",
+            "likes": "1",
+            "added": "2016-02-22 19:02:07"
+        },
+        {
+            "id": "417007",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistthumb/daft-punk-6515aebe6d183.jpg",
+            "likes": "0",
+            "added": "2023-10-02 09:55:41"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "23300",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4f4e6b527e4e9.jpg",
+            "likes": "8",
+            "added": "2012-03-09 13:02:25"
+        },
+        {
+            "id": "23302",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4f4e6b609f76c.jpg",
+            "likes": "6",
+            "added": "2012-03-09 13:02:15"
+        },
+        {
+            "id": "82203",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-5192ab86929e4.jpg",
+            "likes": "6",
+            "added": "2013-05-16 16:06:28"
+        },
+        {
+            "id": "23301",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4f4e6b59cc0a6.jpg",
+            "likes": "5",
+            "added": "2012-03-09 13:02:20"
+        },
+        {
+            "id": "121325",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-536a382ea0512.jpg",
+            "likes": "5",
+            "added": "2014-05-07 20:08:12"
+        },
+        {
+            "id": "7585",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4e25c5ba34b39.jpg",
+            "likes": "4",
+            "added": "2011-07-20 04:48:25"
+        },
+        {
+            "id": "23299",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4f4e6b4b30583.jpg",
+            "likes": "4",
+            "added": "2012-03-09 13:02:29"
+        },
+        {
+            "id": "84340",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-51adbf2282d82.jpg",
+            "likes": "4",
+            "added": "2013-06-04 12:31:08"
+        },
+        {
+            "id": "84345",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-51adcc40599ea.jpg",
+            "likes": "4",
+            "added": "2013-06-04 12:31:11"
+        },
+        {
+            "id": "114971",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-531de9b6474a8.jpg",
+            "likes": "4",
+            "added": "2014-03-11 04:47:40"
+        },
+        {
+            "id": "16853",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4f0078af50781.jpg",
+            "likes": "3",
+            "added": "2012-01-04 14:20:01"
+        },
+        {
+            "id": "16854",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4f0078c3741af.jpg",
+            "likes": "3",
+            "added": "2012-01-01 18:34:29"
+        },
+        {
+            "id": "84347",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-51adcc405adcb.jpg",
+            "likes": "3",
+            "added": "2013-06-04 13:51:07"
+        },
+        {
+            "id": "114974",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-531de9b663f2f.jpg",
+            "likes": "3",
+            "added": "2014-03-10 21:40:23"
+        },
+        {
+            "id": "179556",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-5605b13f876b0.jpg",
+            "likes": "3",
+            "added": "2015-09-27 18:31:54"
+        },
+        {
+            "id": "7584",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-4e25c58a0a654.jpg",
+            "likes": "2",
+            "added": "2011-07-20 04:48:10"
+        },
+        {
+            "id": "114973",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-531de9b657ae9.jpg",
+            "likes": "2",
+            "added": "2014-03-11 04:47:57"
+        },
+        {
+            "id": "84346",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-51adcc405a4c2.jpg",
+            "likes": "1",
+            "added": "2013-06-04 12:31:16"
+        },
+        {
+            "id": "179557",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-5605b14c7d780.jpg",
+            "likes": "1",
+            "added": "2015-09-27 18:32:05"
+        },
+        {
+            "id": "417008",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/artistbackground/daft-punk-6515aedb822ab.jpg",
+            "likes": "0",
+            "added": "2023-10-01 19:14:17"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "55843",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/musiclogo/daft-punk-5071e5d868bbd.png",
+            "likes": "4",
+            "added": "2012-10-09 11:16:54"
+        },
+        {
+            "id": "55844",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/musiclogo/daft-punk-5071e5d86ba9b.png",
+            "likes": "3",
+            "added": "2012-10-09 11:17:01"
+        },
+        {
+            "id": "5207",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/musiclogo/daft-punk-4df60976c8b32.png",
+            "likes": "2",
+            "added": "2011-06-13 13:09:34"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "114976",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-531deca46db01.png",
+            "likes": "4",
+            "added": "2014-03-10 19:58:50"
+        },
+        {
+            "id": "114977",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-531deca483f4e.png",
+            "likes": "4",
+            "added": "2014-03-10 19:58:55"
+        },
+        {
+            "id": "199562",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-579e521c301a2.png",
+            "likes": "4",
+            "added": "2016-07-31 21:21:45"
+        },
+        {
+            "id": "142579",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-547d261f75a76.png",
+            "likes": "3",
+            "added": "2014-12-02 07:40:02"
+        },
+        {
+            "id": "237411",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-5aad262c61fd6.png",
+            "likes": "2",
+            "added": "2018-03-17 14:46:05"
+        },
+        {
+            "id": "379585",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-628cf0e6a92b6.png",
+            "likes": "0",
+            "added": "2022-05-24 16:35:27"
+        },
+        {
+            "id": "379586",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-628cf0fab93f0.png",
+            "likes": "0",
+            "added": "2022-05-24 16:35:30"
+        },
+        {
+            "id": "379587",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-628cf10a2efbb.png",
+            "likes": "0",
+            "added": "2022-05-24 16:35:32"
+        },
+        {
+            "id": "379588",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/hdmusiclogo/daft-punk-628cf114e7b72.png",
+            "likes": "0",
+            "added": "2022-05-24 16:35:35"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "49101",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/musicbanner/daft-punk-503caddcd1ca8.jpg",
+            "likes": "1",
+            "added": "2012-08-28 17:27:49"
+        },
+        {
+            "id": "189873",
+            "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/musicbanner/daft-punk-56c89a36d185f.jpg",
+            "likes": "1",
+            "added": "2016-02-22 11:01:07"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "aa997ea0-2936-40bd-884d-3af8a0e064dc",
+            "albumcover": [
+                {
+                    "id": "80209",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/random-access-memories-51764651042e5.jpg",
+                    "likes": "11",
+                    "added": "2013-04-24 01:09:23"
+                },
+                {
+                    "id": "402553",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/random-access-memories-63f6fd9a60b48.jpg",
+                    "likes": "0",
+                    "added": "2023-02-23 17:07:47"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "82435",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/random-access-memories-5194a5974107d.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-05-17 14:45:43"
+                },
+                {
+                    "id": "82855",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/random-access-memories-5199df91623c8.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-05-21 20:40:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "00054665-89fa-33d5-a8f0-1728ea8c32c3",
+            "albumcover": [
+                {
+                    "id": "154158",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/homework-54f58c004c244.jpg",
+                    "likes": "6",
+                    "added": "2015-03-03 20:36:38"
+                },
+                {
+                    "id": "371922",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/homework-62158e5bd67c1.jpg",
+                    "likes": "0",
+                    "added": "2022-02-23 15:18:47"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "5794",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/homework-4dfd99b8c5213.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-06-19 11:02:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "48117b90-a16e-34ca-a514-19c702df1158",
+            "albumcover": [
+                {
+                    "id": "216364",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/discovery-58e91ab55d92a.jpg",
+                    "likes": "6",
+                    "added": "2017-04-08 17:37:11"
+                },
+                {
+                    "id": "349787",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/discovery-610b367fd979b.jpg",
+                    "likes": "0",
+                    "added": "2021-08-05 02:39:22"
+                },
+                {
+                    "id": "349788",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/discovery-610b3697ab8db.jpg",
+                    "likes": "0",
+                    "added": "2021-08-05 02:39:20"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "197955",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/discovery-576eac7017343.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2016-06-25 16:18:59"
+                },
+                {
+                    "id": "197956",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/discovery-576eac7d0b9f4.png",
+                    "likes": "3",
+                    "disc": "2",
+                    "size": "1000",
+                    "added": "2016-06-25 16:19:09"
+                },
+                {
+                    "id": "197957",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/discovery-576eac8fe278e.png",
+                    "likes": "3",
+                    "disc": "3",
+                    "size": "1000",
+                    "added": "2016-06-25 16:19:17"
+                },
+                {
+                    "id": "197958",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/discovery-576eaca061224.png",
+                    "likes": "3",
+                    "disc": "4",
+                    "size": "1000",
+                    "added": "2016-06-25 16:19:23"
+                },
+                {
+                    "id": "197787",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/discovery-576acd796e748.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2016-06-23 17:46:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b585e56e-69cb-4f53-9597-320af5e5f541",
+            "albumcover": [
+                {
+                    "id": "282404",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/tron-legacy-5e0e1d5657467.jpg",
+                    "likes": "4",
+                    "added": "2020-01-03 03:30:44"
+                },
+                {
+                    "id": "113673",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/tron-legacy-5310796f1ba6a.jpg",
+                    "likes": "2",
+                    "added": "2014-02-28 16:30:15"
+                },
+                {
+                    "id": "314976",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/tron-legacy-5f80310903851.jpg",
+                    "likes": "0",
+                    "added": "2020-10-09 17:50:21"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "5799",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/tron-legacy-4dfd9a4f0256f.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-06-19 11:03:47"
+                },
+                {
+                    "id": "18361",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/tron-legacy-4f1d54d5cc702.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000",
+                    "added": "2012-01-24 01:01:56"
+                },
+                {
+                    "id": "380951",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/tron-legacy-629d028aef700.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2022-06-06 06:31:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4bac3d70-deea-3d80-85c4-8be9f90558e6",
+            "cdart": [
+                {
+                    "id": "121475",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/alive-2007-536b8e5251fb6.png",
+                    "likes": "3",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2014-05-08 15:38:31"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "175756",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/alive-2007-55d87f1f52903.jpg",
+                    "likes": "1",
+                    "added": "2015-08-23 19:46:12"
+                },
+                {
+                    "id": "278578",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/alive-2007-5db6689a00c9f.jpg",
+                    "likes": "1",
+                    "added": "2019-10-28 16:47:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bc49de56-46c7-4250-b987-a0cd43e73279",
+            "albumcover": [
+                {
+                    "id": "175757",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/tron-legacy-r3conf1gur3d-55d87f437b776.jpg",
+                    "likes": "3",
+                    "added": "2015-08-23 19:46:01"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "18362",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/tron-legacy-r3conf1gur3d-4f1d54d63d20a.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-01-24 01:02:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9b7ce16c-8310-4cc5-aad5-09893a5a8297",
+            "albumcover": [
+                {
+                    "id": "194097",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/get-lucky-5713c106ca805.jpg",
+                    "likes": "3",
+                    "added": "2016-04-17 22:49:50"
+                },
+                {
+                    "id": "278579",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/get-lucky-5db6689a112d2.jpg",
+                    "likes": "1",
+                    "added": "2019-10-28 16:47:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "66ecf2c3-441f-3981-b85f-a005d9cc582d",
+            "albumcover": [
+                {
+                    "id": "194311",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/musique-volume-1-1993-2005-571800ec0900e.jpg",
+                    "likes": "3",
+                    "added": "2016-04-21 09:20:06"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "85509",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/musique-volume-1-1993-2005-51bc95e34fe13.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-06-15 21:58:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1fd2e0fe-90f6-35ca-92c0-d816ab3bb79c",
+            "albumcover": [
+                {
+                    "id": "194308",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/daft-club-571800ec06fe2.jpg",
+                    "likes": "2",
+                    "added": "2016-04-21 09:25:32"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "278356",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/daft-club-5db1dbd1acfa0.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2019-10-24 23:08:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "16ea0f65-3462-3283-a3eb-e81dcc92c1d5",
+            "albumcover": [
+                {
+                    "id": "199897",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/human-after-all-remixes-57a58d9f7d66e.jpg",
+                    "likes": "2",
+                    "added": "2016-08-06 10:22:29"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "24863",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/human-after-all-remixes-4f6a70a98ad5f.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-03-24 10:32:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f9e8042a-674e-3f01-80ec-7f0ab1c537df",
+            "albumcover": [
+                {
+                    "id": "278577",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/human-after-all-5db668864cc00.jpg",
+                    "likes": "2",
+                    "added": "2019-10-28 16:49:27"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "315922",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/human-after-all-5f8c5abae6be2.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2020-10-18 15:15:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "35a4f900-60c1-3f79-8cdb-193941b78768",
+            "albumcover": [
+                {
+                    "id": "164947",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/the-new-wave-5569ab61284c7.jpg",
+                    "likes": "1",
+                    "added": "2015-06-01 21:45:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d86198a6-29e6-3748-93a8-1a4a0fadef57",
+            "albumcover": [
+                {
+                    "id": "164956",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/da-funk-5569c24f7751a.jpg",
+                    "likes": "1",
+                    "added": "2015-06-01 21:45:00"
+                },
+                {
+                    "id": "194094",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/da-funk-5713c01c07440.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:49:30"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8dfbd2f1-be5d-3b42-9d7a-8ab3a6d66cb6",
+            "albumcover": [
+                {
+                    "id": "165580",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/burnin-557449dbddd79.jpg",
+                    "likes": "1",
+                    "added": "2015-06-07 16:56:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "aa5b9bea-dcdf-4911-838f-8f90b0fc1171",
+            "albumcover": [
+                {
+                    "id": "194092",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/harder-better-faster-stronger-5713bf91f3f46.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:49:12"
+                },
+                {
+                    "id": "194093",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/harder-better-faster-stronger-5713bf9a1c26b.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:49:19"
+                },
+                {
+                    "id": "194310",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/harder-better-faster-stronger-571800ec085a1.jpg",
+                    "likes": "1",
+                    "added": "2016-04-21 09:19:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5b1c02ac-8608-3857-a9b6-62e056177d96",
+            "albumcover": [
+                {
+                    "id": "194095",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/around-the-world-5713c106c96e9.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:49:37"
+                },
+                {
+                    "id": "278613",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/around-the-world-5db73968a5acf.jpg",
+                    "likes": "1",
+                    "added": "2019-10-29 00:24:46"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3888f64b-f8ce-3e3d-a2f7-23d83697f43d",
+            "albumcover": [
+                {
+                    "id": "194096",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/digital-love-5713c106ca249.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:49:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1f63ade9-c584-37c3-84b2-930a7d5c353b",
+            "albumcover": [
+                {
+                    "id": "194098",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/one-more-time-5713c106cb198.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:49:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4a25766d-f1ab-30de-9599-e0e0920df0a4",
+            "albumcover": [
+                {
+                    "id": "194099",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/revolution-909-5713c106cb708.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:50:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "da00fcb0-4c72-3612-8a14-4ba083505fe2",
+            "albumcover": [
+                {
+                    "id": "194100",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/robot-rock-5713c106cbc2d.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:50:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "13ba6204-83e8-3bf2-aeb4-05b14acc9167",
+            "albumcover": [
+                {
+                    "id": "194101",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/something-about-us-love-theme-from-interstella-5555-5713c106cc102.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:50:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8a8ca5fc-4eff-3aa8-939b-9c064ba73d7f",
+            "albumcover": [
+                {
+                    "id": "194102",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/technologic-5713c106cc5f2.jpg",
+                    "likes": "1",
+                    "added": "2016-04-17 22:50:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8093fc8c-942c-30f3-a224-49dbc718f8e4",
+            "albumcover": [
+                {
+                    "id": "195499",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/alive-1997-573541abc08ab.jpg",
+                    "likes": "1",
+                    "added": "2016-05-13 03:11:50"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "14718",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/cdart/alive-1997-4ed2b68356459.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-11-28 00:27:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c265ac4b-aa80-3f8b-83f7-47b81d8175c0",
+            "albumcover": [
+                {
+                    "id": "278581",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/aerodynamic-5db669c3bea34.jpg",
+                    "likes": "1",
+                    "added": "2019-10-28 16:48:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "68360aa5-6003-403d-8b4f-d04cbda9516c",
+            "albumcover": [
+                {
+                    "id": "278614",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/digital-decks-5db73968b6a06.jpg",
+                    "likes": "1",
+                    "added": "2019-10-29 00:24:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "111e4cc8-e7b6-437a-af02-a42c757e4e17",
+            "albumcover": [
+                {
+                    "id": "278615",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/give-life-back-to-music-5db73968c7645.jpg",
+                    "likes": "1",
+                    "added": "2019-10-29 00:25:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3ab059bc-281d-4719-90c6-ed130fa2bd20",
+            "albumcover": [
+                {
+                    "id": "278616",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/greatest-hits-5db73968d80d3.jpg",
+                    "likes": "1",
+                    "added": "2019-10-29 00:25:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "44041ba2-b490-47d1-9106-83f6b0e3a205",
+            "albumcover": [
+                {
+                    "id": "278617",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/lose-yourself-to-dance-5db73968e8afa.jpg",
+                    "likes": "1",
+                    "added": "2019-10-29 00:25:50"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f9b52398-c578-32c4-95a6-b2e4a9bdc472",
+            "albumcover": [
+                {
+                    "id": "278618",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/prime-time-of-your-life-5db7396905381.jpg",
+                    "likes": "1",
+                    "added": "2019-10-29 00:26:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "159e9b33-a800-4891-aba0-9e068264d312",
+            "albumcover": [
+                {
+                    "id": "288838",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/starboy-kygo-remix-5e5ed3590669f.jpg",
+                    "likes": "0",
+                    "added": "2020-03-03 23:32:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "14d335b6-71e9-43a3-9ad8-cf8367990c23",
+            "albumcover": [
+                {
+                    "id": "349873",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/human-after-all-610c0a08da228.jpg",
+                    "likes": "0",
+                    "added": "2021-08-05 17:23:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c5afe0db-56f0-3af8-bc00-bf8b2aeaa40e",
+            "albumcover": [
+                {
+                    "id": "361306",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/face-to-face-618a1907ca615.jpg",
+                    "likes": "0",
+                    "added": "2021-11-10 01:46:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b7a7b524-e29a-4d8e-a7f5-ffbcea5a38e4",
+            "albumcover": [
+                {
+                    "id": "371923",
+                    "url": "https://assets.fanart.tv/fanart/music/056e4f3e-d505-4dad-8ec1-d04f521cbb56/albumcover/homework-remixes-621590c985595.jpg",
+                    "likes": "0",
+                    "added": "2022-02-23 15:18:44"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "name": "周杰倫",
+    "mbid_id": "a223958d-5c56-4b2c-a30a-87e357bc121b",
+    "hdmusiclogo": [
+        {
+            "id": "58730",
+            "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/hdmusiclogo/chou-jay-508a4a01848f3.png",
+            "likes": "1",
+            "added": "2012-10-26 23:43:37"
+        },
+        {
+            "id": "241852",
+            "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/hdmusiclogo/chou-jay-5b1c9054a9860.png",
+            "likes": "1",
+            "added": "2018-06-10 07:24:59"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "13721",
+            "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/artistbackground/-4eb90d030b6aa.jpg",
+            "likes": "0",
+            "added": "2011-11-11 19:43:35"
+        },
+        {
+            "id": "105393",
+            "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/artistbackground/chou-jay-5291d5f405701.jpg",
+            "likes": "0",
+            "added": "2013-11-27 19:59:31"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "105391",
+            "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/artistthumb/chou-jay-5291d4dc52a8d.jpg",
+            "likes": "0",
+            "added": "2013-11-28 21:45:35"
+        },
+        {
+            "id": "105456",
+            "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/artistthumb/chou-jay-5292a80584b2e.jpg",
+            "likes": "0",
+            "added": "2013-11-27 09:09:20"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "f13d05fa-0e8d-3731-be94-2ca5cfaf5dc0",
+            "albumcover": [
+                {
+                    "id": "105454",
+                    "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/albumcover/-5292a6735a1c8.jpg",
+                    "likes": "0",
+                    "added": "2013-11-30 18:56:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bb41418c-24b7-37c2-bfe9-aaf5e571e97b",
+            "albumcover": [
+                {
+                    "id": "105455",
+                    "url": "https://assets.fanart.tv/fanart/music/a223958d-5c56-4b2c-a30a-87e357bc121b/albumcover/-5292a6735adc4.jpg",
+                    "likes": "0",
+                    "added": "2013-12-03 06:07:43"
+                }
+            ]
+        }
+    ]
+}

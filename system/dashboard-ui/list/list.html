@@ -1,0 +1,68 @@
+<div class="view flex flex-direction-row" data-canrefresh="true">
+
+    <div class="alphaPicker alphaPicker-vertical alphaPicker-fixed focuscontainer-y hide"></div>
+
+    <div is="emby-scroller" data-horizontal="false" data-focusscroll="true" data-navcommands="card" data-forcescrollbar="true" class="viewScroller scrollFrameY flex flex-grow virtualScrollerScrollContainer" data-bindheader="true">
+
+        <div class="scrollSlider flex-grow padded-top-page padded-left padded-left-page padded-right">
+
+            <div class="align-items-center justify-content-center focuscontainer-x padded-bottom searchContainer hide">
+                <div class="searchFields padded-bottom" style="margin-bottom:.5em;"></div>
+                <div class="searchTabs hide" style="text-align:center;">
+                </div>
+            </div>
+
+            <div class="flex align-items-center justify-content-center focuscontainer-x itemsViewSettingsContainer padded-top padded-bottom">
+                <div class="listTotalRecordCount">
+                </div>
+
+                <button is="emby-button" class="itemsViewSettingsContainer-button btnPlay raised raised-mini hide listTextButton-autohide">
+                    <i class="md-icon button-icon button-icon-left autortl">&#xE037;</i>
+                    <span class="emby-button-text">${Play}</span>
+                </button>
+                <button is="paper-icon-button-light" class="itemsViewSettingsContainer-button btnPlay listIconButton-autohide">
+                    <i class="md-icon autortl">&#xE037;</i>
+                </button>
+                <button is="emby-button" class="itemsViewSettingsContainer-button btnQueue raised raised-mini hide listTextButton-autohide">
+                    <i class="md-icon button-icon button-icon-left autortl">&#xe03b;</i>
+                    <span class="emby-button-text">${Queue}</span>
+                </button>
+                <button is="paper-icon-button-light" class="itemsViewSettingsContainer-button btnQueue hide listIconButton-autohide">
+                    <i class="md-icon autortl">&#xE03B;</i>
+                </button>
+                <button is="emby-button" class="itemsViewSettingsContainer-button btnShuffle raised raised-mini hide listTextButton-autohide">
+                    <i class="md-icon button-icon button-icon-left">&#xE043;</i>
+                    <span class="emby-button-text">${Shuffle}</span>
+                </button>
+                <button is="paper-icon-button-light" class="itemsViewSettingsContainer-button btnShuffle hide listIconButton-autohide">
+                    <i class="md-icon">&#xE043;</i>
+                </button>
+
+                <button is="emby-button" class="itemsViewSettingsContainer-button btnSort hide raised raised-mini listTextButton-autohide">
+                    <i class="md-icon button-icon button-icon-left autortl">&#xE164;</i>
+                    <span class="btnSortText emby-button-text"></span>
+                    <i class="md-icon btnSortIcon button-icon button-icon-right">&#xE5D8;</i>
+                </button>
+                <button is="paper-icon-button-light" class="itemsViewSettingsContainer-button btnSort hide listIconButton-autohide">
+                    <i class="md-icon autortl">&#xE164;</i>
+                </button>
+                <button is="emby-button" class="itemsViewSettingsContainer-button btnFilter raised raised-mini listTextButton-autohide">
+                    <i class="md-icon button-icon button-icon-left">&#xE152;</i>
+                    <span class="emby-button-text">${Filter}</span>
+                </button>
+                <button is="paper-icon-button-light" class="itemsViewSettingsContainer-button btnFilter listIconButton-autohide hide" data-ripple="false" style="overflow:visible;">
+                    <i class="md-icon">&#xE152;</i>
+                </button>
+                <button is="emby-button" class="itemsViewSettingsContainer-button btnViewSettings raised raised-mini listTextButton-autohide hide">
+                    <i class="md-icon button-icon">&#xE5D3;</i>
+                </button>
+                <button is="paper-icon-button-light" class="itemsViewSettingsContainer-button btnViewSettings hide listIconButton-autohide">
+                    <i class="md-icon">&#xE5D3;</i>
+                </button>
+            </div>
+
+            <div is="emby-itemscontainer" class="itemsContainer flex flex-grow vertical-wrap centered padded-bottom-page focuscontainer navout-up navout-x" data-focusabletype="nearest" data-virtualscrolllayout="vertical-grid" data-alphanumericshortcuts="true">
+            </div>
+        </div>
+    </div>
+</div>

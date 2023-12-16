@@ -1,0 +1,36 @@
+2023-12-17 00:09:05.317 Info App: Emby Server Version: 4.8.0.62
+2023-12-17 00:09:05.317 Info App: Emby
+	Command line: D:\emby_win4.8.0.62_system.zip\system\EmbyServer.dll
+	Operating system: Microsoft Windows 10.0.22621
+	Framework: .NET 6.0.25
+	OS/Process: x64/x64
+	Runtime: D:/emby_win4.8.0.62_system.zip/system/System.Private.CoreLib.dll
+	Processor count: 20
+	Data path: D:\emby_win4.8.0.62_system.zip\programdata
+	Application path: D:\emby_win4.8.0.62_system.zip\system
+2023-12-17 00:09:05.317 Info App: Logs path: D:\emby_win4.8.0.62_system.zip\programdata\logs
+2023-12-17 00:09:05.317 Info App: Cache path: D:\emby_win4.8.0.62_system.zip\programdata\cache
+2023-12-17 00:09:05.317 Info App: Internal metadata path: D:\emby_win4.8.0.62_system.zip\programdata\metadata
+2023-12-17 00:09:05.317 Info App: Transcoding temporary files path: D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp
+2023-12-17 00:09:05.318 Info App: Plugins:
+	Bluray Folder Support 1.0.1.0
+	Cinema Intros 1.0.46.0
+	DLNA 1.2.8.0
+	Dvd Folder Support 1.0.0.0
+	Emby Guide Data 1.0.12.0
+	Fanart.tv 1.0.15.0
+	M3U TV Tuner 1.0.19.0
+	MovieDb 1.7.4.0
+	MusicBrainz 1.0.22.0
+	Nfo Metadata 1.0.78.0
+	OMDb 1.0.20.0
+	Open Subtitles 1.0.37.0
+	Port Mapper 1.2.4.0
+	Studio Images 1.0.3.0
+	TheAudioDb 1.0.18.0
+	TheTVDB 1.4.2.0
+	Webhooks 1.0.33.0
+	XmlTV 1.1.5.0
+2023-12-17 00:09:05.318 Debug TaskManager: Rotate log file Completed after 0 minute(s) and 0 seconds
+2023-12-17 00:12:13.854 Info Server: http/1.1 POST http://‌‍‍localhost‌:8096/emby/Sessions/Capabilities/Full?X-Emby-Client=Emby Web&X-Emby-Device-Name=Google Chrome Windows&X-Emby-Device-Id=2fb2e869-83de-4fce-9e1a-accad3fa89a0&X-Emby-Client-Version=4.8.0.62&X-Emby-Token=‌d2f2eccc405945d1b3427b8918cc127a‌&X-Emby-Language=zh-cn&reqformat=json. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2023-12-17 00:12:13.857 Info Server: http/1.1 Response 204 to ‌‍‍::1‌. Time: 3ms. POST http://‌‍‍localhost‌:8096/emby/Sessions/Capabilities/Full?X-Emby-Client=Emby Web&X-Emby-Device-Name=Google Chrome Windows&X-Emby-Device-Id=2fb2e869-83de-4fce-9e1a-accad3fa89a0&X-Emby-Client-Version=4.8.0.62&X-Emby-Token=‌d2f2eccc405945d1b3427b8918cc127a‌&X-Emby-Language=zh-cn&reqformat=json

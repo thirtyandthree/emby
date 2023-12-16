@@ -1,0 +1,342 @@
+﻿<div class="formDialogHeader">
+    <button type="button" is="emby-dialogclosebutton"></button>
+    <h3 class="formDialogHeaderTitle">
+        ${Edit}
+    </h3>
+    <div style="margin-left: auto;" class="flex align-items-center justify-content-center">
+        <button is="emby-button" type="button" class="btnHeaderSave button-link hide" tabindex="-1">
+            <i class="md-icon">&#xe5ca;</i>
+            <span>${Save}</span>
+        </button>
+        <button is="paper-icon-button-light" class="btnMore hide" tabindex="-1">
+            <i class="md-icon">more_horiz</i>
+        </button>
+    </div>
+</div>
+
+<div is="emby-scroller" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" class="formDialogContent">
+    <div class="scrollSlider">
+        <form class="editItemMetadataForm editMetadataForm dialogContentInner dialog-content-centered padded-left padded-right" style="padding-top:0;">
+            <div class="metadataFormFields">
+
+                <div class="fldPath inputContainer">
+                    <div class="inputLabel inputLabelUnfocused hide">${LabelPath}</div>
+                    <div class="txtPath fieldDescription"></div>
+                </div>
+                <div class="inputContainer flex align-items-flex-end">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtName txtInput-withlockedfield" type="text" label="${LabelTitle}" required="required" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="Name" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="fldOriginalName inputContainer flex align-items-flex-end">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtOriginalName txtInput-withlockedfield" type="text" label="${LabelOriginalTitle}" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="OriginalTitle" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="inputContainer flex align-items-flex-end fldSortName hide">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtSortName txtInput-withlockedfield" type="text" label="${LabelSortTitle}" required="required" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="SortName" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="inputContainer flex align-items-flex-end fldChannelNumber hide">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtChannelNumber txtInput-withlockedfield" type="text" label="${LabelChannelNumber}" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="ChannelNumber" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="fldDateAdded hide inputContainer">
+                    <input is="emby-input" class="txtDateAdded" type="datetime-local" label="${LabelDateAdded}" step="1" />
+                    <div class="fieldDescription">${ConfigureDateAdded}</div>
+                </div>
+                <div class="fldStatus hide selectContainer">
+                    <select is="emby-select" class="selectStatus" label="${LabelStatus}"></select>
+                </div>
+                <div class="fldArtist hide inputContainer">
+                    <input is="emby-input" class="txtArtist" type="text" label="${LabelArtists}" />
+                    <div class="fieldDescription">${LabelArtistsHelp}</div>
+                </div>
+                <div class="fldAlbumArtist hide inputContainer">
+                    <input is="emby-input" class="txtAlbumArtist" type="text" label="${LabelAlbumArtists}" />
+                    <div class="fieldDescription">${LabelArtistsHelp}</div>
+                </div>
+                <div class="fldAlbum hide inputContainer">
+                    <input is="emby-input" class="txtAlbum" type="text" label="${LabelAlbum}" />
+                </div>
+                <div class="fldParentIndexNumber hide inputContainer">
+                    <input is="emby-input" class="txtParentIndexNumber" type="number" inputmode="numeric" />
+                </div>
+                <div class="fldIndexNumber hide inputContainer">
+                    <input is="emby-input" class="txtIndexNumber" type="number" inputmode="numeric" />
+                </div>
+                <div class="fldCommunityRating inputContainer flex align-items-flex-end">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtCommunityRating txtInput-withlockedfield" type="number" inputmode="decimal" step=".1" min="0" max="10" label="${LabelCommunityRating}" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="CommunityRating" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="fldCriticRating inputContainer flex align-items-flex-end">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtCriticRating txtInput-withlockedfield" type="number" inputmode="decimal" step=".1" label="${LabelCriticRating}" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="CriticRating" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="fldTagline inputContainer flex align-items-flex-end">
+                    <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                        <input is="emby-input" class="txtTagline txtInput-withlockedfield" type="text" label="${Tagline}" />
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="Tagline" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="inputContainer overviewContainer flex align-items-flex-end">
+                    <label class="flex-grow inputContainer inputContainer-withlockedfield">
+                        <textarea is="emby-textarea" class="txtOverview txtInput-withlockedfield" label="${LabelOverview}" style="height:13em;resize:none;"></textarea>
+                    </label>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="Overview" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield" style="height:13em;"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="inputContainer overviewContainer hide">
+                    <label>
+                        <textarea is="emby-textarea" class="txtOverview" label="${LabelOverview}"></textarea>
+                    </label>
+                </div>
+                <div class="fldPremiereDate inputContainer">
+                    <input is="emby-input" class="txtPremiereDate" label="${LabelReleaseDate}" type="date" />
+                </div>
+                <div class="fldYear hide inputContainer">
+                    <input is="emby-input" class="txtProductionYear" type="number" inputmode="numeric" label="${LabelYear}" />
+                </div>
+                <div class="fldPlaceOfBirth hide inputContainer">
+                    <input is="emby-input" class="txtPlaceOfBirth" type="text" label="${LabelPlaceOfBirth}" />
+                </div>
+                <div class="fldEndDate inputContainer">
+                    <input is="emby-input" class="txtEndDate" label="${LabelEndDate}" type="date" />
+                </div>
+                <div class="fldSeriesRuntime inputContainer hide">
+                    <input is="emby-input" class="txtSeriesRuntime" type="number" inputmode="numeric" label="${LabelRuntimeMinutes}" />
+                </div>
+                <div class="fldOfficialRating inputContainer flex align-items-flex-end hide">
+                    <div class="selectContainer flex-grow inputContainer-withlockedfield">
+                        <select is="emby-select" class="selectOfficialRating select-withlockedfield" label="${LabelParentalRating}"></select>
+                    </div>
+                    <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                        <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="OfficialRating" aria-label="${LockThisField}" />
+                        <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield checkboxLabel-lockedfield-embeddedintoselect"></span>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                        <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                    </label>
+                </div>
+                <div class="fldCustomRating selectContainer hide">
+                    <select is="emby-select" class="selectCustomRating" label="${LabelCustomRating}"></select>
+                    <div class="fieldDescription">${CustomRatingHelp}</div>
+                </div>
+                <div class="fld3dFormat selectContainer hide">
+                    <select is="emby-select" class="select3dFormat" label="${Label3DFormat}">
+                        <option value=""></option>
+                        <option value="HalfSideBySide">HSBS</option>
+                        <option value="HalfTopAndBottom">HTAB</option>
+                        <option value="FullSideBySide">FSBS</option>
+                        <option value="FullTopAndBottom">FTAB</option>
+                        <option value="MVC">MVC</option>
+                    </select>
+                </div>
+
+                <div class="fldDisplayOrder fldDisplaySetting selectContainer hide">
+                    <select is="emby-select" class="selectDisplayOrder" label="${LabelDisplayOrder}"></select>
+                    <div class="fieldDescription seriesDisplayOrderDescription">${SeriesDisplayOrderHelp}</div>
+                </div>
+
+                <div class="detailSection channelMappingSection hide">
+                    <div class="selectContainer">
+                        <select is="emby-select" class="selectGuideDataProvider" label="${LabelGuideDataSource}"></select>
+                    </div>
+                    <div class="selectContainer fldGuideChannelId hide">
+                        <select is="emby-select" class="selectGuideChannel" label="${LabelGuideDataChannel}"></select>
+                    </div>
+                </div>
+
+                <div class="detailSection hide collapsibleSpecialEpisodeInfo">
+                    <h2>
+                        ${HeaderSpecialEpisodeInfo}
+                    </h2>
+                    <div class="specialEpisodeNumbers">
+                        <div class="inputContainer flex align-items-flex-end">
+                            <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                                <input is="emby-input" class="txtDisplaySeason txtInput-withlockedfield" type="text" label="${LabelAirsDuringSeason}" />
+                            </div>
+                            <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                                <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="SortParentIndexNumber" aria-label="${LockThisField}" />
+                                <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                                <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                                <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                            </label>
+                        </div>
+
+                        <div class="inputContainer flex align-items-flex-end">
+                            <div class="inputContainer flex-grow inputContainer-withlockedfield">
+                                <input is="emby-input" class="txtDisplayEpisode txtInput-withlockedfield" type="text" label="${LabelAirsBeforeEpisode}" />
+                            </div>
+                            <label class="checkboxContainer checkboxContainer-lockedfield" title="${LockThisField}">
+                                <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="SortIndexNumber" aria-label="${LockThisField}" />
+                                <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-embeddedintofield"></span>
+                                <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                                <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="detailSection externalIdsSection hide">
+                    <h2>
+                        ${HeaderExternalIds}
+                    </h2>
+                    <div class="externalIds editorFieldset">
+                    </div>
+                </div>
+
+                <div class="genresCollapsible editableListviewContainer hide" style="margin-top: 2em;">
+                    <div class="flex align-items-center padded-bottom">
+                        <h2 style="margin:0;">
+                            ${Genres}
+                        </h2>
+                        <button is="emby-button" type="button" class="fab btnAddTextItem submit" style="margin-left:1em;" title="${Add}" aria-label="${Add}">
+                            <i class="md-icon fab-icon">&#xE145;</i>
+                        </button>
+
+                        <label class="checkboxContainer checkboxContainer-lockedfield checkboxContainer-lockedfield-standalone" title="${LockThisField}">
+                            <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="Genres" aria-label="${LockThisField}" />
+                            <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-standalone"></span>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                        </label>
+                    </div>
+                    <div class="editorList listGenres"></div>
+                </div>
+                <div class="peopleCollapsible hide" style="margin-top: 3em;">
+                    <div class="flex align-items-center padded-bottom">
+                        <h2 style="margin:0;">
+                            ${People}
+                        </h2>
+                        <button is="emby-button" type="button" class="btnAddPerson fab btnAddPerson" style="margin-left:1em;" title="${Add}" aria-label="${Add}">
+                            <i class="md-icon fab-icon">&#xE145;</i>
+                        </button>
+
+                        <label class="checkboxContainer checkboxContainer-lockedfield checkboxContainer-lockedfield-standalone" title="${LockThisField}">
+                            <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="People" aria-label="${LockThisField}" />
+                            <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-standalone"></span>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                        </label>
+                    </div>
+                    <div class="peopleList editorList">
+                    </div>
+                </div>
+                <div class="studiosCollapsible editableListviewContainer hide" style="margin-top: 2em;">
+                    <div class="flex align-items-center padded-bottom">
+                        <h2 style="margin:0;">
+                            ${Studios}
+                        </h2>
+                        <button is="emby-button" type="button" class="fab btnAddTextItem submit" style="margin-left:1em;" title="${Add}" aria-label="${Add}">
+                            <i class="md-icon fab-icon">&#xE145;</i>
+                        </button>
+
+                        <label class="checkboxContainer checkboxContainer-lockedfield checkboxContainer-lockedfield-standalone" title="${LockThisField}">
+                            <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="Studios" aria-label="${LockThisField}" />
+                            <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-standalone"></span>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                        </label>
+                    </div>
+                    <div class="editorList listStudios"></div>
+                </div>
+                <div class="tagsCollapsible editableListviewContainer hide" style="margin-top: 2em;">
+                    <div class="flex align-items-center padded-bottom">
+                        <h2 style="margin:0;">
+                            ${Tags}
+                        </h2>
+                        <button is="emby-button" type="button" class="fab btnAddTextItem submit" style="margin-left:1em;" title="${Add}" aria-label="${Add}">
+                            <i class="md-icon fab-icon">&#xE145;</i>
+                        </button>
+
+                        <label class="checkboxContainer checkboxContainer-lockedfield checkboxContainer-lockedfield-standalone" title="${LockThisField}">
+                            <input type="checkbox" is="emby-checkbox" class="chkLockedField" data-field="Tags" aria-label="${LockThisField}" />
+                            <span class="checkboxLabel-lockedfield checkboxLabel-lockedfield-standalone"></span>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-lock secondaryText">lock</i>
+                            <i class="md-icon lockedfield-lockicon lockedfield-lockicon-unlock secondaryText">lock_open</i>
+                        </label>
+                    </div>
+
+                    <div class="editorList listTags"></div>
+                </div>
+                <div class="metadataSettingsCollapsible hide" style="margin-top: 2em;">
+                    <h2>${HeaderMetadataSettings}</h2>
+                    <div>
+                        <div class="selectContainer">
+                            <select is="emby-select" class="selectLanguage" label="${LabelMetadataDownloadLanguage}"></select>
+                            <div class="fieldDescription editorfieldDescription">${MessageLeaveEmptyToInherit}</div>
+                        </div>
+                        <div class="selectContainer">
+                            <select is="emby-select" class="selectCountry" label="${LabelCountry}"></select>
+                            <div class="fieldDescription editorfieldDescription">${MessageLeaveEmptyToInherit}</div>
+                        </div>
+
+                        <label class="checkboxContainer">
+                            <input type="checkbox" is="emby-checkbox" class="chkLockData" />
+                            <span>${LabelLockItemToPreventChanges}</span>
+                        </label>
+
+                        <div class="providerSettingsContainer checkboxList hide">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="formDialogFooter hide">
+                    <button is="emby-button" type="submit" class="raised button-submit block btnSave formDialogFooterItem">
+                        <span>${Save}</span>
+                    </button>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

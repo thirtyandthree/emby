@@ -1,0 +1,643 @@
+{
+    "name": "Zootopia",
+    "tmdb_id": "269149",
+    "imdb_id": "tt2948356",
+    "hdmovieclearart": [
+        {
+            "id": "134497",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-569a4ff1998b6.png",
+            "lang": "en",
+            "likes": "16"
+        },
+        {
+            "id": "155237",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-57555fd67f370.png",
+            "lang": "de",
+            "likes": "3"
+        },
+        {
+            "id": "154988",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-57530ebc9bf3b.png",
+            "lang": "de",
+            "likes": "3"
+        },
+        {
+            "id": "155504",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-5759ee5faa396.png",
+            "lang": "pl",
+            "likes": "3"
+        },
+        {
+            "id": "156009",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-5761243345341.png",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "226215",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-5af2ccde1c15f.png",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "293853",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-5e8847701120e.png",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "293854",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-5e884770332a9.png",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "134498",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-569a50048e339.png",
+            "lang": "ru",
+            "likes": "2"
+        },
+        {
+            "id": "155512",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-575a0cad0b78e.png",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "312384",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovieclearart/zootopia-5f8c5fd44fbcf.png",
+            "lang": "cz",
+            "likes": "0"
+        }
+    ],
+    "hdmovielogo": [
+        {
+            "id": "120541",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-55eba759d2185.png",
+            "lang": "en",
+            "likes": "16"
+        },
+        {
+            "id": "155994",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5761167b6fad4.png",
+            "lang": "es",
+            "likes": "6"
+        },
+        {
+            "id": "130319",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-56659752c845e.png",
+            "lang": "fr",
+            "likes": "5"
+        },
+        {
+            "id": "146814",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-57030e567a365.png",
+            "lang": "en",
+            "likes": "4"
+        },
+        {
+            "id": "128164",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5649e79240bad.png",
+            "lang": "it",
+            "likes": "4"
+        },
+        {
+            "id": "155235",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-57555fb9a8903.png",
+            "lang": "de",
+            "likes": "3"
+        },
+        {
+            "id": "154970",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5752fad80185d.png",
+            "lang": "de",
+            "likes": "3"
+        },
+        {
+            "id": "130310",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-56656e8288efd.png",
+            "lang": "ru",
+            "likes": "3"
+        },
+        {
+            "id": "348019",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-61630cb6c7e20.png",
+            "lang": "hu",
+            "likes": "2"
+        },
+        {
+            "id": "155456",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-57595f62851eb.png",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "155457",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-57595f6286094.png",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "312379",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5f8c5f34336ba.png",
+            "lang": "cz",
+            "likes": "1"
+        },
+        {
+            "id": "312378",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5f8c5eb8b0169.png",
+            "lang": "cz",
+            "likes": "1"
+        },
+        {
+            "id": "296699",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5ea4c9c87b552.png",
+            "lang": "de",
+            "likes": "0"
+        },
+        {
+            "id": "296698",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5ea4c9bc2e1ed.png",
+            "lang": "fr",
+            "likes": "0"
+        },
+        {
+            "id": "312523",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5f8fa1c89f5c2.png",
+            "lang": "zh",
+            "likes": "0"
+        },
+        {
+            "id": "242022",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5bff1033919b9.png",
+            "lang": "it",
+            "likes": "0"
+        },
+        {
+            "id": "282861",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/hdmovielogo/zootopia-5e1120cd2f4e8.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "moviebackground": [
+        {
+            "id": "136536",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-56b0a4adcd559.jpg",
+            "lang": "",
+            "likes": "12"
+        },
+        {
+            "id": "137411",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-56ba1aa5cef74.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "216033",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-5a66066431d86.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "132017",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-5680552ac18e2.jpg",
+            "lang": "",
+            "likes": "4"
+        },
+        {
+            "id": "153805",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-57434142c16e6.jpg",
+            "lang": "",
+            "likes": "3"
+        },
+        {
+            "id": "153804",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-57434142c10e6.jpg",
+            "lang": "",
+            "likes": "3"
+        },
+        {
+            "id": "294068",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-5e89c7ce0f4f8.jpg",
+            "lang": "",
+            "likes": "0"
+        },
+        {
+            "id": "293857",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-5e884784589a9.jpg",
+            "lang": "",
+            "likes": "0"
+        },
+        {
+            "id": "293855",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebackground/zootopia-5e8847841bb04.jpg",
+            "lang": "",
+            "likes": "0"
+        }
+    ],
+    "moviedisc": [
+        {
+            "id": "137932",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-56bfc33e7cd6f.png",
+            "lang": "en",
+            "likes": "11",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "136531",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-56b0a30ebf012.png",
+            "lang": "en",
+            "likes": "7",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "136521",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-56b07a35b212b.png",
+            "lang": "en",
+            "likes": "7",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "195591",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-5926e39a05f49.png",
+            "lang": "en",
+            "likes": "6",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "153401",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-573e4cafae855.png",
+            "lang": "en",
+            "likes": "6",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "156238",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-57654c02ab50a.png",
+            "lang": "de",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "3d"
+        },
+        {
+            "id": "155996",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-57611697aea0e.png",
+            "lang": "es",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "136520",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-56b07a276eb1d.png",
+            "lang": "en",
+            "likes": "4",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "325765",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-604133c518a02.png",
+            "lang": "en",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "136532",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-56b0a32fb344f.png",
+            "lang": "ru",
+            "likes": "2",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "255521",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-5cc19ae97d337.png",
+            "lang": "en",
+            "likes": "1",
+            "disc": "1",
+            "disc_type": "bluray"
+        },
+        {
+            "id": "312994",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviedisc/zootopia-5f955bbf2913b.png",
+            "lang": "cz",
+            "likes": "0",
+            "disc": "1",
+            "disc_type": "bluray"
+        }
+    ],
+    "movieposter": [
+        {
+            "id": "153450",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-573f3f2c6d6ee.jpg",
+            "lang": "en",
+            "likes": "10"
+        },
+        {
+            "id": "153379",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-573e053c3bcc3.jpg",
+            "lang": "en",
+            "likes": "10"
+        },
+        {
+            "id": "153292",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-573d4ac67fca3.jpg",
+            "lang": "en",
+            "likes": "7"
+        },
+        {
+            "id": "136889",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-56b47cc35038f.jpg",
+            "lang": "fr",
+            "likes": "6"
+        },
+        {
+            "id": "134496",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-569a4fda9672b.jpg",
+            "lang": "00",
+            "likes": "6"
+        },
+        {
+            "id": "126812",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-563c2684c2654.jpg",
+            "lang": "en",
+            "likes": "6"
+        },
+        {
+            "id": "161603",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57ae31f076b46.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "161699",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57af5aec77975.jpg",
+            "lang": "ru",
+            "likes": "2"
+        },
+        {
+            "id": "161721",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57af9bc1421bb.jpg",
+            "lang": "00",
+            "likes": "2"
+        },
+        {
+            "id": "162007",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57b38c3e72aa3.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "198078",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-594818263c463.jpg",
+            "lang": "it",
+            "likes": "2"
+        },
+        {
+            "id": "138457",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-56c48676bf6db.jpg",
+            "lang": "it",
+            "likes": "2"
+        },
+        {
+            "id": "141599",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-56da1e6e9068d.jpg",
+            "lang": "ar",
+            "likes": "2"
+        },
+        {
+            "id": "141600",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-56da1e7a22c7d.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "141601",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-56da1f823f386.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "155238",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57555ff99a8a4.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "155514",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-575a15e2613ac.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "155460",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57596535bd052.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "155458",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57595f8094e52.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "155236",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-57555fc9d1506.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "155322",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-5756b542bdccf.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "347836",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-61614a6abcde3.jpg",
+            "lang": "hu",
+            "likes": "1"
+        },
+        {
+            "id": "312380",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-5f8c5f51d7e5a.jpg",
+            "lang": "cz",
+            "likes": "0"
+        },
+        {
+            "id": "312381",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-5f8c5f6f546da.jpg",
+            "lang": "cz",
+            "likes": "0"
+        },
+        {
+            "id": "312382",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-5f8c5f9162c09.jpg",
+            "lang": "00",
+            "likes": "0"
+        },
+        {
+            "id": "312383",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/movieposter/zootopia-5f8c5fb21fa87.jpg",
+            "lang": "00",
+            "likes": "0"
+        }
+    ],
+    "moviebanner": [
+        {
+            "id": "136493",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-56afcd9a31d0d.jpg",
+            "lang": "en",
+            "likes": "9"
+        },
+        {
+            "id": "155997",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-576116a36b802.jpg",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "198558",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-594e8a75e526a.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "198559",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-594e8a75eb18c.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "198560",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-594e8a75f1161.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "155513",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-575a11742d1ec.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "136494",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-56afcda68a1c4.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "136495",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-56afcdb2713a1.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "136533",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-56b0a34b8ab3b.jpg",
+            "lang": "ru",
+            "likes": "2"
+        },
+        {
+            "id": "155511",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-575a09fbec169.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "347838",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviebanner/zootopia-61614a7d5048f.jpg",
+            "lang": "hu",
+            "likes": "1"
+        }
+    ],
+    "moviethumb": [
+        {
+            "id": "136534",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-56b0a3b21d2fd.jpg",
+            "lang": "en",
+            "likes": "6"
+        },
+        {
+            "id": "143976",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-56edb8847b1ef.jpg",
+            "lang": "en",
+            "likes": "5"
+        },
+        {
+            "id": "155998",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-576116b1ccc1c.jpg",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "155999",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-576116ba57c4c.jpg",
+            "lang": "es",
+            "likes": "3"
+        },
+        {
+            "id": "155554",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-575a8aad481ae.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "221381",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-5aa6e290e0dc8.jpg",
+            "lang": "en",
+            "likes": "2"
+        },
+        {
+            "id": "136535",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-56b0a3cca049f.jpg",
+            "lang": "ru",
+            "likes": "2"
+        },
+        {
+            "id": "143977",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-56edb91634381.jpg",
+            "lang": "fr",
+            "likes": "2"
+        },
+        {
+            "id": "155508",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-5759fef7cc883.jpg",
+            "lang": "pl",
+            "likes": "2"
+        },
+        {
+            "id": "155391",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-5758711a06b87.jpg",
+            "lang": "de",
+            "likes": "2"
+        },
+        {
+            "id": "347908",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-6161bb0b99f1b.jpg",
+            "lang": "hu",
+            "likes": "1"
+        },
+        {
+            "id": "312385",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-5f8c5fffc4279.jpg",
+            "lang": "cz",
+            "likes": "0"
+        },
+        {
+            "id": "143975",
+            "url": "https://assets.fanart.tv/fanart/movies/269149/moviethumb/zootopia-56edb75ed53ec.jpg",
+            "lang": "fr",
+            "likes": "0"
+        }
+    ]
+}

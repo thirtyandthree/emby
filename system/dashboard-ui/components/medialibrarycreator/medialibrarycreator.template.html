@@ -1,0 +1,49 @@
+﻿<div class="formDialogHeader">
+    <button type="button" is="emby-dialogclosebutton"></button>
+    <h3 class="formDialogHeaderTitle">
+        ${HeaderNewLibrary}
+    </h3>
+</div>
+
+<div is="emby-scroller" data-horizontal="false" data-forcescrollbar="true" data-focusscroll="true" class="formDialogContent">
+    <div class="scrollSlider dialogContentInner dialog-content-centered padded-left padded-right">
+        <form style="margin:auto;">
+
+            <div class="inputContainer text-align-end">
+                <label style="width:auto;">
+                    <input is="emby-toggle" type="checkbox" class="chkAdvanced noautofocus" />
+                    <span>${ShowAdvancedSettings}</span>
+                </label>
+            </div>
+
+            <div class="fldCollectionType selectContainer">
+                <select is="emby-select" class="selectCollectionType" required="required" label="${LabelContentType}"></select>
+                <div class="collectionTypeFieldDescription fieldDescription">
+                </div>
+            </div>
+            <div class="inputContainer">
+                <input is="emby-input" type="text" class="txtValue" required="required" label="${LabelDisplayName}" />
+            </div>
+
+            <div class="folders verticalSection">
+                <div class="sectionTitleContainer flex align-items-center flex-wrap-wrap focusable" data-focusabletype="nearest">
+                    <h2 class="sectionTitle">${Folders}</h2>
+                    <button is="emby-button" type="button" class="raised raised-mini btnAddFolder submit sectionTitleButton">
+                        <i class="md-icon button-icon button-icon button-icon-left">&#xE145;</i>
+                        <span>${Add}</span>
+                    </button>
+                </div>
+                <div class="folderList sectionContent" style="margin-bottom:1em;"></div>
+            </div>
+
+            <div class="libraryOptions hide"></div>
+            <br />
+
+            <div class="formDialogFooter">
+                <button is="emby-button" type="submit" class="raised button-submit block formDialogFooterItem">
+                    <span>${ButtonOk}</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>

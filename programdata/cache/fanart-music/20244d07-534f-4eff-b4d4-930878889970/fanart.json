@@ -1,0 +1,2766 @@
+{
+    "name": "Taylor Swift",
+    "mbid_id": "20244d07-534f-4eff-b4d4-930878889970",
+    "artistthumb": [
+        {
+            "id": "265928",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2d08f329c8.jpg",
+            "likes": "13",
+            "added": "2019-05-09 05:49:30"
+        },
+        {
+            "id": "265909",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cdb5761b0.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:43:22"
+        },
+        {
+            "id": "265911",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cdd8627e0.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:43:33"
+        },
+        {
+            "id": "265912",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cdeed2f78.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:43:45"
+        },
+        {
+            "id": "265913",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ce099a59e.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:43:56"
+        },
+        {
+            "id": "265914",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ce29d5221.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:44:10"
+        },
+        {
+            "id": "265915",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ce3fe467c.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:44:20"
+        },
+        {
+            "id": "265916",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ce5fdf159.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:44:33"
+        },
+        {
+            "id": "265917",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ce76d0f9f.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:44:43"
+        },
+        {
+            "id": "265918",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ce9618b0a.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:44:54"
+        },
+        {
+            "id": "265919",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2ceaac0f47.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:45:16"
+        },
+        {
+            "id": "265920",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cec0e2aae.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:45:36"
+        },
+        {
+            "id": "265921",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cef50c42b.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:46:30"
+        },
+        {
+            "id": "265922",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cf0ead729.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:46:59"
+        },
+        {
+            "id": "265923",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cfd357268.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:48:37"
+        },
+        {
+            "id": "265924",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2cfec95bd0.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:48:47"
+        },
+        {
+            "id": "265925",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2d026b6f3f.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:48:59"
+        },
+        {
+            "id": "265926",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2d04291b1c.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:49:09"
+        },
+        {
+            "id": "265927",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd2d06ce4f2b.jpg",
+            "likes": "12",
+            "added": "2019-05-09 05:49:20"
+        },
+        {
+            "id": "78407",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5165ad8072fe4.jpg",
+            "likes": "4",
+            "added": "2013-04-11 08:48:45"
+        },
+        {
+            "id": "35342",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-4fd0a58c8bbc1.jpg",
+            "likes": "3",
+            "added": "2012-06-07 15:39:33"
+        },
+        {
+            "id": "35343",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-4fd0a58c8c2c3.jpg",
+            "likes": "3",
+            "added": "2012-06-07 15:39:41"
+        },
+        {
+            "id": "77821",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-515dcca6b7830.jpg",
+            "likes": "3",
+            "added": "2013-04-04 18:58:30"
+        },
+        {
+            "id": "35341",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-4fd0a58c8633c.jpg",
+            "likes": "2",
+            "added": "2012-06-07 15:39:27"
+        },
+        {
+            "id": "79505",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-516d723acb7ac.jpg",
+            "likes": "2",
+            "added": "2013-04-16 15:56:33"
+        },
+        {
+            "id": "79506",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-516d7242451b7.jpg",
+            "likes": "2",
+            "added": "2013-04-16 15:56:36"
+        },
+        {
+            "id": "89460",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-51e2cd5888bcd.jpg",
+            "likes": "2",
+            "added": "2013-07-15 13:19:48"
+        },
+        {
+            "id": "77822",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-515dcd38eeb8f.jpg",
+            "likes": "1",
+            "added": "2013-04-04 18:58:32"
+        },
+        {
+            "id": "269503",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cfce4f5d2809.jpg",
+            "likes": "1",
+            "added": "2019-06-09 17:49:14"
+        },
+        {
+            "id": "269932",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5d02bf96f3b46.jpg",
+            "likes": "1",
+            "added": "2019-06-14 00:57:19"
+        },
+        {
+            "id": "269933",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5d02bfd3363bd.jpg",
+            "likes": "1",
+            "added": "2019-06-14 00:57:30"
+        },
+        {
+            "id": "79507",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-516d724b08d4b.jpg",
+            "likes": "0",
+            "added": "2013-04-16 15:56:39"
+        },
+        {
+            "id": "265981",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5cd41ee18820f.jpg",
+            "likes": "0",
+            "added": "2019-05-09 13:16:39"
+        },
+        {
+            "id": "304064",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistthumb/swift-taylor-5eeeb1dd7660b.jpg",
+            "likes": "0",
+            "added": "2020-06-21 19:31:09"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "269950",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d039358bb4ce.jpg",
+            "likes": "10",
+            "added": "2019-06-14 15:17:26"
+        },
+        {
+            "id": "270923",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d1247307ab5a.jpg",
+            "likes": "9",
+            "added": "2019-06-26 03:50:40"
+        },
+        {
+            "id": "265092",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6edfbed24f.jpg",
+            "likes": "6",
+            "added": "2019-04-30 01:03:58"
+        },
+        {
+            "id": "225158",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d4ae0c4d2.jpg",
+            "likes": "5",
+            "added": "2017-08-27 17:07:47"
+        },
+        {
+            "id": "3789",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e85e6e8bb.jpg",
+            "likes": "4",
+            "added": "2011-05-30 19:01:13"
+        },
+        {
+            "id": "3791",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e8917d8b5.jpg",
+            "likes": "4",
+            "added": "2011-05-30 19:01:17"
+        },
+        {
+            "id": "3798",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e94a0cf21.jpg",
+            "likes": "4",
+            "added": "2011-05-30 19:01:32"
+        },
+        {
+            "id": "56226",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-507788dcc05cb.jpg",
+            "likes": "3",
+            "added": "2012-10-15 19:00:15"
+        },
+        {
+            "id": "68894",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51045a4c1cf83.jpg",
+            "likes": "3",
+            "added": "2013-01-27 21:12:16"
+        },
+        {
+            "id": "3787",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e83dbebb7.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:00:57"
+        },
+        {
+            "id": "3790",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e86840849.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:01:15"
+        },
+        {
+            "id": "3792",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e89d90f8c.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:01:19"
+        },
+        {
+            "id": "3793",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e905058ce.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:01:21"
+        },
+        {
+            "id": "3796",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e92dc5eba.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:01:27"
+        },
+        {
+            "id": "3797",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e938a93cd.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:01:29"
+        },
+        {
+            "id": "3799",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e959c18c7.jpg",
+            "likes": "2",
+            "added": "2011-05-30 19:01:34"
+        },
+        {
+            "id": "22175",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4f3c83fa01eb8.jpg",
+            "likes": "2",
+            "added": "2012-02-17 02:56:45"
+        },
+        {
+            "id": "44467",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-500e9b816c603.jpg",
+            "likes": "2",
+            "added": "2012-07-24 23:57:27"
+        },
+        {
+            "id": "44468",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-500e9b99704d5.jpg",
+            "likes": "2",
+            "added": "2012-07-24 23:57:30"
+        },
+        {
+            "id": "56225",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-507788a69fabc.jpg",
+            "likes": "2",
+            "added": "2012-10-15 19:00:02"
+        },
+        {
+            "id": "68889",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51045627d18ec.jpg",
+            "likes": "2",
+            "added": "2013-01-27 21:11:59"
+        },
+        {
+            "id": "68890",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5104563e0ce97.jpg",
+            "likes": "2",
+            "added": "2013-01-27 21:12:03"
+        },
+        {
+            "id": "68891",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5104564a8245d.jpg",
+            "likes": "2",
+            "added": "2013-01-27 21:12:08"
+        },
+        {
+            "id": "68892",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-510456577d4d0.jpg",
+            "likes": "2",
+            "added": "2013-01-27 21:12:10"
+        },
+        {
+            "id": "68893",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-510456660ab9c.jpg",
+            "likes": "2",
+            "added": "2013-01-27 21:12:12"
+        },
+        {
+            "id": "78403",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5165ad2ce9372.jpg",
+            "likes": "2",
+            "added": "2013-04-11 08:53:50"
+        },
+        {
+            "id": "78404",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5165ad3cb9968.jpg",
+            "likes": "2",
+            "added": "2013-04-11 08:53:53"
+        },
+        {
+            "id": "78406",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5165ad68cd3b9.jpg",
+            "likes": "2",
+            "added": "2013-04-11 08:53:58"
+        },
+        {
+            "id": "78576",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5166b25a55b2f.jpg",
+            "likes": "2",
+            "added": "2013-04-11 13:00:28"
+        },
+        {
+            "id": "78577",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5166b27376c52.jpg",
+            "likes": "2",
+            "added": "2013-04-11 13:00:35"
+        },
+        {
+            "id": "78745",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-516827b9f30fc.jpg",
+            "likes": "2",
+            "added": "2013-04-13 01:31:02"
+        },
+        {
+            "id": "87350",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8b232.jpg",
+            "likes": "2",
+            "added": "2013-06-24 06:33:08"
+        },
+        {
+            "id": "87354",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8c93a.jpg",
+            "likes": "2",
+            "added": "2013-06-24 06:33:29"
+        },
+        {
+            "id": "139907",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5452e2a7cfe01.jpg",
+            "likes": "2",
+            "added": "2014-10-31 07:01:26"
+        },
+        {
+            "id": "225159",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d4d47ceb1.jpg",
+            "likes": "2",
+            "added": "2017-08-27 17:07:56"
+        },
+        {
+            "id": "225161",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d53520c76.jpg",
+            "likes": "2",
+            "added": "2017-08-27 17:08:19"
+        },
+        {
+            "id": "3788",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e8548040a.jpg",
+            "likes": "1",
+            "added": "2011-05-30 19:01:10"
+        },
+        {
+            "id": "3794",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e9151b775.jpg",
+            "likes": "1",
+            "added": "2011-05-30 19:01:23"
+        },
+        {
+            "id": "3795",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/taylor-swift-4de3e9235ffdd.jpg",
+            "likes": "1",
+            "added": "2011-05-30 19:01:25"
+        },
+        {
+            "id": "28037",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-4f8e9aca49754.jpg",
+            "likes": "1",
+            "added": "2012-04-19 03:33:39"
+        },
+        {
+            "id": "44465",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-500e9b4330e73.jpg",
+            "likes": "1",
+            "added": "2012-07-24 23:57:21"
+        },
+        {
+            "id": "44466",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-500e9b674afcb.jpg",
+            "likes": "1",
+            "added": "2012-07-24 23:57:24"
+        },
+        {
+            "id": "52077",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5056175217f5e.jpg",
+            "likes": "1",
+            "added": "2012-09-17 00:41:35"
+        },
+        {
+            "id": "52078",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-50561797ba35a.jpg",
+            "likes": "1",
+            "added": "2012-09-17 00:42:01"
+        },
+        {
+            "id": "52079",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-505617c1b3ab9.jpg",
+            "likes": "1",
+            "added": "2012-09-16 18:48:00"
+        },
+        {
+            "id": "61165",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-50a0f87d81b60.jpg",
+            "likes": "1",
+            "added": "2012-11-13 15:33:21"
+        },
+        {
+            "id": "68888",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51045617eb7d7.jpg",
+            "likes": "1",
+            "added": "2013-01-27 21:11:57"
+        },
+        {
+            "id": "78375",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51659c8d05845.jpg",
+            "likes": "1",
+            "added": "2013-04-11 08:50:31"
+        },
+        {
+            "id": "78542",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51669c4b569b3.jpg",
+            "likes": "1",
+            "added": "2013-04-11 12:51:50"
+        },
+        {
+            "id": "87348",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8a2e4.jpg",
+            "likes": "1",
+            "added": "2013-06-24 06:33:15"
+        },
+        {
+            "id": "87349",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8ac90.jpg",
+            "likes": "1",
+            "added": "2013-06-24 06:33:10"
+        },
+        {
+            "id": "87351",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8b8b3.jpg",
+            "likes": "1",
+            "added": "2013-06-24 06:33:18"
+        },
+        {
+            "id": "87352",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8bf25.jpg",
+            "likes": "1",
+            "added": "2013-06-24 06:33:22"
+        },
+        {
+            "id": "87353",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8c41e.jpg",
+            "likes": "1",
+            "added": "2013-06-24 06:33:32"
+        },
+        {
+            "id": "87355",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8cdf1.jpg",
+            "likes": "1",
+            "added": "2013-06-24 06:33:25"
+        },
+        {
+            "id": "95907",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-521ed83e766e9.jpg",
+            "likes": "1",
+            "added": "2013-08-29 06:15:28"
+        },
+        {
+            "id": "99326",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-524501a1d89d9.jpg",
+            "likes": "1",
+            "added": "2013-09-27 09:48:32"
+        },
+        {
+            "id": "103493",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-52796153019e8.jpg",
+            "likes": "1",
+            "added": "2013-11-05 23:03:16"
+        },
+        {
+            "id": "225120",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a1d21309ac6.jpg",
+            "likes": "1",
+            "added": "2017-08-26 21:50:41"
+        },
+        {
+            "id": "225137",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a252a941f52.jpg",
+            "likes": "1",
+            "added": "2017-08-27 05:34:08"
+        },
+        {
+            "id": "225157",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d49603c21.jpg",
+            "likes": "1",
+            "added": "2017-08-27 17:07:34"
+        },
+        {
+            "id": "225160",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d4f449068.jpg",
+            "likes": "1",
+            "added": "2017-08-27 17:08:10"
+        },
+        {
+            "id": "225162",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d55c6b348.jpg",
+            "likes": "1",
+            "added": "2017-08-27 17:08:29"
+        },
+        {
+            "id": "225163",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a2d5723fc44.jpg",
+            "likes": "1",
+            "added": "2017-08-27 17:08:37"
+        },
+        {
+            "id": "225174",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-59a31dd489742.jpg",
+            "likes": "1",
+            "added": "2017-08-27 19:39:15"
+        },
+        {
+            "id": "264443",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbb09b444f5f.jpg",
+            "likes": "1",
+            "added": "2019-04-21 07:31:43"
+        },
+        {
+            "id": "264445",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbb0a53d97c6.jpg",
+            "likes": "1",
+            "added": "2019-04-21 07:32:58"
+        },
+        {
+            "id": "264446",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbb0a8544680.jpg",
+            "likes": "1",
+            "added": "2019-04-21 07:33:15"
+        },
+        {
+            "id": "264509",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc58f11370f.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:11:35"
+        },
+        {
+            "id": "264510",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5984eebf3.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:11:47"
+        },
+        {
+            "id": "264511",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc59c23e691.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:11:57"
+        },
+        {
+            "id": "264512",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc59eddc3f0.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:12:13"
+        },
+        {
+            "id": "264513",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5a4f35cd3.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:12:33"
+        },
+        {
+            "id": "264514",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5aeef2436.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:12:44"
+        },
+        {
+            "id": "264515",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5b5ec1403.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:12:54"
+        },
+        {
+            "id": "264516",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5b94857b7.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:13:08"
+        },
+        {
+            "id": "264517",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5bc47cf10.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:13:17"
+        },
+        {
+            "id": "264518",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbc5bfe2b805.jpg",
+            "likes": "1",
+            "added": "2019-04-21 22:13:27"
+        },
+        {
+            "id": "264593",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdaad28569a.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:32:52"
+        },
+        {
+            "id": "264594",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdab40cdc66.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:33:08"
+        },
+        {
+            "id": "264595",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdab9467944.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:33:21"
+        },
+        {
+            "id": "264596",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdabd6cb3b4.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:33:35"
+        },
+        {
+            "id": "264597",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdac26ad69b.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:33:48"
+        },
+        {
+            "id": "264598",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdac69bc6b6.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:34:00"
+        },
+        {
+            "id": "264599",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdaca5b1458.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:34:25"
+        },
+        {
+            "id": "264600",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdaceb13c69.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:35:38"
+        },
+        {
+            "id": "264601",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdad4f40918.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:35:54"
+        },
+        {
+            "id": "264602",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cbdad82a8019.jpg",
+            "likes": "1",
+            "added": "2019-04-23 02:36:05"
+        },
+        {
+            "id": "264819",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a82514d88.jpg",
+            "likes": "1",
+            "added": "2019-04-26 05:40:13"
+        },
+        {
+            "id": "264820",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a8666da3f.jpg",
+            "likes": "1",
+            "added": "2019-04-26 06:05:47"
+        },
+        {
+            "id": "264821",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a8a57e064.jpg",
+            "likes": "1",
+            "added": "2019-04-26 06:05:58"
+        },
+        {
+            "id": "264822",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a8df79bf0.jpg",
+            "likes": "1",
+            "added": "2019-04-26 06:06:57"
+        },
+        {
+            "id": "264823",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a9082e4af.jpg",
+            "likes": "1",
+            "added": "2019-04-26 06:07:12"
+        },
+        {
+            "id": "264824",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a937a6ef7.jpg",
+            "likes": "1",
+            "added": "2019-04-26 06:07:33"
+        },
+        {
+            "id": "264825",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc1a971e6f21.jpg",
+            "likes": "1",
+            "added": "2019-04-26 06:07:47"
+        },
+        {
+            "id": "264849",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc2f946127f1.jpg",
+            "likes": "1",
+            "added": "2019-04-27 00:20:12"
+        },
+        {
+            "id": "264850",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc2f996ac37d.jpg",
+            "likes": "1",
+            "added": "2019-04-27 00:20:24"
+        },
+        {
+            "id": "264851",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc2f9d7b0b6f.jpg",
+            "likes": "1",
+            "added": "2019-04-27 00:20:33"
+        },
+        {
+            "id": "264918",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc443735cd1c.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:13:02"
+        },
+        {
+            "id": "264919",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc443b724134.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:13:13"
+        },
+        {
+            "id": "264920",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc443e79e9c5.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:13:28"
+        },
+        {
+            "id": "264921",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc4441bd24de.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:13:39"
+        },
+        {
+            "id": "264922",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc4444ac7c43.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:13:49"
+        },
+        {
+            "id": "264923",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc4447d01230.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:13:59"
+        },
+        {
+            "id": "264924",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc444aa52aa6.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:14:11"
+        },
+        {
+            "id": "264925",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc444d7e76ca.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:14:22"
+        },
+        {
+            "id": "264926",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc44506f2f2e.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:14:34"
+        },
+        {
+            "id": "264927",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc445553ea63.jpg",
+            "likes": "1",
+            "added": "2019-04-27 20:14:44"
+        },
+        {
+            "id": "265026",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5ab3dc6b0e.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:19:06"
+        },
+        {
+            "id": "265027",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5aba521e90.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:19:18"
+        },
+        {
+            "id": "265028",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5abd61859c.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:19:29"
+        },
+        {
+            "id": "265029",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5ac416c517.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:19:59"
+        },
+        {
+            "id": "265030",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5aca8de704.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:20:12"
+        },
+        {
+            "id": "265031",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5c695c2755.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:20:22"
+        },
+        {
+            "id": "265032",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5c6d89d8ee.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:20:46"
+        },
+        {
+            "id": "265033",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5c773134df.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:21:05"
+        },
+        {
+            "id": "265034",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5c7b1e2b59.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:21:29"
+        },
+        {
+            "id": "265035",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc5c7f6c99a0.jpg",
+            "likes": "1",
+            "added": "2019-04-29 03:21:41"
+        },
+        {
+            "id": "265090",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6ed73c1928.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:04:06"
+        },
+        {
+            "id": "265091",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6edb9e9f38.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:04:02"
+        },
+        {
+            "id": "265093",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6ee4e985e7.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:55"
+        },
+        {
+            "id": "265094",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6ee90921a8.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:49"
+        },
+        {
+            "id": "265095",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6eec91916c.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:42"
+        },
+        {
+            "id": "265096",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6eef842b57.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:37"
+        },
+        {
+            "id": "265097",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6ef2be4a82.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:33"
+        },
+        {
+            "id": "265098",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6ef6034155.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:31"
+        },
+        {
+            "id": "265099",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc6ef876ec80.jpg",
+            "likes": "1",
+            "added": "2019-04-30 01:03:29"
+        },
+        {
+            "id": "270494",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d0b6af482210.jpg",
+            "likes": "1",
+            "added": "2019-06-21 04:28:54"
+        },
+        {
+            "id": "270495",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d0b6b0377863.jpg",
+            "likes": "1",
+            "added": "2019-06-21 04:29:05"
+        },
+        {
+            "id": "270496",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d0b6b3c794f5.jpg",
+            "likes": "1",
+            "added": "2019-06-21 04:29:18"
+        },
+        {
+            "id": "270497",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d0b6b4e1c812.jpg",
+            "likes": "1",
+            "added": "2019-06-21 04:29:28"
+        },
+        {
+            "id": "270498",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5d0b6b7d6a39a.jpg",
+            "likes": "1",
+            "added": "2019-06-21 04:29:39"
+        },
+        {
+            "id": "78578",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5166b284a0b71.jpg",
+            "likes": "0",
+            "added": "2013-04-11 13:37:32"
+        },
+        {
+            "id": "87356",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-51c74d0e8d368.jpg",
+            "likes": "0",
+            "added": "2013-06-24 06:33:36"
+        },
+        {
+            "id": "265178",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc83f3c1299b.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:30:08"
+        },
+        {
+            "id": "265179",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc83f85b7ed5.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:30:07"
+        },
+        {
+            "id": "265180",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc83fe05e6f3.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:30:07"
+        },
+        {
+            "id": "265181",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc840ac368c5.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:30:04"
+        },
+        {
+            "id": "265182",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc840e7d08ca.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:30:02"
+        },
+        {
+            "id": "265183",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc84124e5e98.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:30:01"
+        },
+        {
+            "id": "265184",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc8417ce6090.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:29:59"
+        },
+        {
+            "id": "265185",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc84a0f9b926.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:29:57"
+        },
+        {
+            "id": "265186",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc84a4934f05.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:29:56"
+        },
+        {
+            "id": "265187",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc84a9999c60.jpg",
+            "likes": "0",
+            "added": "2019-04-30 20:29:54"
+        },
+        {
+            "id": "265258",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc9900e525d3.jpg",
+            "likes": "0",
+            "added": "2019-05-02 03:41:05"
+        },
+        {
+            "id": "265259",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc9904b6e1dc.jpg",
+            "likes": "0",
+            "added": "2019-05-02 03:41:29"
+        },
+        {
+            "id": "265260",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc990bd735f4.jpg",
+            "likes": "0",
+            "added": "2019-05-02 03:41:57"
+        },
+        {
+            "id": "265261",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc99113692bc.jpg",
+            "likes": "0",
+            "added": "2019-05-02 03:42:21"
+        },
+        {
+            "id": "265262",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc99140bf60b.jpg",
+            "likes": "0",
+            "added": "2019-05-02 03:42:56"
+        },
+        {
+            "id": "265263",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/artistbackground/swift-taylor-5cc991ee34b8f.jpg",
+            "likes": "0",
+            "added": "2019-05-02 03:43:29"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "56246",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/hdmusiclogo/swift-taylor-50779a9bd40e6.png",
+            "likes": "3",
+            "added": "2012-10-15 22:33:57"
+        },
+        {
+            "id": "237605",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/hdmusiclogo/swift-taylor-5ab13c2a955db.png",
+            "likes": "2",
+            "added": "2018-03-20 22:21:55"
+        },
+        {
+            "id": "237641",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/hdmusiclogo/swift-taylor-5ab231ba07fe8.png",
+            "likes": "2",
+            "added": "2018-03-21 10:38:31"
+        },
+        {
+            "id": "241115",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/hdmusiclogo/swift-taylor-5b0ce0fcae005.png",
+            "likes": "0",
+            "added": "2018-05-30 00:12:12"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "5579",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/musiclogo/taylor-swift-4dfb310f4f74c.png",
+            "likes": "2",
+            "added": "2011-06-17 10:54:44"
+        },
+        {
+            "id": "22853",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/musiclogo/taylor-swift-4f4723b1cd870.png",
+            "likes": "1",
+            "added": "2012-02-24 12:26:43"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "56247",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/musicbanner/swift-taylor-50779aae5d3af.jpg",
+            "likes": "1",
+            "added": "2012-10-12 17:07:39"
+        },
+        {
+            "id": "164047",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/musicbanner/swift-taylor-55599959a0573.jpg",
+            "likes": "0",
+            "added": "2015-05-22 08:53:51"
+        },
+        {
+            "id": "241138",
+            "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/musicbanner/swift-taylor-5b0e03a1f2613.jpg",
+            "likes": "0",
+            "added": "2018-05-30 09:54:58"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "f060c8fd-bec9-426e-800e-8efc040a71e6",
+            "albumcover": [
+                {
+                    "id": "225961",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/reputation-59b3286c31ad2.jpg",
+                    "likes": "3",
+                    "added": "2017-09-08 23:47:41"
+                },
+                {
+                    "id": "368609",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/reputation-61e062a215a40.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:20:32"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "240207",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/reputation-5aeba8d661f7b.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-05-04 00:42:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "30e9785b-7b50-4d29-b3d1-96fb55e3397f",
+            "albumcover": [
+                {
+                    "id": "269937",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/lover-5d02e29a4c58b.jpg",
+                    "likes": "3",
+                    "added": "2019-06-14 00:49:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f1d08326-c23b-4b43-be3b-20b33ab10bf6",
+            "albumcover": [
+                {
+                    "id": "307274",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-5f19957d62e40.jpg",
+                    "likes": "3",
+                    "added": "2020-07-26 20:50:43"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "347484",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/folklore-60e98c2206f63.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2021-07-11 10:05:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e86d6219-f5a2-4edd-bf2b-3f9eab190ae0",
+            "albumcover": [
+                {
+                    "id": "321747",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/evermore-5fdae2a88cb10.jpg",
+                    "likes": "3",
+                    "added": "2020-12-18 15:25:58"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "347495",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/evermore-60e9947dacfa7.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2021-07-11 10:05:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d2e4838d-90e1-471c-bda0-fd816dabb2d4",
+            "albumcover": [
+                {
+                    "id": "334526",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-taylors-version-607432835a24f.jpg",
+                    "likes": "3",
+                    "added": "2021-04-12 19:13:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "67727253-f1c0-4243-9270-f9f1401c3b8c",
+            "albumcover": [
+                {
+                    "id": "345330",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-taylors-version-60d0265173a99.jpg",
+                    "likes": "3",
+                    "added": "2021-06-21 06:52:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ba1d0c2a-bb07-38bc-835c-a880f76f1309",
+            "albumcover": [
+                {
+                    "id": "3802",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/taylor-swift-4de3ec834dbbb.jpg",
+                    "likes": "2",
+                    "added": "2011-05-30 19:21:34"
+                },
+                {
+                    "id": "177471",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/taylor-swift-55ea489b773cb.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:47"
+                },
+                {
+                    "id": "368611",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/taylor-swift-61e062a82b9e6.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:20:54"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "3804",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/taylor-swift-4de3ee1d4592d.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-05-30 19:21:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4d9ec1c2-58ec-48a4-aa0a-916718adead0",
+            "albumcover": [
+                {
+                    "id": "134334",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-5402d86e58add.jpg",
+                    "likes": "2",
+                    "added": "2014-08-31 09:41:07"
+                },
+                {
+                    "id": "258109",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-5c660dc57b011.jpg",
+                    "likes": "1",
+                    "added": "2019-02-15 01:48:28"
+                },
+                {
+                    "id": "134335",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-5402d87daa689.jpg",
+                    "likes": "0",
+                    "added": "2014-08-31 09:41:10"
+                },
+                {
+                    "id": "189835",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-56c8262580dea.jpg",
+                    "likes": "0",
+                    "added": "2016-02-23 09:45:20"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "150329",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/1989-54d07a990d68c.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2015-02-03 08:34:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2c7fb84f-2101-44d5-8c6b-e1bd1a044efe",
+            "albumcover": [
+                {
+                    "id": "206721",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/out-of-the-woods-5828f7be49cef.jpg",
+                    "likes": "2",
+                    "added": "2016-11-15 00:00:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c2f50e2e-9280-4d24-9d90-e367a7d740b6",
+            "albumcover": [
+                {
+                    "id": "228705",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/look-what-you-made-me-do-59f4cbb6c1622.jpg",
+                    "likes": "2",
+                    "added": "2017-10-30 23:58:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d91100e1-080d-4de0-ad0f-480deadd557c",
+            "albumcover": [
+                {
+                    "id": "231460",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/ready-for-it-bloodpop-remix-5a29a6c1c1a58.jpg",
+                    "likes": "2",
+                    "added": "2017-12-08 16:42:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0dcc84fb-c592-46e9-ba92-a52bb44dd553",
+            "albumcover": [
+                {
+                    "id": "407997",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/midnights-645944a8749ff.jpg",
+                    "likes": "2",
+                    "added": "2023-05-09 19:31:30"
+                },
+                {
+                    "id": "407998",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/midnights-645949a978ad0.jpg",
+                    "likes": "1",
+                    "added": "2023-05-09 19:31:27"
+                },
+                {
+                    "id": "392729",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/midnights-63542dddd0645.jpg",
+                    "likes": "0",
+                    "added": "2022-10-23 02:58:40"
+                },
+                {
+                    "id": "393154",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/midnights-63578bde02878.jpg",
+                    "likes": "0",
+                    "added": "2022-10-25 16:51:01"
+                },
+                {
+                    "id": "410487",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/midnights-6486101c18fac.jpg",
+                    "likes": "0",
+                    "added": "2023-06-12 01:51:25"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "413766",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/midnights-64d8989f01941.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2023-08-15 06:05:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a73cecde-0923-40ad-aad1-e8c24ba6c3d2",
+            "albumcover": [
+                {
+                    "id": "58340",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-50876c4be3c43.jpg",
+                    "likes": "1",
+                    "added": "2012-10-24 04:39:30"
+                },
+                {
+                    "id": "377892",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-6273b0cb935d7.jpg",
+                    "likes": "0",
+                    "added": "2022-05-05 18:01:27"
+                },
+                {
+                    "id": "397265",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-639519e4527c7.jpg",
+                    "likes": "0",
+                    "added": "2022-12-11 13:08:18"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "61321",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/red-50a1bf6af0ef6.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-11-20 04:01:40"
+                },
+                {
+                    "id": "97944",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/red-52304feb1dee9.png",
+                    "likes": "0",
+                    "disc": "2",
+                    "size": "1000",
+                    "added": "2013-09-11 18:54:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ba1259eb-d41e-41c5-a70c-0e6fa73e6708",
+            "albumcover": [
+                {
+                    "id": "97822",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now-522f1cae0478b.jpg",
+                    "likes": "1",
+                    "added": "2013-09-10 19:21:27"
+                },
+                {
+                    "id": "23246",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now-4f4da59042824.jpg",
+                    "likes": "0",
+                    "added": "2012-02-29 08:56:00"
+                },
+                {
+                    "id": "368610",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now-61e062a48dfce.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:20:44"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "23245",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/speak-now-4f4da56c64f31.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-02-29 08:45:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eff166f0-1fe3-3aca-9313-566adfa502c0",
+            "cdart": [
+                {
+                    "id": "97921",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/beautiful-eyes-5230379e35ccb.png",
+                    "likes": "1",
+                    "disc": "2",
+                    "size": "1000",
+                    "added": "2013-09-11 09:28:34"
+                },
+                {
+                    "id": "97920",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/beautiful-eyes-5230378525adf.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-09-11 09:28:12"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "97919",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/beautiful-eyes-52303405eb76c.jpg",
+                    "likes": "0",
+                    "added": "2013-09-11 19:18:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d591dbcd-0922-4f0a-92fe-72764817d770",
+            "albumcover": [
+                {
+                    "id": "175173",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/you-belong-with-me-55d27db013376.jpg",
+                    "likes": "1",
+                    "added": "2015-08-18 04:52:23"
+                },
+                {
+                    "id": "186183",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/you-belong-with-me-568f484ddaef5.jpg",
+                    "likes": "0",
+                    "added": "2016-01-08 10:35:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "63eba062-847c-3b73-8b0f-6baf27bba6fa",
+            "albumcover": [
+                {
+                    "id": "187009",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-569c780403689.jpg",
+                    "likes": "1",
+                    "added": "2016-01-18 21:08:17"
+                },
+                {
+                    "id": "177472",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-55ea4b71c04af.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:55"
+                },
+                {
+                    "id": "180501",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-561177bfde8c3.jpg",
+                    "likes": "0",
+                    "added": "2015-10-04 19:40:03"
+                },
+                {
+                    "id": "368608",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-61e0629c6393a.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:20:24"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "3803",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/fearless-4de3ee1d4498c.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-05-30 19:21:18"
+                },
+                {
+                    "id": "61164",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/fearless-50a0f3a070db0.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-11-19 11:17:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "baff66d2-2b92-4913-b872-5668fe68d000",
+            "albumcover": [
+                {
+                    "id": "206720",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/new-romantics-5828f7be49441.jpg",
+                    "likes": "1",
+                    "added": "2016-11-15 00:00:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9e1b4190-b9dd-475a-9150-eddcfd6609cf",
+            "albumcover": [
+                {
+                    "id": "258107",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/spotify-singles-5c6609c8bab50.jpg",
+                    "likes": "1",
+                    "added": "2019-02-15 01:48:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cb93b223-7c24-41d2-be9b-06ce84ef82a9",
+            "albumcover": [
+                {
+                    "id": "258108",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-2013-cma-awards-performance-5c660b1e69d22.jpg",
+                    "likes": "1",
+                    "added": "2019-02-15 01:48:30"
+                }
+            ]
+        },
+        {
+            "release_group_id": "366d81c0-526d-42b1-9dc9-3263d0294ade",
+            "albumcover": [
+                {
+                    "id": "264847",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/me-5cc289b12a2e1.jpg",
+                    "likes": "1",
+                    "added": "2019-04-26 06:20:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dcce498e-4014-4256-9a7b-aeaf18cfb470",
+            "albumcover": [
+                {
+                    "id": "269947",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/you-need-to-calm-down-5d037c6728f1c.jpg",
+                    "likes": "1",
+                    "added": "2019-06-14 20:10:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1a8d5f73-05b4-463b-9860-6f69f163d818",
+            "albumcover": [
+                {
+                    "id": "273042",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-archer-5d385b9b7efd3.jpg",
+                    "likes": "1",
+                    "added": "2019-07-24 18:45:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b6ba14c4-b8c4-3eb9-a562-dfb2f02181e8",
+            "cdart": [
+                {
+                    "id": "63086",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/sounds-of-the-season-the-holiday-collection-50ba2b45e5667.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-12-01 16:23:13"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "63087",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/sounds-of-the-season-the-holiday-collection-50ba2b5248339.jpg",
+                    "likes": "0",
+                    "added": "2012-12-01 16:52:08"
+                },
+                {
+                    "id": "177467",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/sounds-of-the-season-the-holiday-collection-55ea47680b3f5.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2a8d9df8-c23f-456c-9153-12ab1ced21ce",
+            "albumcover": [
+                {
+                    "id": "97945",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now---world-tour-live-523053a4359fb.jpg",
+                    "likes": "0",
+                    "added": "2013-09-11 19:26:59"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "97948",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/cdart/speak-now---world-tour-live-523058ec3b4aa.png",
+                    "likes": "0",
+                    "disc": "2",
+                    "size": "1000",
+                    "added": "2013-09-12 21:45:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "edc718c1-162a-4b51-aa82-ef02a8b7348b",
+            "albumcover": [
+                {
+                    "id": "165319",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/bad-blood-5570f0741eb8a.jpg",
+                    "likes": "0",
+                    "added": "2015-06-06 18:18:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2cc43f5b-3131-4734-8ec5-c618384940cd",
+            "albumcover": [
+                {
+                    "id": "175170",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/teardrops-on-my-guitar-55d27c17b24ff.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:51:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2698b1f9-804c-385a-bcbc-65735fb596a8",
+            "albumcover": [
+                {
+                    "id": "175171",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/love-story-55d27ccf7191b.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:51:44"
+                },
+                {
+                    "id": "186182",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/love-story-568f480b9e39f.jpg",
+                    "likes": "0",
+                    "added": "2016-01-08 10:35:50"
+                }
+            ]
+        },
+        {
+            "release_group_id": "42e033b3-3844-4366-a309-9a1ede62dc56",
+            "albumcover": [
+                {
+                    "id": "175172",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/white-horse-55d27d3103cd0.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:51:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "474a112f-fb98-4602-a600-bb3accfcbcdb",
+            "albumcover": [
+                {
+                    "id": "175174",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fifteen-55d27df92fcf1.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:52:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e46b8822-707c-42a4-a4a3-8dfdf111ef10",
+            "albumcover": [
+                {
+                    "id": "175175",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/mine-55d27e7d92af7.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:52:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b01360d0-777e-4cda-94b7-7f1c40665011",
+            "albumcover": [
+                {
+                    "id": "175176",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/mean-55d27eabd73ac.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:53:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bb4a3f90-9c41-40ea-b91a-d0e69cb31242",
+            "albumcover": [
+                {
+                    "id": "175177",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/back-to-december-55d27f4e1dcfa.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:53:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "08cdf7f4-3715-467b-b3d8-37a4dfa29224",
+            "albumcover": [
+                {
+                    "id": "175178",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/sparks-fly-55d27f4e1eb21.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:53:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9d159714-5a7a-4d1f-94fa-54cbcadfce62",
+            "albumcover": [
+                {
+                    "id": "175179",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-story-of-us-55d27f4e1f391.jpg",
+                    "likes": "0",
+                    "added": "2015-08-18 04:53:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c9079b5d-4325-4d78-8b75-a01acd448470",
+            "albumcover": [
+                {
+                    "id": "175429",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-last-time-55d4d438e7a5b.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:39:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "70816f08-b7d1-4e77-817e-8c1426751de0",
+            "albumcover": [
+                {
+                    "id": "175430",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/22-55d4d54deaec5.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:39:46"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3acfa917-e081-4a53-800e-903ebc59a012",
+            "albumcover": [
+                {
+                    "id": "175431",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/begin-again-55d4d54deb95e.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:39:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3930a8d8-a402-4eaa-a524-bfcaf11de2c7",
+            "albumcover": [
+                {
+                    "id": "175432",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/everything-has-changed-55d4d54dec077.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:40:05"
+                },
+                {
+                    "id": "186901",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/everything-has-changed-569b884da29b0.jpg",
+                    "likes": "0",
+                    "added": "2016-01-17 14:00:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4a8780f3-1c21-4514-a24a-4828c1b42869",
+            "albumcover": [
+                {
+                    "id": "175433",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/i-knew-you-were-trouble-55d4d54dec8d3.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:40:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9a076153-ff33-4ea5-a53e-250c18fca001",
+            "albumcover": [
+                {
+                    "id": "175434",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/red-55d4d54ded2bf.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:40:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6d193315-f5ad-40fa-992b-7b0c2e57ad1d",
+            "albumcover": [
+                {
+                    "id": "175435",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/ronan-55d4d54ded963.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:40:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5e4a6c32-2bc1-42a3-91b1-deadae9bbc06",
+            "albumcover": [
+                {
+                    "id": "175436",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/state-of-grace-55d4d54dee2d8.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:40:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "621f71af-d007-4f23-9f89-26bf30e4133f",
+            "albumcover": [
+                {
+                    "id": "175437",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/we-are-never-ever-getting-back-together-55d4d54deedd1.jpg",
+                    "likes": "0",
+                    "added": "2015-08-20 19:40:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4be997c4-3e06-4a10-b01e-833771238c4d",
+            "albumcover": [
+                {
+                    "id": "175579",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/blank-space-55d6720e26ba9.jpg",
+                    "likes": "0",
+                    "added": "2015-08-23 19:59:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5c72da17-b5af-4e32-ac89-29973be8e14f",
+            "albumcover": [
+                {
+                    "id": "177464",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/our-song-55ea476809a33.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:52:48"
+                },
+                {
+                    "id": "226216",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/our-song-59b76422cb582.jpg",
+                    "likes": "0",
+                    "added": "2017-09-12 04:56:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "76af63c8-e154-4772-b9e5-c7ae060747ea",
+            "albumcover": [
+                {
+                    "id": "177465",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/picture-to-burn-55ea47680a54a.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5a978f14-e1ee-4a92-bf7b-4a692aa00779",
+            "albumcover": [
+                {
+                    "id": "177466",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/safe--sound-55ea47680ad72.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3957c489-f75e-4bd0-aed0-e40a0eb82c65",
+            "albumcover": [
+                {
+                    "id": "177468",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/sweeter-than-fiction-55ea47680bccc.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e2552467-cbda-4ce3-afd5-f3a3419cb836",
+            "albumcover": [
+                {
+                    "id": "177469",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/today-was-a-fairytale-55ea47680c5c1.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:33"
+                },
+                {
+                    "id": "177470",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/today-was-a-fairytale-55ea4791d1fe4.jpg",
+                    "likes": "0",
+                    "added": "2015-09-05 23:53:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0e0bb403-89dd-4d3b-ad38-9156c60de4bf",
+            "albumcover": [
+                {
+                    "id": "178276",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/wildest-dreams-55f4e53445d97.jpg",
+                    "likes": "0",
+                    "added": "2015-09-13 07:36:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "366c236a-28a6-49dd-b862-cda8e8521ccd",
+            "albumcover": [
+                {
+                    "id": "186085",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/style-568ea4120bc35.jpg",
+                    "likes": "0",
+                    "added": "2016-01-08 00:09:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "77364f43-05c0-48d2-b941-de4f5b0a30a9",
+            "albumcover": [
+                {
+                    "id": "186087",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/tim-mcgraw-568ea57c44d1d.jpg",
+                    "likes": "0",
+                    "added": "2016-01-08 00:13:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1717039b-8b50-45de-8902-11e57b26df2e",
+            "albumcover": [
+                {
+                    "id": "186181",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/ours-568f47c27c63f.jpg",
+                    "likes": "0",
+                    "added": "2016-01-08 10:35:44"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e639f32e-a4a8-4d0f-a9bf-7ca5af9a36f6",
+            "albumcover": [
+                {
+                    "id": "186900",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/wildest-dreams-r3hab-remix-5b1f20dd8cd99.jpg",
+                    "likes": "0",
+                    "added": "2016-01-17 13:59:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "19882033-bf67-4a3c-87cb-112c0f63f000",
+            "albumcover": [
+                {
+                    "id": "208468",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/i-dont-wanna-live-forever-fifty-shades-darker-5850e29c2202a.jpg",
+                    "likes": "0",
+                    "added": "2016-12-14 09:38:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "999e9130-0fc3-4667-8455-f283d7f7fabf",
+            "albumcover": [
+                {
+                    "id": "224259",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/shake-it-off-59909240c1024.jpg",
+                    "likes": "0",
+                    "added": "2017-08-13 18:27:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f85f5fec-f4f6-4a21-a338-040019c7acb8",
+            "albumcover": [
+                {
+                    "id": "226208",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/youre-not-sorry-csi-remix-59b7480aa6556.jpg",
+                    "likes": "0",
+                    "added": "2017-09-12 03:44:59"
+                },
+                {
+                    "id": "293809",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/youre-not-sorry-csi-remix-5e91c96f7ca94.jpg",
+                    "likes": "0",
+                    "added": "2020-04-11 16:16:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c898622e-e4d0-4198-a0c4-9bc744c3920d",
+            "albumcover": [
+                {
+                    "id": "241101",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/delicate-sawyr-and-ryan-tedder-mix-5b0ccf84e61d4.jpg",
+                    "likes": "0",
+                    "added": "2018-05-30 00:23:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2618272f-2bc3-408b-a8ed-447f5c01ff08",
+            "albumcover": [
+                {
+                    "id": "241944",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/delicate-seeb-remix-5b1eaed19835b.jpg",
+                    "likes": "0",
+                    "added": "2018-06-12 01:33:27"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3ba7cf60-8ea4-4eb8-9bb1-7edc5242a281",
+            "albumcover": [
+                {
+                    "id": "279351",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/lover-remix-5dcc297281ece.jpg",
+                    "likes": "0",
+                    "added": "2019-11-13 16:26:44"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9a957838-7267-4079-932d-b72b701d16ea",
+            "albumcover": [
+                {
+                    "id": "279424",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/you-need-to-calm-down-clean-bandit-remix-5dcec36f5a664.jpg",
+                    "likes": "0",
+                    "added": "2019-11-16 16:35:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dc7b8893-3dcb-43ce-a0c3-1169c33b1904",
+            "albumcover": [
+                {
+                    "id": "279427",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/beautiful-ghosts-from-the-motion-picture-cats-5dcecc5cd218b.jpg",
+                    "likes": "0",
+                    "added": "2019-11-16 16:38:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4a94bf9d-02fb-4548-84dc-83686dd93a67",
+            "albumcover": [
+                {
+                    "id": "280556",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/christmas-tree-farm-5dead41ddef71.jpg",
+                    "likes": "0",
+                    "added": "2019-12-06 23:36:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "624ea35f-9f22-456a-90a1-0bdfebb66ac5",
+            "albumcover": [
+                {
+                    "id": "281654",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/lover-first-dance-remix-5dfd3d38677fe.jpg",
+                    "likes": "0",
+                    "added": "2019-12-22 04:41:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eb954503-6c51-435c-b722-ba95c9210649",
+            "albumcover": [
+                {
+                    "id": "285145",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/only-the-young-featured-in-miss-americana-5e34753115ecd.jpg",
+                    "likes": "0",
+                    "added": "2020-02-01 01:44:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e842843f-f6a1-44c8-8d78-31538b430818",
+            "albumcover": [
+                {
+                    "id": "287287",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-man-live-from-paris-5e50c1ccd74c1.jpg",
+                    "likes": "0",
+                    "added": "2020-02-23 02:09:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2205b69c-0dfd-4af1-8279-b49305249b73",
+            "albumcover": [
+                {
+                    "id": "293810",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/love-story-digital-dog-remix-5e91ca0a71087.jpg",
+                    "likes": "0",
+                    "added": "2020-04-11 16:16:29"
+                }
+            ]
+        },
+        {
+            "release_group_id": "81a20a2d-e9cb-40ce-9e22-178337f381a0",
+            "albumcover": [
+                {
+                    "id": "299854",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/live-from-clear-channel-stripped-2008-5ec557b21ed51.jpg",
+                    "likes": "0",
+                    "added": "2020-05-20 18:51:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ff0547a1-ad74-4493-9dfa-d830c70de20b",
+            "albumcover": [
+                {
+                    "id": "311753",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-the-escapism-chapter-5f53c7708a430.jpg",
+                    "likes": "0",
+                    "added": "2020-09-06 22:38:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1a9bd06c-a0b9-457d-a27f-d97210da302c",
+            "albumcover": [
+                {
+                    "id": "311754",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-the-saltbox-house-chapter-5f53c77099ce7.jpg",
+                    "likes": "0",
+                    "added": "2020-09-06 22:38:25"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5fba7a93-7701-45b8-8ad0-18816283c545",
+            "albumcover": [
+                {
+                    "id": "311755",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-the-sleepless-nights-chapter-5f53c770a8e6e.jpg",
+                    "likes": "0",
+                    "added": "2020-09-06 22:38:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "decb6547-4e2d-4da4-804d-1e04c78aea0d",
+            "albumcover": [
+                {
+                    "id": "315537",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-the-yeah-i-showed-up-at-your-party-chapter-5f8711cf85425.jpg",
+                    "likes": "0",
+                    "added": "2020-10-15 16:00:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "da5aeb5e-ca70-4a79-9f1e-46ace596ef48",
+            "albumcover": [
+                {
+                    "id": "321106",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/shouldve-said-no-5fca53a435099.jpg",
+                    "likes": "0",
+                    "added": "2020-12-05 14:42:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "36a0e323-6473-4367-b528-f6b5b8c473d7",
+            "albumcover": [
+                {
+                    "id": "341637",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-taylors-version-the-kissing-in-the-rain-chapter-60af1ecfd97df.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fd9bcc8b-d362-4dc6-8504-af1c68dd2835",
+            "albumcover": [
+                {
+                    "id": "341638",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-taylors-version-the-halfway-out-the-door-chapter-60af1f4080168.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "57557d4d-488d-438a-9491-ee404472fa36",
+            "albumcover": [
+                {
+                    "id": "341639",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-ladies-lunching-chapter-60af20dd0d92b.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "394936d7-23dd-40df-ba94-e09fc9c986fe",
+            "albumcover": [
+                {
+                    "id": "341640",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-dropped-your-hand-while-dancing-chapter-60af22663147a.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "18a0414e-1696-4982-9af9-6a30c35de7d4",
+            "albumcover": [
+                {
+                    "id": "341641",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-forever-is-the-sweetest-con-chapter-60af246420f6a.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "38178995-df28-48a7-8a7f-7442e443040f",
+            "albumcover": [
+                {
+                    "id": "341642",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/willow-the-witch-collection-60af268099022.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0a5a4bb3-3b68-4ab4-b36d-7523b5beff16",
+            "albumcover": [
+                {
+                    "id": "341643",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/reputation-stadium-tour-surprise-song-playlist-60af2919b510d.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "610026f8-cf87-4bcb-a425-0913161f2524",
+            "albumcover": [
+                {
+                    "id": "341644",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-taylors-version-the-i-remember-what-you-said-last-n-60af2e4317975.jpg",
+                    "likes": "0",
+                    "added": "2021-05-27 05:48:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6c648e9d-be20-4c79-aa1e-ab843c2bf32b",
+            "albumcover": [
+                {
+                    "id": "342091",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/fearless-taylors-version-the-from-the-vault-chapter-60b40a73a4112.jpg",
+                    "likes": "0",
+                    "added": "2021-05-31 03:00:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d931fda7-8710-4212-85c1-b1568d0617fd",
+            "albumcover": [
+                {
+                    "id": "356613",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/folklore-the-long-pond-studio-sessions-615d5ff8a39b9.jpg",
+                    "likes": "0",
+                    "added": "2021-10-06 11:21:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "97a60557-8748-4d45-a0ec-3f10a07dec53",
+            "albumcover": [
+                {
+                    "id": "368520",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/all-too-well-10-minute-version-taylors-version-live-acoustic-61dee06e9da6e.jpg",
+                    "likes": "0",
+                    "added": "2022-01-12 19:39:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "423fc580-f5d4-489c-b93c-fe090d5b9110",
+            "albumcover": [
+                {
+                    "id": "368521",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/all-too-well-sad-girl-autumn-version-recorded-at-long-pond-s-61dee07321a61.jpg",
+                    "likes": "0",
+                    "added": "2022-01-12 19:39:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "999b90c1-1c7a-4276-af67-1dba95cc35ba",
+            "albumcover": [
+                {
+                    "id": "368523",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/betty-61dee079042ca.jpg",
+                    "likes": "0",
+                    "added": "2022-01-12 19:39:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "15dfd7e4-da66-43b8-b06d-cf2864f69183",
+            "albumcover": [
+                {
+                    "id": "368524",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/betty-live-from-the-2020-academy-of-country-music-awards-61dee07ee27d4.jpg",
+                    "likes": "0",
+                    "added": "2022-01-13 14:30:27"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a1532a9c-b44c-4d6b-ae37-b63bf77bc38d",
+            "albumcover": [
+                {
+                    "id": "368528",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/christmas-tree-farm-old-timey-version-amazon-original-61dee10435695.jpg",
+                    "likes": "0",
+                    "added": "2022-01-13 14:37:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "394d27f4-edc1-4539-a9ba-616cc977a7d3",
+            "albumcover": [
+                {
+                    "id": "368530",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/delicate-61dee10e6840f.jpeg",
+                    "likes": "0",
+                    "added": "2022-01-13 14:40:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c1f5d391-d9cf-46af-b66f-f8c044d57a1a",
+            "albumcover": [
+                {
+                    "id": "368531",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/i-knew-you-were-trouble-live-from-the-brits-2013-61dee110d558a.jpg",
+                    "likes": "0",
+                    "added": "2022-01-13 14:41:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7d448a09-58ae-42e6-b03d-d7d1d2932863",
+            "albumcover": [
+                {
+                    "id": "368532",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/you-all-over-me-taylors-version-from-the-vault-61dee14ae5a39.jpg",
+                    "likes": "0",
+                    "added": "2022-01-13 14:41:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "017c8511-f1bb-44c6-925a-a5e88367bc96",
+            "albumcover": [
+                {
+                    "id": "368600",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/cornelia-street-live-from-paris-61e0613955619.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:18:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5a6f0574-d862-4db5-b382-b60ab7c2b2f8",
+            "albumcover": [
+                {
+                    "id": "368601",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/daylight-live-from-paris-61e0613c12ee4.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:19:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b6646b86-5a0b-4235-a7b4-ec59062bc847",
+            "albumcover": [
+                {
+                    "id": "368602",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/death-by-a-thousand-cuts-live-from-paris-61e0613e53558.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:19:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "38221e2f-34f2-472a-93e9-3317d9fcaf66",
+            "albumcover": [
+                {
+                    "id": "368603",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/lover-live-from-paris-61e0614095c23.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:19:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "238beaf1-a579-42de-8f92-2490f3e2a3b8",
+            "albumcover": [
+                {
+                    "id": "368604",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/me-live-from-paris-61e0614d6d8bb.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:19:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cb06a2e5-1414-4668-b5c5-d17720ec8bcf",
+            "albumcover": [
+                {
+                    "id": "368605",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-archer-live-from-paris-61e0614f923a2.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:19:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3e62a1b1-f767-4750-8b6c-80b7c45738a9",
+            "albumcover": [
+                {
+                    "id": "368606",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/you-need-to-calm-down-live-from-paris-61e061524454c.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:20:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dee5e988-2f6b-4cf6-bdce-5da0239e5e62",
+            "albumcover": [
+                {
+                    "id": "368620",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/american-girl-61e091f29d175.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 17:03:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e3efed0f-c808-4a26-8acb-ffdd2947c51a",
+            "albumcover": [
+                {
+                    "id": "368621",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/babe-61e091f5b0b6a.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 19:21:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3b570313-419f-4654-84be-5f8489b9cfa7",
+            "albumcover": [
+                {
+                    "id": "368623",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/cardigan-61e0924722252.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 17:03:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0af56924-8199-45e6-a5cc-148484fd13d8",
+            "albumcover": [
+                {
+                    "id": "368624",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/cardigan-cabin-in-candlelight-version-61e0924ab6c08.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 17:03:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9289e5d8-54df-305d-b275-225b623695be",
+            "albumcover": [
+                {
+                    "id": "368674",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/change-61e1c935cb5b6.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:12:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e215e91a-686c-4da6-971f-d6b1686c5c62",
+            "albumcover": [
+                {
+                    "id": "368675",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/love-story-taylors-version-61e1c9381cba5.jpg",
+                    "likes": "0",
+                    "added": "2022-01-14 20:06:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "27257da0-5454-4a99-9c9c-6806f7d1c6c6",
+            "albumcover": [
+                {
+                    "id": "368688",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/christmas-tree-farm-recorded-live-at-the-2019-iheartradio-ji-61e20e776cdba.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:12:09"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ae75b22f-cc31-408d-99ec-00f7e234d4be",
+            "albumcover": [
+                {
+                    "id": "368689",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/long-live-61e20e7a5952f.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:12:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bb45b4b4-ee1e-4744-b07d-fe66eb19886f",
+            "albumcover": [
+                {
+                    "id": "368690",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/love-story-pop-mix-61e20e86bea45.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 16:06:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c7594ecc-3037-4922-8cd6-826de8111ee1",
+            "albumcover": [
+                {
+                    "id": "368691",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/love-story-taylors-version-elvira-remix-61e20e8fb8c04.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:12:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3da2e9be-ac3b-4310-ae95-50d6acb01092",
+            "albumcover": [
+                {
+                    "id": "368693",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/renegade-61e20e992815b.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:11:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e94b6bda-4805-4c5e-b86b-7d77e314623e",
+            "albumcover": [
+                {
+                    "id": "368694",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/mr-perfectly-fine-taylors-version-from-the-vault-61e20f0606f64.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:08:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "888d3ac0-e404-4f60-97cd-1ce5bb1d2ed6",
+            "albumcover": [
+                {
+                    "id": "368695",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/the-love-story-ep-61e20f0c04e53.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 16:06:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8fcbbd44-f7cb-410e-abfe-ad177cefb858",
+            "albumcover": [
+                {
+                    "id": "368696",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/wildest-dreams-taylors-version-61e20f0eb13bd.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:08:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "05e1c8f5-bc95-49c5-aec6-dcaeaefa58db",
+            "albumcover": [
+                {
+                    "id": "368697",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/willow-61e20f112fde3.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:08:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "577bc8b6-7f15-46ab-9f6e-0ef57cbb858e",
+            "albumcover": [
+                {
+                    "id": "368698",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/willow-90s-trend-remix-61e20f149ce55.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:08:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "751a508f-0e28-4b0b-ba38-1d7b87ff382d",
+            "albumcover": [
+                {
+                    "id": "368699",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/willow-dancing-witch-version-elvira-remix-61e20f17c96c9.jpg",
+                    "likes": "0",
+                    "added": "2022-01-15 14:07:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0441b1b2-de57-4a9a-b007-1f6e159921d5",
+            "albumcover": [
+                {
+                    "id": "410580",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/speak-now-taylors-version-648868032bb64.jpg",
+                    "likes": "0",
+                    "added": "2023-06-15 21:40:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1c4770b3-b7a3-4d44-a7a9-8e2dbb74b85a",
+            "albumcover": [
+                {
+                    "id": "418601",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-taylors-version-653d42c209a30.jpg",
+                    "likes": "0",
+                    "added": "2023-10-29 02:13:04"
+                },
+                {
+                    "id": "418663",
+                    "url": "https://assets.fanart.tv/fanart/music/20244d07-534f-4eff-b4d4-930878889970/albumcover/1989-taylors-version-653f2191ade28.jpg",
+                    "likes": "0",
+                    "added": "2023-10-31 22:39:25"
+                }
+            ]
+        }
+    ]
+}

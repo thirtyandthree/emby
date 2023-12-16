@@ -1,0 +1,422 @@
+{
+    "name": "Wham!",
+    "mbid_id": "d570bb31-b9ca-45a4-a2d9-11b186d9c159",
+    "artistbackground": [
+        {
+            "id": "56090",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/artistbackground/wham-5075e2356c76b.jpg",
+            "likes": "7",
+            "added": "2012-10-11 02:08:35"
+        },
+        {
+            "id": "249862",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/artistbackground/wham-5bcb4f64019ca.jpg",
+            "likes": "0",
+            "added": "2018-10-21 03:40:45"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "170292",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/hdmusiclogo/wham-55a836c31408a.png",
+            "likes": "5",
+            "added": "2015-07-17 00:00:25"
+        },
+        {
+            "id": "234000",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/hdmusiclogo/wham-5a5b8734b9a44.png",
+            "likes": "2",
+            "added": "2018-01-14 22:19:13"
+        },
+        {
+            "id": "210143",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/hdmusiclogo/wham-586af5c471614.png",
+            "likes": "2",
+            "added": "2017-01-03 18:15:52"
+        },
+        {
+            "id": "390656",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/hdmusiclogo/wham-633a1189cfde3.png",
+            "likes": "0",
+            "added": "2022-10-02 23:58:52"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "56091",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/artistthumb/wham-5075e2da252c8.jpg",
+            "likes": "5",
+            "added": "2012-10-11 09:02:44"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "17298",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/musiclogo/wham-4f09a1ac593a3.png",
+            "likes": "2",
+            "added": "2012-01-08 19:06:40"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "210139",
+            "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/musicbanner/wham-586af207440ae.jpg",
+            "likes": "1",
+            "added": "2017-01-04 19:31:28"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "50ed8d8d-a1cb-3094-9c0c-99f54dd2f977",
+            "albumcover": [
+                {
+                    "id": "16921",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/the-final-4f0298366e389.jpg",
+                    "likes": "4",
+                    "added": "2012-01-04 21:46:30"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "287601",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/the-final-5e54cfd9b482e.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2020-02-26 14:35:14"
+                },
+                {
+                    "id": "117929",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/the-final-534670ba66ba2.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2014-04-10 10:24:46"
+                },
+                {
+                    "id": "391367",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/the-final-634499b78a6b6.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2022-10-11 20:08:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "12bf3f87-44c1-33d7-bfdf-1044dca04f29",
+            "albumcover": [
+                {
+                    "id": "200164",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/music-from-the-edge-of-heaven-57adac74e09a0.jpg",
+                    "likes": "4",
+                    "added": "2016-08-15 08:34:33"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "368586",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/music-from-the-edge-of-heaven-61e02f05d207b.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2022-01-15 16:07:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0e319e00-ac06-34ed-b4fa-f6d206d4a4e6",
+            "albumcover": [
+                {
+                    "id": "177733",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/make-it-big-55ece84f8fe0f.jpg",
+                    "likes": "3",
+                    "added": "2015-09-07 23:55:26"
+                },
+                {
+                    "id": "394483",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/make-it-big-63687647b43e8.jpg",
+                    "likes": "0",
+                    "added": "2022-11-08 09:10:33"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "16964",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/make-it-big-4f03273c93326.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-01-04 13:42:11"
+                },
+                {
+                    "id": "266742",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/make-it-big-5cdd0bf159342.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2019-05-16 18:35:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e56ea208-d428-4335-8826-0dd635420da6",
+            "albumcover": [
+                {
+                    "id": "287600",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/wake-me-up-before-you-go-go-5e54bff33d554.jpg",
+                    "likes": "2",
+                    "added": "2020-02-26 15:21:10"
+                },
+                {
+                    "id": "186497",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/wake-me-up-before-you-go-go-56960308e4a35.jpg",
+                    "likes": "1",
+                    "added": "2016-01-13 12:27:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1cd34f51-b5cc-3176-873a-bb4e5056e342",
+            "albumcover": [
+                {
+                    "id": "16920",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/fantastic-4f0298053cfa7.jpg",
+                    "likes": "2",
+                    "added": "2012-01-04 21:46:28"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "17005",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/fantastic-4f03c07e89c23.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-01-04 13:43:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7c282d1f-857e-3787-86e7-85f6342bdc9f",
+            "cdart": [
+                {
+                    "id": "368533",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/twelve-inch-mixes-61dee14d89173.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2022-01-12 19:42:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3219efed-de71-3e63-982c-103173cab807",
+            "cdart": [
+                {
+                    "id": "368508",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/the-best-of-wham-if-you-were-there-61decfc3b048a.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2022-01-12 19:42:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5b24e859-1063-3e56-b91e-0c5f6a17354d",
+            "albumcover": [
+                {
+                    "id": "321612",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/last-christmas-5fd84bd9acbf1.jpg",
+                    "likes": "1",
+                    "added": "2020-12-15 09:15:12"
+                },
+                {
+                    "id": "287598",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/last-christmas-5e54b245e2c7c.jpg",
+                    "likes": "1",
+                    "added": "2020-02-26 15:42:47"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "287599",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/cdart/last-christmas-5e54b2e5500c7.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2020-02-26 14:35:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b1f9b4a2-a3a2-4773-92d5-2797835e72a7",
+            "albumcover": [
+                {
+                    "id": "321611",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/careless-whisper-5fd83a647bf7a.jpg",
+                    "likes": "1",
+                    "added": "2020-12-15 10:35:42"
+                },
+                {
+                    "id": "394570",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/careless-whisper-636a1d5a3de8c.jpg",
+                    "likes": "0",
+                    "added": "2022-11-08 17:32:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dc111baf-b0ef-414a-a1bc-507bf1b0a863",
+            "albumcover": [
+                {
+                    "id": "246378",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/wham-summer-fun-mega-mix--classic-grooves-5b7efe8ab02ca.jpg",
+                    "likes": "1",
+                    "added": "2018-08-23 18:57:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fa210ac5-e9e8-486e-aab5-01f2ca9c0075",
+            "albumcover": [
+                {
+                    "id": "186679",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/bad-boys-56980f7d47b74.jpg",
+                    "likes": "1",
+                    "added": "2016-01-14 21:14:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e4ed557c-1b10-47c5-b7f4-1c1c2dab51ec",
+            "albumcover": [
+                {
+                    "id": "412293",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/the-singles---echoes-from-the-edge-of-heaven-64b26561dc095.jpg",
+                    "likes": "0",
+                    "added": "2023-07-15 10:17:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8ba8d10c-1417-4fa2-993c-58762b56ae61",
+            "albumcover": [
+                {
+                    "id": "409448",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/im-your-man-6474a80fd3ab5.jpg",
+                    "likes": "0",
+                    "added": "2023-05-29 18:23:45"
+                },
+                {
+                    "id": "186801",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/im-your-man-569971aacff8b.jpg",
+                    "likes": "0",
+                    "added": "2016-01-15 23:34:29"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ca6fdb4b-1810-4489-9ea9-4a30f16e5932",
+            "albumcover": [
+                {
+                    "id": "379214",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/freedom-628744068cdc6.jpg",
+                    "likes": "0",
+                    "added": "2022-05-20 19:38:50"
+                },
+                {
+                    "id": "186804",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/freedom-56997bf00839f.jpg",
+                    "likes": "0",
+                    "added": "2016-01-15 23:34:13"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8ab9e3c3-4394-4fc3-97ec-bc1bb4c1ad65",
+            "albumcover": [
+                {
+                    "id": "379212",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/everything-she-wants-628743143572f.jpg",
+                    "likes": "0",
+                    "added": "2022-05-20 19:38:47"
+                },
+                {
+                    "id": "379211",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/everything-she-wants-628742fab0425.jpg",
+                    "likes": "0",
+                    "added": "2022-05-20 19:33:23"
+                },
+                {
+                    "id": "379210",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/everything-she-wants-628742e9614d7.jpg",
+                    "likes": "0",
+                    "added": "2022-05-20 19:33:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7685ac7f-752d-3bc9-9e1e-2233a11c6716",
+            "albumcover": [
+                {
+                    "id": "379209",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/club-tropicana-628742a028d2a.jpg",
+                    "likes": "0",
+                    "added": "2022-05-20 19:33:14"
+                },
+                {
+                    "id": "244912",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/club-tropicana-5b5fe7e504587.jpg",
+                    "likes": "0",
+                    "added": "2018-07-31 17:57:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "40821e96-560b-4728-95c7-bfd134b6e409",
+            "albumcover": [
+                {
+                    "id": "186498",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/young-guns-go-for-it-5696059e62e6f.jpg",
+                    "likes": "0",
+                    "added": "2016-01-13 12:27:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "846d485c-746c-410c-aa6e-f5bc4021abc0",
+            "albumcover": [
+                {
+                    "id": "186556",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/bad-boys--club-tropicana-56967afa9111c.jpg",
+                    "likes": "0",
+                    "added": "2016-01-14 05:03:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "de535336-b16b-3ae3-8792-1a9469e94677",
+            "albumcover": [
+                {
+                    "id": "186993",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/club-fantastic-569c3f4f3b32e.jpg",
+                    "likes": "0",
+                    "added": "2016-01-18 20:09:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c941e994-a78d-4d01-bbb8-f8981908ca7a",
+            "albumcover": [
+                {
+                    "id": "187839",
+                    "url": "https://assets.fanart.tv/fanart/music/d570bb31-b9ca-45a4-a2d9-11b186d9c159/albumcover/wham-rap-56a6d4efa66b2.jpg",
+                    "likes": "0",
+                    "added": "2016-01-29 00:47:09"
+                }
+            ]
+        }
+    ]
+}

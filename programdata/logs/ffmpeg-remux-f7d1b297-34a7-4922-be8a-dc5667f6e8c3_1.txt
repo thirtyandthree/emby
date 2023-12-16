@@ -1,0 +1,259 @@
+2023-12-15 20:18:18.318
+Operating System: Microsoft Windows 10.0.22621
+OS/Process: x64/x64
+Emby Server version: 4.8.0.62
+Operating system: Microsoft Windows NT 10.0.22621.0
+Command Line: D:\emby_win4.8.0.62_system.zip\system\EmbyServer.dll
+
+App: Emby Web 4.8.0.62
+Google Chrome Windows
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+
+http://localhost:8096/emby/videos/1807/main.m3u8?DeviceId=2fb2e869-83de-4fce-9e1a-accad3fa89a0&MediaSourceId=cfde6f0afa5535e29a61e1a148d77f9b&PlaySessionId=d421dba95d4e41369192536498132b8c&api_key=d2f2eccc405945d1b3427b8918cc127a&VideoCodec=h264,h265,hevc,av1&AudioCodec=mp3,aac&VideoBitrate=159616000&AudioBitrate=384000&MaxWidth=3840&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=m4s,ts&MinSegments=1&BreakOnNonKeyFrames=True&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=AudioCodecNotSupported
+
+http://localhost:8096/emby/videos/1807/hls1/main/0.ts?PlaySessionId=d421dba95d4e41369192536498132b8c
+
+{"Protocol":"File","Id":"cfde6f0afa5535e29a61e1a148d77f9b","Path":"F:\\视频1\\[疯狂动物城].Zootopia.2016.BluRay.1080p.x264.DTS.4Audios-CMCT.mkv","Type":"Default","Container":"mkv","Size":12596898297,"Name":"[疯狂动物城].Zootopia.2016.BluRay.1080p.x264.DTS.4Audios-CMCT","IsRemote":false,"RunTimeTicks":65244350000,"SupportsTranscoding":true,"SupportsDirectStream":true,"SupportsDirectPlay":true,"IsInfiniteStream":false,"RequiresOpening":false,"RequiresClosing":false,"RequiresLooping":false,"SupportsProbing":false,"MediaStreams":[{"Codec":"h264","TimeBase":"1/1000","Title":"六牛@CMCT","VideoRange":"SDR","DisplayTitle":"1080p H264","NalLengthSize":"4","IsInterlaced":false,"BitRate":15445810,"BitDepth":8,"RefFrames":1,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Height":1080,"Width":1920,"AverageFrameRate":23.976025,"RealFrameRate":23.976025,"Profile":"High","Type":"Video","AspectRatio":"16:9","Index":0,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","PixelFormat":"yuv420p","Level":41,"IsAnamorphic":false,"ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"dts","TimeBase":"1/1000","Title":"英语","DisplayTitle":"DTS 5.1 (默认)","IsInterlaced":false,"ChannelLayout":"5.1","BitRate":1536000,"Channels":6,"SampleRate":48000,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Profile":"DTS","Type":"Audio","Index":1,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"ac3","TimeBase":"1/1000","Title":"国配","DisplayTitle":"AC3 5.1","IsInterlaced":false,"ChannelLayout":"5.1","BitRate":640000,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":2,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"ac3","TimeBase":"1/1000","Title":"台配","DisplayTitle":"AC3 5.1","IsInterlaced":false,"ChannelLayout":"5.1","BitRate":640000,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":3,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"ac3","TimeBase":"1/1000","Title":"粤配","DisplayTitle":"AC3 5.1","IsInterlaced":false,"ChannelLayout":"5.1","BitRate":640000,"Channels":6,"SampleRate":48000,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Audio","Index":4,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0},{"Codec":"ass","Language":"chi","TimeBase":"1/1000","Title":"中上英下","DisplayTitle":"Chinese Simplified (默认 ASS)","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"IsDefault":true,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":5,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"ass","Language":"eng","TimeBase":"1/1000","Title":"英上中下","DisplayTitle":"English (ASS)","DisplayLanguage":"English","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":6,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"ass","Language":"chi","TimeBase":"1/1000","Title":"简体中字","DisplayTitle":"Chinese Simplified (ASS)","DisplayLanguage":"Chinese Simplified","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":7,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"ass","Language":"chi","TimeBase":"1/1000","Title":"繁体中字","DisplayTitle":"Chinese Traditional (ASS)","DisplayLanguage":"Chinese Traditional","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":8,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"ass","Language":"eng","TimeBase":"1/1000","Title":"英文","DisplayTitle":"English (ASS)","DisplayLanguage":"English","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Subtitle","Index":9,"IsExternal":false,"IsTextSubtitleStream":true,"SupportsExternalStream":true,"Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":0,"SubtitleLocationType":"InternalStream"},{"Codec":"ttf","TimeBase":"1/90000","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Attachment","Index":10,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":"hwkaiti.ttf","Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":12736196,"MimeType":"application/x-truetype-font"},{"Codec":"ttf","TimeBase":"1/90000","IsInterlaced":false,"IsDefault":false,"IsForced":false,"IsHearingImpaired":false,"Type":"Attachment","Index":11,"IsExternal":false,"IsTextSubtitleStream":false,"SupportsExternalStream":false,"Path":"cronospro.otf","Protocol":"File","ExtendedVideoType":"None","ExtendedVideoSubType":"None","ExtendedVideoSubTypeDescription":"None","AttachmentSize":135396,"MimeType":"application/x-truetype-font"}],"Formats":[],"Bitrate":15445810,"RequiredHttpHeaders":{},"ReadAtNativeFramerate":false}
+
+>>>>>>  User policy for stay
+        Enable Playback Remuxing: True
+        Enable Video Playback Transcoding: True
+        Enable Audio Playback Transcoding: True
+
+
+>>>>>>  Processing Plan
+        Name                                        CanDoInHW  WillDoInHW  Reason                                                 
+        Copy video stream                        >> False      False       Software Codec                                          
+        VideoInput                               >> False      False       Not a hardware decoder                                  
+        VideoOutput                              >> False      False       Not a hardware encoder                                  
+        Copy video stream                        >> False      False       Software Codec                                          
+
+>>>>>>  Video Processing Steps for [0:0]: H.264 (AVC)
+        Step                    HW-Context   Format       SW-Format           Size   Next
+        H264                 >> -            yuv420p      yuv420p        1920x1080 >> 
+
+D:\emby_win4.8.0.62_system.zip\system\ffmpeg.exe -loglevel +timing -y -print_graphs_file "D:\emby_win4.8.0.62_system.zip\programdata\logs\ffmpeg-remux-f7d1b297-34a7-4922-be8a-dc5667f6e8c3_1graph.txt" -copyts -start_at_zero -f matroska,webm -noaccurate_seek -c:v:0 h264 -noautorotate -i "F:\视频1\[疯狂动物城].Zootopia.2016.BluRay.1080p.x264.DTS.4Audios-CMCT.mkv" -map 0:0 -map 0:1 -sn -c:v:0 copy -bsf:v:0 h264_mp4toannexb -c:a:0 libmp3lame -ab:a:0 192000 -ac:a:0 2 -filter:a:0 "volume=2" -disposition:a:0 default -max_delay 5000000 -avoid_negative_ts disabled -f segment -map_metadata -1 -map_chapters -1 -segment_format mpegts -segment_list "D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8" -segment_list_type m3u8 -segment_time 00:00:06.000 -segment_start_number 0 -break_non_keyframes 1 -individual_header_trailer 0 -write_header_trailer 0 -segment_write_temp 1 "D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_%d.ts"
+
+20:18:18.525 ffmpeg version 5.1-emby_2023_06_25 Copyright (c) 2000-2022 the FFmpeg developers and softworkz for Emby LLC
+20:18:18.526   built with gcc 12.2.0 (Rev10, Built by MSYS2 project)
+20:18:18.526 Execution Date: 2023-12-15 20:18:18
+20:18:18.565 Input #0, matroska,webm, from 'F:\瑙嗛1\[鐤媯鍔ㄧ墿鍩嶿.Zootopia.2016.BluRay.1080p.x264.DTS.4Audios-CMCT.mkv':
+20:18:18.565   Metadata:
+20:18:18.565     encoder         : libebml v1.3.0 + libmatroska v1.4.1
+20:18:18.565     creation_time   : 2016-07-21T05:39:16.000000Z
+20:18:18.565   Duration: 01:48:44.44, start: 0.000000, bitrate: 15445 kb/s
+20:18:18.565   Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], Level 41, 23.98 fps, 23.98 tbr, 1k tbn (default)
+20:18:18.565     Metadata:
+20:18:18.565       title           : 鍏墰@CMCT
+20:18:18.565   Stream #0:1: Audio: dts (DTS), 48000 Hz, 5.1(side), fltp, 1536 kb/s (default)
+20:18:18.565     Metadata:
+20:18:18.565       title           : 鑻辫
+20:18:18.565   Stream #0:2: Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+20:18:18.565     Metadata:
+20:18:18.565       title           : 鍥介厤
+20:18:18.565   Stream #0:3: Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+20:18:18.565     Metadata:
+20:18:18.565       title           : 鍙伴厤
+20:18:18.565   Stream #0:4: Audio: ac3, 48000 Hz, 5.1(side), fltp, 640 kb/s
+20:18:18.565     Metadata:
+20:18:18.565       title           : 绮ら厤
+20:18:18.565   Stream #0:5(chi): Subtitle: ass (default)
+20:18:18.565     Metadata:
+20:18:18.565       title           : 涓笂鑻变笅
+20:18:18.565   Stream #0:6(eng): Subtitle: ass
+20:18:18.565     Metadata:
+20:18:18.565       title           : 鑻变笂涓笅
+20:18:18.565   Stream #0:7(chi): Subtitle: ass
+20:18:18.565     Metadata:
+20:18:18.565       title           : 绠€浣撲腑瀛?
+20:18:18.565   Stream #0:8(chi): Subtitle: ass
+20:18:18.565     Metadata:
+20:18:18.565       title           : 绻佷綋涓瓧
+20:18:18.565   Stream #0:9(eng): Subtitle: ass
+20:18:18.565     Metadata:
+20:18:18.565       title           : 鑻辨枃
+20:18:18.569   Stream #0:10: Attachment: ttf
+20:18:18.569     Metadata:
+20:18:18.569       filename        : hwkaiti.ttf
+20:18:18.569       mimetype        : application/x-truetype-font
+20:18:18.569   Stream #0:11: Attachment: ttf
+20:18:18.569     Metadata:
+20:18:18.569       filename        : cronospro.otf
+20:18:18.569       mimetype        : application/x-truetype-font
+20:18:18.570 Stream mapping:
+20:18:18.570   Stream #0:0 -> #0:0 (copy)
+20:18:18.570   Stream #0:1 -> #0:1 (dts (dca) -> mp3 (libmp3lame))
+20:18:18.570 Press [q] to stop, [?] for help
+20:18:18.574 Output #0, segment, to 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_%d.ts':
+20:18:18.574   Metadata:
+20:18:18.574     encoder         : Lavf59.27.100
+20:18:18.574   Stream #0:0: Video: h264 (High), yuv420p(progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, Level 41, 23.98 fps, 23.98 tbr, 90k tbn (default)
+20:18:18.574   Stream #0:1: Audio: mp3, 48000 Hz, stereo, fltp, 192 kb/s (default)
+20:18:18.574     Metadata:
+20:18:18.574       encoder         : Lavc59.37.100 libmp3lame
+20:18:18.574 elapsed=00:00:00.00 frame=    1 fps=0.0 q=-1.0 size=N/A time=00:00:00.00 bitrate=N/A throttle=off speed=   0x    
+20:18:18.650 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:18.651 SegmentComplete=video:0 Index=0 Start=0.000000 End=5.838000 Duration=5.838000 offset_pts=0 start_pts=0 Frames=140 filename=681409_0.ts
+20:18:18.651 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_1.ts.tmp' for writing
+20:18:18.775 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:18.777 SegmentComplete=video:0 Index=1 Start=6.048000 End=11.886000 Duration=5.838000 offset_pts=0 start_pts=6048000 Frames=145 filename=681409_1.ts
+20:18:18.777 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_2.ts.tmp' for writing
+20:18:18.885 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:18.887 SegmentComplete=video:0 Index=2 Start=12.095000 End=17.809000 Duration=5.714000 offset_pts=0 start_pts=12095000 Frames=142 filename=681409_2.ts
+20:18:18.887 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_3.ts.tmp' for writing
+20:18:18.996 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:18.998 SegmentComplete=video:0 Index=3 Start=18.018000 End=23.815000 Duration=5.797000 offset_pts=0 start_pts=18018000 Frames=144 filename=681409_3.ts
+20:18:18.998 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_4.ts.tmp' for writing
+20:18:19.070 elapsed=00:00:00.50 frame=  668 fps=0.0 q=-1.0 size=N/A time=00:00:00.08 bitrate=N/A throttle=off speed=0.162x    
+20:18:19.114 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.115 SegmentComplete=video:0 Index=4 Start=24.024000 End=30.029000 Duration=6.005000 offset_pts=0 start_pts=24024000 Frames=149 filename=681409_4.ts
+20:18:19.115 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_5.ts.tmp' for writing
+20:18:19.203 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.204 SegmentComplete=video:0 Index=5 Start=30.197000 End=35.952000 Duration=5.755000 offset_pts=0 start_pts=30197000 Frames=142 filename=681409_5.ts
+20:18:19.204 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_6.ts.tmp' for writing
+20:18:19.269 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.270 SegmentComplete=video:0 Index=6 Start=36.036000 End=41.916000 Duration=5.880000 offset_pts=0 start_pts=36036000 Frames=143 filename=681409_6.ts
+20:18:19.270 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_7.ts.tmp' for writing
+20:18:19.341 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.344 SegmentComplete=video:0 Index=7 Start=42.042000 End=47.839000 Duration=5.797000 offset_pts=0 start_pts=42042000 Frames=142 filename=681409_7.ts
+20:18:19.344 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_8.ts.tmp' for writing
+20:18:19.421 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.423 SegmentComplete=video:0 Index=8 Start=48.048000 End=53.970000 Duration=5.922000 offset_pts=0 start_pts=48048000 Frames=147 filename=681409_8.ts
+20:18:19.423 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_9.ts.tmp' for writing
+20:18:19.509 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.510 SegmentComplete=video:0 Index=9 Start=54.179000 End=59.976000 Duration=5.797000 offset_pts=0 start_pts=54179000 Frames=144 filename=681409_9.ts
+20:18:19.510 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_10.ts.tmp' for writing
+20:18:19.570 elapsed=00:00:01.00 frame= 1525 fps=1525 q=-1.0 size=N/A time=00:00:35.81 bitrate=N/A throttle=off speed=35.8x    
+20:18:19.609 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.611 SegmentComplete=video:0 Index=10 Start=60.102000 End=65.898000 Duration=5.796000 offset_pts=0 start_pts=60102000 Frames=142 filename=681409_10.ts
+20:18:19.611 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_11.ts.tmp' for writing
+20:18:19.704 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.705 SegmentComplete=video:0 Index=11 Start=66.108000 End=71.821000 Duration=5.713000 offset_pts=0 start_pts=66108000 Frames=142 filename=681409_11.ts
+20:18:19.705 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_12.ts.tmp' for writing
+20:18:19.796 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.799 SegmentComplete=video:0 Index=12 Start=72.030000 End=77.785000 Duration=5.755000 offset_pts=0 start_pts=72030000 Frames=143 filename=681409_12.ts
+20:18:19.799 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_13.ts.tmp' for writing
+20:18:19.889 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.891 SegmentComplete=video:0 Index=13 Start=78.036000 End=83.958000 Duration=5.922000 offset_pts=0 start_pts=78036000 Frames=148 filename=681409_13.ts
+20:18:19.891 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_14.ts.tmp' for writing
+20:18:19.980 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:19.982 SegmentComplete=video:0 Index=14 Start=84.084000 End=89.922000 Duration=5.838000 offset_pts=0 start_pts=84084000 Frames=143 filename=681409_14.ts
+20:18:19.982 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_15.ts.tmp' for writing
+20:18:20.070 elapsed=00:00:01.50 frame= 2295 fps=1530 q=-1.0 size=N/A time=00:01:07.92 bitrate=N/A throttle=off speed=45.3x    
+20:18:20.075 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.076 SegmentComplete=video:0 Index=15 Start=90.048000 End=95.887000 Duration=5.839000 offset_pts=0 start_pts=90048000 Frames=143 filename=681409_15.ts
+20:18:20.076 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_16.ts.tmp' for writing
+20:18:20.170 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.172 SegmentComplete=video:0 Index=16 Start=96.013000 End=102.018000 Duration=6.005000 offset_pts=0 start_pts=96013000 Frames=147 filename=681409_16.ts
+20:18:20.172 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_17.ts.tmp' for writing
+20:18:20.258 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.260 SegmentComplete=video:0 Index=17 Start=102.227000 End=107.857000 Duration=5.630000 offset_pts=0 start_pts=102227000 Frames=140 filename=681409_17.ts
+20:18:20.260 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_18.ts.tmp' for writing
+20:18:20.352 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.353 SegmentComplete=video:0 Index=18 Start=108.025000 End=113.988000 Duration=5.963000 offset_pts=0 start_pts=108025000 Frames=147 filename=681409_18.ts
+20:18:20.353 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_19.ts.tmp' for writing
+20:18:20.442 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.443 SegmentComplete=video:0 Index=19 Start=114.072000 End=120.036000 Duration=5.964000 offset_pts=0 start_pts=114072000 Frames=145 filename=681409_19.ts
+20:18:20.443 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_20.ts.tmp' for writing
+20:18:20.530 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.532 SegmentComplete=video:0 Index=20 Start=120.162000 End=125.917000 Duration=5.755000 offset_pts=0 start_pts=120162000 Frames=141 filename=681409_20.ts
+20:18:20.532 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_21.ts.tmp' for writing
+20:18:20.570 elapsed=00:00:02.00 frame= 3086 fps=1543 q=-1.0 size=N/A time=00:01:41.02 bitrate=N/A throttle=off speed=50.5x    
+20:18:20.617 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.619 SegmentComplete=video:0 Index=21 Start=126.126000 End=131.839000 Duration=5.713000 offset_pts=0 start_pts=126126000 Frames=142 filename=681409_21.ts
+20:18:20.619 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_22.ts.tmp' for writing
+20:18:20.710 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.712 SegmentComplete=video:0 Index=22 Start=132.049000 End=137.929000 Duration=5.880000 offset_pts=0 start_pts=132049000 Frames=146 filename=681409_22.ts
+20:18:20.712 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_23.ts.tmp' for writing
+20:18:20.800 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.803 SegmentComplete=video:0 Index=23 Start=138.055000 End=143.976000 Duration=5.921000 offset_pts=0 start_pts=138055000 Frames=145 filename=681409_23.ts
+20:18:20.803 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_24.ts.tmp' for writing
+20:18:20.888 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.890 SegmentComplete=video:0 Index=24 Start=144.227000 End=149.899000 Duration=5.672000 offset_pts=0 start_pts=144227000 Frames=142 filename=681409_24.ts
+20:18:20.890 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_25.ts.tmp' for writing
+20:18:20.974 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:20.976 SegmentComplete=video:0 Index=25 Start=150.150000 End=156.030000 Duration=5.880000 offset_pts=0 start_pts=150150000 Frames=147 filename=681409_25.ts
+20:18:20.976 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_26.ts.tmp' for writing
+20:18:21.062 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.064 SegmentComplete=video:0 Index=26 Start=156.114000 End=161.953000 Duration=5.839000 offset_pts=0 start_pts=156114000 Frames=142 filename=681409_26.ts
+20:18:21.064 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_27.ts.tmp' for writing
+20:18:21.070 elapsed=00:00:02.50 frame= 3894 fps=1557 q=-1.0 size=N/A time=00:02:14.72 bitrate=N/A throttle=off speed=53.9x    
+20:18:21.151 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.153 SegmentComplete=video:0 Index=27 Start=162.079000 End=168.000000 Duration=5.921000 offset_pts=0 start_pts=162079000 Frames=145 filename=681409_27.ts
+20:18:21.153 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_28.ts.tmp' for writing
+20:18:21.237 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.239 SegmentComplete=video:0 Index=28 Start=168.126000 End=173.923000 Duration=5.797000 offset_pts=0 start_pts=168126000 Frames=142 filename=681409_28.ts
+20:18:21.239 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_29.ts.tmp' for writing
+20:18:21.327 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.328 SegmentComplete=video:0 Index=29 Start=174.049000 End=180.012000 Duration=5.963000 offset_pts=0 start_pts=174049000 Frames=146 filename=681409_29.ts
+20:18:21.328 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_30.ts.tmp' for writing
+20:18:21.414 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.415 SegmentComplete=video:0 Index=30 Start=180.180000 End=185.893000 Duration=5.713000 offset_pts=0 start_pts=180180000 Frames=141 filename=681409_30.ts
+20:18:21.415 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_31.ts.tmp' for writing
+20:18:21.511 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.513 SegmentComplete=video:0 Index=31 Start=186.061000 End=192.024000 Duration=5.963000 offset_pts=0 start_pts=186061000 Frames=147 filename=681409_31.ts
+20:18:21.513 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_32.ts.tmp' for writing
+20:18:21.571 elapsed=00:00:03.00 frame= 4656 fps=1552 q=-1.0 size=N/A time=00:02:46.42 bitrate=N/A throttle=off speed=55.5x    
+20:18:21.672 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.674 SegmentComplete=video:0 Index=32 Start=192.150000 End=197.947000 Duration=5.797000 offset_pts=0 start_pts=192150000 Frames=142 filename=681409_32.ts
+20:18:21.674 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_33.ts.tmp' for writing
+20:18:21.843 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:21.845 SegmentComplete=video:0 Index=33 Start=198.073000 End=203.995000 Duration=5.922000 offset_pts=0 start_pts=198073000 Frames=145 filename=681409_33.ts
+20:18:21.845 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_34.ts.tmp' for writing
+20:18:22.005 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:22.007 SegmentComplete=video:0 Index=34 Start=204.121000 End=210.001000 Duration=5.880000 offset_pts=0 start_pts=204121000 Frames=144 filename=681409_34.ts
+20:18:22.007 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_35.ts.tmp' for writing
+20:18:22.071 elapsed=00:00:03.50 frame= 5092 fps=1455 q=-1.0 size=N/A time=00:03:04.52 bitrate=N/A throttle=off speed=52.7x    
+20:18:22.169 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:22.171 SegmentComplete=video:0 Index=35 Start=210.085000 End=216.007000 Duration=5.922000 offset_pts=0 start_pts=210085000 Frames=144 filename=681409_35.ts
+20:18:22.171 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_36.ts.tmp' for writing
+20:18:22.332 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:22.334 SegmentComplete=video:0 Index=36 Start=216.091000 End=221.971000 Duration=5.880000 offset_pts=0 start_pts=216091000 Frames=143 filename=681409_36.ts
+20:18:22.334 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_37.ts.tmp' for writing
+20:18:22.512 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:22.515 SegmentComplete=video:0 Index=37 Start=222.013000 End=227.977000 Duration=5.964000 offset_pts=0 start_pts=222013000 Frames=144 filename=681409_37.ts
+20:18:22.515 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_38.ts.tmp' for writing
+20:18:22.571 elapsed=00:00:04.00 frame= 5506 fps=1376 q=-1.0 size=N/A time=00:03:21.89 bitrate=N/A throttle=off speed=50.5x    
+20:18:22.705 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:22.708 SegmentComplete=video:0 Index=38 Start=228.061000 End=233.983000 Duration=5.922000 offset_pts=0 start_pts=228061000 Frames=144 filename=681409_38.ts
+20:18:22.708 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_39.ts.tmp' for writing
+20:18:22.915 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:22.917 SegmentComplete=video:0 Index=39 Start=234.109000 End=239.947000 Duration=5.838000 offset_pts=0 start_pts=234109000 Frames=143 filename=681409_39.ts
+20:18:22.917 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_40.ts.tmp' for writing
+20:18:23.071 elapsed=00:00:04.50 frame= 5863 fps=1303 q=-1.0 size=N/A time=00:03:36.77 bitrate=N/A throttle=off speed=48.2x    
+20:18:23.112 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:23.114 SegmentComplete=video:0 Index=40 Start=240.115000 End=245.912000 Duration=5.797000 offset_pts=0 start_pts=240115000 Frames=143 filename=681409_40.ts
+20:18:23.114 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_41.ts.tmp' for writing
+20:18:23.318 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:23.320 SegmentComplete=video:0 Index=41 Start=246.037000 End=251.959000 Duration=5.922000 offset_pts=0 start_pts=246037000 Frames=145 filename=681409_41.ts
+20:18:23.320 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_42.ts.tmp' for writing
+20:18:23.543 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:23.547 SegmentComplete=video:0 Index=42 Start=252.085000 End=257.798000 Duration=5.713000 offset_pts=0 start_pts=252085000 Frames=140 filename=681409_42.ts
+20:18:23.547 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_43.ts.tmp' for writing
+20:18:23.571 elapsed=00:00:05.00 frame= 6200 fps=1240 q=-1.0 size=N/A time=00:03:50.88 bitrate=N/A throttle=off speed=46.2x    
+20:18:23.724 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:23.729 SegmentComplete=video:0 Index=43 Start=258.049000 End=264.013000 Duration=5.964000 offset_pts=0 start_pts=258049000 Frames=149 filename=681409_43.ts
+20:18:23.729 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_44.ts.tmp' for writing
+20:18:23.931 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:23.935 SegmentComplete=video:0 Index=44 Start=264.139000 End=269.852000 Duration=5.713000 offset_pts=0 start_pts=264139000 Frames=140 filename=681409_44.ts
+20:18:23.935 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_45.ts.tmp' for writing
+20:18:24.071 elapsed=00:00:05.50 frame= 6570 fps=1194 q=-1.0 size=N/A time=00:04:06.36 bitrate=N/A throttle=off speed=44.8x    
+20:18:24.128 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:24.130 SegmentComplete=video:0 Index=45 Start=270.020000 End=275.983000 Duration=5.963000 offset_pts=0 start_pts=270020000 Frames=147 filename=681409_45.ts
+20:18:24.130 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_46.ts.tmp' for writing
+20:18:24.288 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+20:18:24.292 SegmentComplete=video:0 Index=46 Start=276.151000 End=282.031000 Duration=5.880000 offset_pts=0 start_pts=276151000 Frames=145 filename=681409_46.ts
+20:18:24.292 [segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409_47.ts.tmp' for writing
+20:18:24.381 
+
+[q] command received. Exiting.
+
+[segment @ 000002c98cf4db00] Opening 'D:\emby_win4.8.0.62_system.zip\programdata\transcoding-temp\681409\681409.m3u8.tmp' for writing
+SegmentComplete=video:0 Index=47 Start=282.157000 End=285.326000 Duration=3.169000 offset_pts=0 start_pts=282157000 Frames=73 filename=681409_47.ts
+elapsed=00:00:05.81 frame= 6835 fps=1175 q=-1.0 Lsize=N/A time=00:04:17.55 bitrate=N/A throttle=off speed=44.3x    
+video:436348kB audio:6687kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+EXIT
+
+======= ExtraData
+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
+---

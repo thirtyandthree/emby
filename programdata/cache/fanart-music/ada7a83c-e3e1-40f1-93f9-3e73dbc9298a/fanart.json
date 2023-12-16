@@ -1,0 +1,937 @@
+{
+    "name": "Arctic Monkeys",
+    "mbid_id": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+    "artistbackground": [
+        {
+            "id": "17909",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-4f16ebee4f961.jpg",
+            "likes": "4",
+            "added": "2012-01-18 22:40:47"
+        },
+        {
+            "id": "2324",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-4dd695f46d730.jpg",
+            "likes": "3",
+            "added": "2011-05-20 16:43:31"
+        },
+        {
+            "id": "58854",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-508b3e22089ee.jpg",
+            "likes": "3",
+            "added": "2012-10-27 01:57:27"
+        },
+        {
+            "id": "17910",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-4f16ebf70346b.jpg",
+            "likes": "2",
+            "added": "2012-01-18 22:40:53"
+        },
+        {
+            "id": "17911",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-4f16ebff508a6.jpg",
+            "likes": "2",
+            "added": "2012-01-18 22:40:59"
+        },
+        {
+            "id": "17912",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-4f16ec08e2c4c.jpg",
+            "likes": "2",
+            "added": "2012-01-18 22:41:04"
+        },
+        {
+            "id": "17913",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-4f16ec1224153.jpg",
+            "likes": "2",
+            "added": "2012-01-18 22:41:09"
+        },
+        {
+            "id": "114659",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-531aba4282da4.jpg",
+            "likes": "1",
+            "added": "2014-03-08 22:39:18"
+        },
+        {
+            "id": "114660",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-531aba428bbdb.jpg",
+            "likes": "1",
+            "added": "2014-03-08 22:39:39"
+        },
+        {
+            "id": "114661",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-531aba4293efd.jpg",
+            "likes": "1",
+            "added": "2014-03-08 22:39:45"
+        },
+        {
+            "id": "114662",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-531aba429c1e8.jpg",
+            "likes": "1",
+            "added": "2014-03-08 22:39:49"
+        },
+        {
+            "id": "114663",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-531aba42a2c90.jpg",
+            "likes": "1",
+            "added": "2014-03-08 19:37:33"
+        },
+        {
+            "id": "170583",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-55aa900eecf63.jpg",
+            "likes": "1",
+            "added": "2015-07-18 19:37:51"
+        },
+        {
+            "id": "240819",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-5b03697e15175.jpg",
+            "likes": "1",
+            "added": "2018-05-25 10:12:17"
+        },
+        {
+            "id": "240818",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-5b03691254ece.jpg",
+            "likes": "0",
+            "added": "2018-05-25 10:12:03"
+        },
+        {
+            "id": "240820",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-5b036a9fa7a70.jpg",
+            "likes": "0",
+            "added": "2018-05-25 10:12:34"
+        },
+        {
+            "id": "240821",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-5b036b769d25f.jpg",
+            "likes": "0",
+            "added": "2018-05-25 10:12:47"
+        },
+        {
+            "id": "403077",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-63ffabe6c9667.jpg",
+            "likes": "0",
+            "added": "2023-03-02 03:02:58"
+        },
+        {
+            "id": "403078",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-63ffac0273c24.jpg",
+            "likes": "0",
+            "added": "2023-03-02 03:03:11"
+        },
+        {
+            "id": "403079",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-63ffac1587840.jpg",
+            "likes": "0",
+            "added": "2023-03-02 03:03:04"
+        },
+        {
+            "id": "403080",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-63ffac23cae4d.jpg",
+            "likes": "0",
+            "added": "2023-03-02 03:03:17"
+        },
+        {
+            "id": "403081",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-63ffac305563f.jpg",
+            "likes": "0",
+            "added": "2023-03-02 03:03:24"
+        },
+        {
+            "id": "403134",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistbackground/arctic-monkeys-6400f95c634fb.jpg",
+            "likes": "0",
+            "added": "2023-03-04 13:26:56"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "97652",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-522d9b38bd5f1.png",
+            "likes": "4",
+            "added": "2013-09-09 12:05:15"
+        },
+        {
+            "id": "110293",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-52dc7404ceab2.png",
+            "likes": "4",
+            "added": "2014-01-20 09:58:14"
+        },
+        {
+            "id": "49112",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-503cc5daf1187.png",
+            "likes": "2",
+            "added": "2012-08-28 16:53:17"
+        },
+        {
+            "id": "125585",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-538a1175e936b.png",
+            "likes": "2",
+            "added": "2014-05-31 19:37:21"
+        },
+        {
+            "id": "125586",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-538a11760c8dd.png",
+            "likes": "2",
+            "added": "2014-05-31 19:37:04"
+        },
+        {
+            "id": "214369",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-58c217fb429c6.png",
+            "likes": "2",
+            "added": "2017-03-10 05:40:45"
+        },
+        {
+            "id": "236683",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-5a9abac2b48b2.png",
+            "likes": "2",
+            "added": "2018-03-03 17:08:15"
+        },
+        {
+            "id": "236684",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-5a9ac2ee0c940.png",
+            "likes": "2",
+            "added": "2018-03-03 17:08:26"
+        },
+        {
+            "id": "239407",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-5ad31d68a9146.png",
+            "likes": "2",
+            "added": "2018-04-15 17:11:48"
+        },
+        {
+            "id": "214368",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/hdmusiclogo/arctic-monkeys-58c217f27c894.png",
+            "likes": "1",
+            "added": "2017-03-10 05:40:14"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "7117",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/musiclogo/arctic-monkeys-4e15f0ebe85ee.png",
+            "likes": "1",
+            "added": "2011-07-07 17:49:10"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "30011",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-4faa61602dbca.jpg",
+            "likes": "1",
+            "added": "2012-05-09 12:51:33"
+        },
+        {
+            "id": "30012",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-4faa617388519.jpg",
+            "likes": "0",
+            "added": "2012-05-09 12:51:34"
+        },
+        {
+            "id": "114664",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-531aba4678435.jpg",
+            "likes": "0",
+            "added": "2014-03-08 22:44:42"
+        },
+        {
+            "id": "240822",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-5b036c9c8b4ea.jpg",
+            "likes": "0",
+            "added": "2018-05-25 10:54:24"
+        },
+        {
+            "id": "240824",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-5b036df815e37.jpg",
+            "likes": "0",
+            "added": "2018-05-25 10:54:36"
+        },
+        {
+            "id": "395372",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-63760f08d24ac.jpg",
+            "likes": "0",
+            "added": "2022-11-17 11:57:51"
+        },
+        {
+            "id": "395374",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/artistthumb/arctic-monkeys-637610ce5133e.jpg",
+            "likes": "0",
+            "added": "2022-11-17 11:56:46"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "49111",
+            "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/musicbanner/arctic-monkeys-503cc3f5ce4b5.jpg",
+            "likes": "0",
+            "added": "2012-08-28 17:27:52"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "97ee3a0f-183b-4830-aa5c-45507a084d37",
+            "albumcover": [
+                {
+                    "id": "239384",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/tranquility-base-hotel--casino-5ad28b6e7e6c0.jpg",
+                    "likes": "5",
+                    "added": "2018-04-15 16:52:04"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "413540",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/the-soundtrack-to-2006-64d7694ae65bb.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2023-08-12 15:11:05"
+                },
+                {
+                    "id": "413541",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/tranquility-base-hotel--casino-64d7696ce27e8.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2023-08-12 15:11:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ffdc0fd3-e726-4e98-af19-d3274ede2311",
+            "albumcover": [
+                {
+                    "id": "49384",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/suck-it-and-see-503e65cdd3836.jpg",
+                    "likes": "4",
+                    "added": "2012-08-30 07:27:45"
+                },
+                {
+                    "id": "239244",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/suck-it-and-see-5acfa621d4c14.jpg",
+                    "likes": "1",
+                    "added": "2018-04-13 12:15:46"
+                },
+                {
+                    "id": "157368",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/suck-it-and-see-551bee71468d7.jpg",
+                    "likes": "0",
+                    "added": "2015-04-02 14:08:03"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "187713",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/suck-it-and-see-56a52d297c7d2.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2016-01-24 23:24:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a348ba2f-f8b3-4686-b928-e63d8d94d543",
+            "albumcover": [
+                {
+                    "id": "96849",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/am-5225ede2d800b.jpeg",
+                    "likes": "4",
+                    "added": "2013-09-03 19:52:41"
+                },
+                {
+                    "id": "221984",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/am-59615bcdbe9ac.jpg",
+                    "likes": "1",
+                    "added": "2017-07-08 23:42:29"
+                },
+                {
+                    "id": "221982",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/am-59615a816e671.jpg",
+                    "likes": "0",
+                    "added": "2017-07-08 23:41:52"
+                },
+                {
+                    "id": "317136",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/am-5f9ae73ac8b35.jpg",
+                    "likes": "0",
+                    "added": "2020-10-30 22:27:12"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "113218",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/am-530a9c4930bad.png",
+                    "likes": "2",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2014-02-24 06:58:18"
+                }
+            ]
+        },
+        {
+            "release_group_id": "23b7e9e9-8820-4a49-b44f-a7a60e0a7e81",
+            "albumcover": [
+                {
+                    "id": "178690",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/humbug-55faa316bb8af.jpg",
+                    "likes": "4",
+                    "added": "2015-09-19 03:10:15"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "9913",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/humbug-4e5f772c03a3a.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-09-01 21:25:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "38b55458-39f4-3e31-a666-65cd11587b3c",
+            "albumcover": [
+                {
+                    "id": "80396",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/fluorescent-adolescent-5179d3de308e4.jpg",
+                    "likes": "2",
+                    "added": "2013-04-26 13:34:13"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246792",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/fluorescent-adolescent-5b89629b629ff.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-08-31 16:34:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ad4204e4-dc65-4248-96f2-7aff13276042",
+            "albumcover": [
+                {
+                    "id": "80411",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/black-treacle-5179df6e3c186.jpg",
+                    "likes": "2",
+                    "added": "2013-04-26 13:35:04"
+                },
+                {
+                    "id": "239379",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/black-treacle-5ad28b6e5bf25.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 16:50:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "52590425-f06a-428b-aa48-33221b972a15",
+            "albumcover": [
+                {
+                    "id": "80488",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/the-hellcat-spangled-shalalala-517a9d7ab1b3a.jpg",
+                    "likes": "2",
+                    "added": "2013-04-27 07:52:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "57a7e81d-0e74-4e07-9213-3bca8c84d760",
+            "albumcover": [
+                {
+                    "id": "80489",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/dont-sit-down-cause-ive-moved-your-chair-517a9e0d81a82.jpg",
+                    "likes": "2",
+                    "added": "2013-04-29 11:58:03"
+                },
+                {
+                    "id": "239240",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/dont-sit-down-cause-ive-moved-your-chair-5acfa59c7d417.jpg",
+                    "likes": "0",
+                    "added": "2018-04-13 12:11:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "aac8fc98-402d-43d9-a212-d92a3dd7754d",
+            "albumcover": [
+                {
+                    "id": "80490",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/my-propeller-517a9e440c667.jpg",
+                    "likes": "2",
+                    "added": "2013-04-27 07:52:51"
+                },
+                {
+                    "id": "239250",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/my-propeller-5acfadc98acdc.jpg",
+                    "likes": "0",
+                    "added": "2018-04-13 12:22:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7bee929d-bb91-45ac-8b31-a93b06f28ce0",
+            "albumcover": [
+                {
+                    "id": "80491",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/cornerstone-517a9e8f143ca.jpg",
+                    "likes": "2",
+                    "added": "2013-04-27 07:53:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "00dd3e52-590c-414b-8c22-c5dc79602d04",
+            "albumcover": [
+                {
+                    "id": "80492",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/crying-lightning-517a9edc02c28.jpg",
+                    "likes": "2",
+                    "added": "2013-04-27 07:52:57"
+                },
+                {
+                    "id": "239380",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/crying-lightning-5ad28b6e5fa6c.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 16:51:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0310cddf-700e-3ef5-bb09-de59837c705d",
+            "albumcover": [
+                {
+                    "id": "80493",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/teddy-picker-517a9f27997fd.jpg",
+                    "likes": "2",
+                    "added": "2013-04-27 07:53:04"
+                },
+                {
+                    "id": "239383",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/teddy-picker-5ad28b6e759d0.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 16:51:50"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246795",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/teddy-picker-5b89629b72531.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-08-31 16:31:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b000ba2d-d691-3300-b8a2-4df4d655b4c2",
+            "albumcover": [
+                {
+                    "id": "80494",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/brianstorm-517a9f62b4d01.jpg",
+                    "likes": "2",
+                    "added": "2013-04-27 07:53:09"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246791",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/brianstorm-5b89629b5ea38.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-08-31 16:30:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "91a37a36-ed9a-4f2e-a5c1-9bab98de74aa",
+            "albumcover": [
+                {
+                    "id": "110294",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/itunes-festival-london-2011-52dc76df1839e.jpg",
+                    "likes": "2",
+                    "added": "2014-01-20 08:45:27"
+                },
+                {
+                    "id": "239385",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/itunes-festival-london-2011-5ad28c5348bc2.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 16:52:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "815dcc0c-8640-4f87-9879-c69d3cbb9810",
+            "albumcover": [
+                {
+                    "id": "110295",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/itunes-festival-london-2013-52dc7771ab194.jpg",
+                    "likes": "2",
+                    "added": "2014-01-20 08:45:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "aa5db513-c948-4ed1-a86c-58c58d456af7",
+            "albumcover": [
+                {
+                    "id": "167053",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/do-i-wanna-know-558582658bc5c.jpg",
+                    "likes": "2",
+                    "added": "2015-06-21 01:20:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a917f3fe-dcf1-469b-817d-5a8cdd3c37f4",
+            "albumcover": [
+                {
+                    "id": "178691",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/at-the-apollo-55faa410c3c1a.jpg",
+                    "likes": "2",
+                    "added": "2015-09-21 23:26:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ca814e6b-54f9-371a-af9c-75e62799fec9",
+            "albumcover": [
+                {
+                    "id": "221985",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/five-minutes-with-arctic-monkeys-59615c34b1d49.jpg",
+                    "likes": "2",
+                    "added": "2017-07-08 23:42:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6c9c4985-3628-3070-b956-b538f30c9bea",
+            "albumcover": [
+                {
+                    "id": "245164",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/whatever-people-say-i-am-thats-what-im-not-5b6545e6e441d.jpg",
+                    "likes": "2",
+                    "added": "2018-08-05 14:55:57"
+                },
+                {
+                    "id": "320194",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/whatever-people-say-i-am-thats-what-im-not-5fbc3a5b7ccec.jpg",
+                    "likes": "2",
+                    "added": "2020-11-24 12:09:33"
+                },
+                {
+                    "id": "352376",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/whatever-people-say-i-am-thats-what-im-not-61290b796e8bc.jpg",
+                    "likes": "0",
+                    "added": "2021-08-28 13:54:27"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "9914",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/whatever-people-say-i-am-thats-what-im-not-4e5f772c15f2f.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-09-01 21:25:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f113fa38-7908-3ec9-8145-d2455e78a8b2",
+            "cdart": [
+                {
+                    "id": "9915",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/favourite-worst-nightmare-4e5f772c1b521.png",
+                    "likes": "1",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-09-01 21:25:03"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "351913",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/favourite-worst-nightmare-6123fd0b7930c.jpg",
+                    "likes": "0",
+                    "added": "2021-08-24 08:14:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1bcf44ae-65ba-4899-bdd4-f5e5630a1bb6",
+            "albumcover": [
+                {
+                    "id": "80442",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/suck-it-and-see--evil-twin-517a07a322e36.jpg",
+                    "likes": "1",
+                    "added": "2013-04-26 13:36:26"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d9653ca1-fb47-4205-97b1-cc705e065281",
+            "albumcover": [
+                {
+                    "id": "167054",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/one-for-the-road-558582658ca86.jpg",
+                    "likes": "1",
+                    "added": "2015-06-22 18:45:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e78e8036-0315-405a-bb94-169abd33d121",
+            "albumcover": [
+                {
+                    "id": "167055",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/r-u-mine-558582658cea5.jpg",
+                    "likes": "1",
+                    "added": "2015-06-22 18:46:02"
+                },
+                {
+                    "id": "239382",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/r-u-mine-5ad28b6e6ba94.jpg",
+                    "likes": "1",
+                    "added": "2018-04-15 16:51:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5f84b413-9027-45ac-baec-4c6d235f3a45",
+            "albumcover": [
+                {
+                    "id": "167056",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/whyd-you-only-call-me-when-youre-high-558582658dea7.jpg",
+                    "likes": "1",
+                    "added": "2015-06-22 18:46:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "9e002ca1-041c-3cff-ac3c-76dfa49f38bc",
+            "albumcover": [
+                {
+                    "id": "221988",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/leave-before-the-lights-come-on-59615e26ab50c.jpg",
+                    "likes": "1",
+                    "added": "2017-07-08 23:44:12"
+                },
+                {
+                    "id": "239322",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/leave-before-the-lights-come-on-5ad12bca37425.jpg",
+                    "likes": "0",
+                    "added": "2018-04-14 11:23:08"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246794",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/leave-before-the-lights-come-on-5b89629b6e188.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-08-31 16:30:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5d8ce6c1-2112-3b2e-864d-dd1a50acbe62",
+            "albumcover": [
+                {
+                    "id": "221989",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/matador--da-frame-2r-59615e26b0c8f.jpg",
+                    "likes": "1",
+                    "added": "2017-07-08 23:44:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6026753a-0dc1-36d5-a0c2-1e6fb1c44434",
+            "albumcover": [
+                {
+                    "id": "221990",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/when-the-sun-goes-down-59615e26b627e.jpg",
+                    "likes": "1",
+                    "added": "2017-07-08 23:44:32"
+                },
+                {
+                    "id": "239323",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/when-the-sun-goes-down-5ad12bca3af1b.jpg",
+                    "likes": "0",
+                    "added": "2018-04-14 11:23:26"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246814",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/when-the-sun-goes-down-5b8985820b800.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-08-31 18:38:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "791b5323-0f2c-34aa-9866-429437eeefbb",
+            "albumcover": [
+                {
+                    "id": "221993",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/who-the-fuck-are-arctic-monkeys-5961629610870.jpg",
+                    "likes": "1",
+                    "added": "2017-07-08 23:47:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "249d7049-7d56-497b-abfe-464e3c535daf",
+            "albumcover": [
+                {
+                    "id": "387115",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/the-car-63077a846e85d.jpg",
+                    "likes": "1",
+                    "added": "2022-08-26 18:25:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8eb3c027-e1cc-4661-befd-2768e6a55afc",
+            "albumcover": [
+                {
+                    "id": "221983",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/latenighttales-arctic-monkeys-59615b7199c31.jpg",
+                    "likes": "0",
+                    "added": "2017-07-08 23:47:19"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246964",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/latenighttales-arctic-monkeys-5b8c80554482f.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-09-03 01:05:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7f04f0e4-65f1-312d-a0bd-175090ea3c3e",
+            "albumcover": [
+                {
+                    "id": "227979",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/2006-01-29-bbc-radio-1-jo-whileys-live-lounge-59e0052f007f7.jpg",
+                    "likes": "0",
+                    "added": "2017-10-13 05:32:07"
+                },
+                {
+                    "id": "239246",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/2006-01-29-bbc-radio-1-jo-whileys-live-lounge-5acfaa28a51d1.jpg",
+                    "likes": "0",
+                    "added": "2018-04-13 15:48:46"
+                }
+            ]
+        },
+        {
+            "release_group_id": "67f8e38c-9e84-3045-b472-c237eeb11426",
+            "albumcover": [
+                {
+                    "id": "227980",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/2007-06-22-glastonbury-uk-59e0052f045a0.jpg",
+                    "likes": "0",
+                    "added": "2017-10-13 05:32:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "59653fb4-42cd-38bf-abc6-3cf0661db13e",
+            "albumcover": [
+                {
+                    "id": "227981",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/2006-02-20-black-session-243-paris-france-59e005a7a822b.jpg",
+                    "likes": "0",
+                    "added": "2017-10-13 05:34:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2dfba729-4b69-3c41-a4e2-a52bb36784a2",
+            "albumcover": [
+                {
+                    "id": "239241",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/i-bet-you-look-good-on-the-dancefloor-5acfa59c8a3f4.jpg",
+                    "likes": "0",
+                    "added": "2018-04-13 12:12:10"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "246793",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/cdart/i-bet-you-look-good-on-the-dancefloor-5b89629b693fb.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-08-31 16:31:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "68127ed0-5a78-4e5a-b7e2-789a9b6e9929",
+            "albumcover": [
+                {
+                    "id": "239378",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/arabella-5ad28b6e581fc.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 16:50:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1bc7c143-0cd7-4d99-849f-159ad2969a9f",
+            "albumcover": [
+                {
+                    "id": "239381",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/fake-tales-of-san-francisco-5ad28b6e662b3.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 16:51:30"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b141429d-542e-4821-934e-7228d74722ce",
+            "albumcover": [
+                {
+                    "id": "239420",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/snap-out-of-it-5ad399756d264.jpg",
+                    "likes": "0",
+                    "added": "2018-04-15 19:59:14"
+                }
+            ]
+        },
+        {
+            "release_group_id": "22afb454-80b4-4fff-89f2-44cd70fcd112",
+            "albumcover": [
+                {
+                    "id": "251683",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/tranquility-base-hotel--casino-5bf9ad42425e8.jpg",
+                    "likes": "0",
+                    "added": "2018-11-28 00:14:14"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d2850acf-28c8-423a-89d0-a85c800461c1",
+            "albumcover": [
+                {
+                    "id": "317137",
+                    "url": "https://assets.fanart.tv/fanart/music/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a/albumcover/royal-albert-hall-5f9ae73ad857a.jpg",
+                    "likes": "0",
+                    "added": "2020-10-30 22:26:38"
+                }
+            ]
+        }
+    ]
+}

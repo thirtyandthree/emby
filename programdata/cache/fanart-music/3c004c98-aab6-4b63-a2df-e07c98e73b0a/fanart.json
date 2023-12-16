@@ -1,0 +1,47 @@
+{
+    "name": "José Feliciano",
+    "mbid_id": "3c004c98-aab6-4b63-a2df-e07c98e73b0a",
+    "artistthumb": [
+        {
+            "id": "270037",
+            "url": "https://assets.fanart.tv/fanart/music/3c004c98-aab6-4b63-a2df-e07c98e73b0a/artistthumb/feliciano-jos-5d0512a245286.jpg",
+            "likes": "0",
+            "added": "2019-06-15 17:05:43"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "c66c1b8b-7ec5-322f-98ce-2f901b1a1b92",
+            "albumcover": [
+                {
+                    "id": "244093",
+                    "url": "https://assets.fanart.tv/fanart/music/3c004c98-aab6-4b63-a2df-e07c98e73b0a/albumcover/a-bag-full-of-soul-folk-rock-and-blues-5b4b574426153.jpg",
+                    "likes": "0",
+                    "added": "2018-07-16 16:28:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cdf992a6-a1cf-4bd3-bb63-921dae7d4150",
+            "albumcover": [
+                {
+                    "id": "244094",
+                    "url": "https://assets.fanart.tv/fanart/music/3c004c98-aab6-4b63-a2df-e07c98e73b0a/albumcover/as-you-see-me-now-5b4b57442981d.jpg",
+                    "likes": "0",
+                    "added": "2018-07-16 16:29:24"
+                }
+            ]
+        },
+        {
+            "release_group_id": "abcf80f8-38ec-4dff-9878-5fdb228121cb",
+            "albumcover": [
+                {
+                    "id": "328882",
+                    "url": "https://assets.fanart.tv/fanart/music/3c004c98-aab6-4b63-a2df-e07c98e73b0a/albumcover/ya-soy-tuyo-6032f5b28baf8.jpg",
+                    "likes": "0",
+                    "added": "2021-02-22 03:18:42"
+                }
+            ]
+        }
+    ]
+}

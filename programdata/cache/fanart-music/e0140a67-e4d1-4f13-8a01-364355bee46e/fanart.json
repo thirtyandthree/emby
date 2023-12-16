@@ -1,0 +1,1487 @@
+{
+    "name": "Justin Bieber",
+    "mbid_id": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+    "artistbackground": [
+        {
+            "id": "180971",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-56167e6110c53.jpg",
+            "likes": "4",
+            "added": "2015-10-26 00:15:22"
+        },
+        {
+            "id": "33287",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-4fc6a3f58c01e.jpg",
+            "likes": "2",
+            "added": "2012-06-01 23:45:27"
+        },
+        {
+            "id": "2840",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/justin-bieber-4ddc69eee922e.jpg",
+            "likes": "0",
+            "added": "2011-05-25 08:04:30"
+        },
+        {
+            "id": "2841",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/justin-bieber-4ddc6a461c599.jpg",
+            "likes": "0",
+            "added": "2011-05-25 08:04:33"
+        },
+        {
+            "id": "2842",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/justin-bieber-4ddc6a62608da.jpg",
+            "likes": "0",
+            "added": "2011-05-25 08:04:37"
+        },
+        {
+            "id": "14973",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/justin-bieber-4ed7d6082ee9c.jpg",
+            "likes": "0",
+            "added": "2011-12-02 19:37:04"
+        },
+        {
+            "id": "123133",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-5375ff0a547cd.jpg",
+            "likes": "0",
+            "added": "2014-05-16 13:19:23"
+        },
+        {
+            "id": "123134",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-5375ff24906ae.jpg",
+            "likes": "0",
+            "added": "2014-05-16 13:50:17"
+        },
+        {
+            "id": "123136",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-5375ff533389d.jpg",
+            "likes": "0",
+            "added": "2014-05-16 13:50:29"
+        },
+        {
+            "id": "123137",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-5375ff6a5030c.jpg",
+            "likes": "0",
+            "added": "2014-05-16 13:50:48"
+        },
+        {
+            "id": "123138",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-5375ff83bf87d.jpg",
+            "likes": "0",
+            "added": "2014-05-16 13:19:55"
+        },
+        {
+            "id": "167027",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistbackground/bieber-justin-558557b0bb279.jpg",
+            "likes": "0",
+            "added": "2015-06-21 01:31:44"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "123128",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistthumb/bieber-justin-5375fe939e307.jpg",
+            "likes": "1",
+            "added": "2014-05-16 13:43:59"
+        },
+        {
+            "id": "123129",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistthumb/bieber-justin-5375fea47c5d2.jpg",
+            "likes": "1",
+            "added": "2014-05-16 13:44:10"
+        },
+        {
+            "id": "123130",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistthumb/bieber-justin-5375feb71e67f.jpg",
+            "likes": "1",
+            "added": "2014-05-16 13:44:19"
+        },
+        {
+            "id": "123131",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistthumb/bieber-justin-5375fecd622bf.jpg",
+            "likes": "1",
+            "added": "2014-05-16 13:44:29"
+        },
+        {
+            "id": "123132",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistthumb/bieber-justin-5375fee78b52f.jpg",
+            "likes": "1",
+            "added": "2014-05-16 13:44:36"
+        },
+        {
+            "id": "33288",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/artistthumb/bieber-justin-4fc6a4060a1f5.jpg",
+            "likes": "0",
+            "added": "2012-05-31 08:25:57"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "253430",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/hdmusiclogo/bieber-justin-5c19a40664655.png",
+            "likes": "1",
+            "added": "2018-12-19 06:13:52"
+        },
+        {
+            "id": "56318",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/hdmusiclogo/bieber-justin-50788a2a106f3.png",
+            "likes": "0",
+            "added": "2012-10-15 22:33:09"
+        },
+        {
+            "id": "125654",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/hdmusiclogo/bieber-justin-538af5d6ec173.png",
+            "likes": "0",
+            "added": "2014-06-01 13:31:16"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "56319",
+            "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/musicbanner/bieber-justin-50788c8b98378.jpg",
+            "likes": "0",
+            "added": "2012-10-15 20:59:52"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "df46f245-7f62-4982-9d2c-e83d7be91cbf",
+            "albumcover": [
+                {
+                    "id": "37692",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/believe-4fdfffcb94b45.jpg",
+                    "likes": "1",
+                    "added": "2012-06-19 08:07:42"
+                },
+                {
+                    "id": "158379",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/believe-55266836ca2cd.JPG",
+                    "likes": "0",
+                    "added": "2015-04-09 19:56:23"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "37691",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/believe-4fdfffbc8e4fb.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2012-06-19 16:34:46"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7f673bef-5e95-46a7-baa2-8f29df0624cf",
+            "albumcover": [
+                {
+                    "id": "287764",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/changes-5e566b7c39c6e.jpg",
+                    "likes": "1",
+                    "added": "2020-02-26 15:44:12"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "314685",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/changes-5f7caf8b4ba45.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2020-10-07 12:30:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "de10a532-7987-4486-a245-029c5f266bcf",
+            "albumcover": [
+                {
+                    "id": "293612",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/i-dont-care-5e8fc82e72d3b.jpg",
+                    "likes": "1",
+                    "added": "2020-04-11 06:22:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0f9d5103-dd09-4fcd-8fe1-223612668f09",
+            "albumcover": [
+                {
+                    "id": "344323",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/justice-60c6a56f5922b.jpg",
+                    "likes": "1",
+                    "added": "2021-06-14 01:03:58"
+                },
+                {
+                    "id": "344443",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/justice-60c7999a7f211.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:11:23"
+                },
+                {
+                    "id": "344444",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/justice-60c799b78138d.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:11:34"
+                },
+                {
+                    "id": "397571",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/justice-639b73e2d404e.jpg",
+                    "likes": "0",
+                    "added": "2022-12-15 19:34:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3762f319-5f0f-4f30-a77e-3e28a9bce9dc",
+            "albumcover": [
+                {
+                    "id": "2837",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/my-worlds-the-collection-4ddc69debd7d4.jpg",
+                    "likes": "0",
+                    "added": "2011-05-25 07:59:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "71f4280a-23f9-46fa-ae75-a2af087e96bd",
+            "albumcover": [
+                {
+                    "id": "2838",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/my-world-4ddc69debeb5d.jpg",
+                    "likes": "0",
+                    "added": "2011-05-25 07:59:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eb68ecd6-fb1e-483a-9cda-b595fb4664a7",
+            "albumcover": [
+                {
+                    "id": "2839",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/my-world-20-4ddc69dec685d.jpg",
+                    "likes": "0",
+                    "added": "2011-05-25 07:59:44"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "14857",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/my-world-20-4ed515e064f0b.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-11-30 01:22:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5708e8f4-71a5-4f47-9b30-d36a0e3bdc56",
+            "cdart": [
+                {
+                    "id": "14864",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/under-the-mistletoe-4ed51794bbf86.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2011-11-30 01:22:41"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "14865",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/under-the-mistletoe-4ed517c8d48df.jpg",
+                    "likes": "0",
+                    "added": "2011-11-30 01:27:12"
+                },
+                {
+                    "id": "344460",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/under-the-mistletoe-60c7a5031bf57.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:20:43"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ee36695d-1651-445e-aa8b-653376284fae",
+            "cdart": [
+                {
+                    "id": "70603",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/believe-acoustic-51181b119cb16.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2013-02-11 04:57:52"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "70604",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/believe-acoustic-51181b1c330f4.jpg",
+                    "likes": "0",
+                    "added": "2013-02-11 04:59:01"
+                }
+            ]
+        },
+        {
+            "release_group_id": "37b21c23-b70c-40c1-8c24-191ff84242c1",
+            "albumcover": [
+                {
+                    "id": "123363",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/journals-53771aa0ba583.jpg",
+                    "likes": "0",
+                    "added": "2014-05-17 20:17:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e22521dc-ed45-489b-ac2c-d9a9a084a4b6",
+            "albumcover": [
+                {
+                    "id": "158473",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/my-worlds-552702c25341b.jpg",
+                    "likes": "0",
+                    "added": "2015-04-10 04:32:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "fae99ea3-2a04-4357-93c9-90ef560e5f85",
+            "albumcover": [
+                {
+                    "id": "158474",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/my-worlds-acoustic-552702c253ac8.jpg",
+                    "likes": "0",
+                    "added": "2015-04-10 04:32:39"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "364198",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/my-worlds-acoustic-61a83b23d61cf.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2021-12-02 04:57:39"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2660de3c-56db-4bd1-bf99-e162c68e5712",
+            "albumcover": [
+                {
+                    "id": "183159",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/purpose-564704bed4af3.jpg",
+                    "likes": "0",
+                    "added": "2015-11-19 10:07:22"
+                },
+                {
+                    "id": "183271",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/purpose-564ae234a8b41.jpg",
+                    "likes": "0",
+                    "added": "2015-11-19 10:21:40"
+                },
+                {
+                    "id": "183318",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/purpose-564da75070667.jpg",
+                    "likes": "0",
+                    "added": "2015-11-20 10:01:02"
+                }
+            ],
+            "cdart": [
+                {
+                    "id": "187414",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/cdart/purpose-56a26a6d12132.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2016-01-22 20:07:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e0a26cb8-ec32-470d-8040-bc550cd91564",
+            "albumcover": [
+                {
+                    "id": "216249",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/all-around-the-world-58e63f0c61e04.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 14:09:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2695c78e-3886-40dd-902c-0d93a84e899c",
+            "albumcover": [
+                {
+                    "id": "216251",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/boyfriend-58e63f0c62bd9.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 14:10:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2a71425c-f6d4-4e65-83c9-2e5eabd832ae",
+            "albumcover": [
+                {
+                    "id": "216252",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/company-58e63f0c630ea.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 14:10:39"
+                },
+                {
+                    "id": "344388",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/company-60c74e0424d6c.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:32:08"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4335c2c2-dfc0-4f82-9e5a-47b0fdb26330",
+            "albumcover": [
+                {
+                    "id": "216253",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/die-in-your-arms-58e63f0c6362f.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 14:10:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "bacca5e4-56f3-4258-889e-f799a366166f",
+            "albumcover": [
+                {
+                    "id": "216255",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/love-yourself-58e63f0c6402e.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 14:11:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ebf85580-7ce4-4855-8936-30ced46a5f0f",
+            "albumcover": [
+                {
+                    "id": "216259",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/sorry-58e63f0c65482.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 14:16:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "23c68326-ee47-47dc-bc6b-9e4572d4d0da",
+            "albumcover": [
+                {
+                    "id": "226854",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/somebody-to-love-remix-59c8ab7e716f6.jpg",
+                    "likes": "0",
+                    "added": "2017-09-25 07:16:59"
+                }
+            ]
+        },
+        {
+            "release_group_id": "347c2989-9e0f-4028-9f58-dd75d277b2e3",
+            "albumcover": [
+                {
+                    "id": "244509",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/friends-5b5783c5a6673.jpg",
+                    "likes": "0",
+                    "added": "2018-07-25 03:19:18"
+                },
+                {
+                    "id": "310077",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/friends-5f3ea06c83e5f.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:16:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4c66e111-8d9b-4273-9ad7-a5db448e80c1",
+            "albumcover": [
+                {
+                    "id": "310072",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/intentions-acoustic-5f3e9c2d4c5d5.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:15:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b9709020-6368-4e5a-81ff-614b79c80b45",
+            "albumcover": [
+                {
+                    "id": "310073",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/yummy-5f3e9d3fc1f5b.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:15:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "29d52d7d-f8e6-4215-bf57-0931d3068f5f",
+            "albumcover": [
+                {
+                    "id": "310074",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/yummy-country-remix-5f3e9e11b7f10.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:15:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "698083ec-1ac9-4cc3-9d35-2d4b39565634",
+            "albumcover": [
+                {
+                    "id": "310075",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/the-best-5f3e9ee59778e.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:16:07"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e9966fe0-4e4b-4474-ae59-27bf6ffc290f",
+            "albumcover": [
+                {
+                    "id": "310076",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/yummy-summer-walker-remix-5f3e9f7fe47eb.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:16:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6e9733d6-ba44-49f3-8bc7-0bc0eeca897d",
+            "albumcover": [
+                {
+                    "id": "310078",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/sorry-latino-remix-5f3ea159cf032.jpg",
+                    "likes": "0",
+                    "added": "2020-08-20 16:16:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dbf51573-d54d-4161-915b-9c2eb99bf3cd",
+            "albumcover": [
+                {
+                    "id": "310079",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/flatline-5f3ea45f17705.jpg",
+                    "likes": "0",
+                    "added": "2020-08-21 00:48:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0ed009c5-2b46-4996-9bb0-8223231b3fda",
+            "albumcover": [
+                {
+                    "id": "310080",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/turn-to-you-mothers-day-dedication-5f3ea73d07d35.jpg",
+                    "likes": "0",
+                    "added": "2020-08-21 00:48:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "eabcb7ae-8791-468b-9959-c095cdbc063f",
+            "albumcover": [
+                {
+                    "id": "326120",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/lonely-60147817b9b3f.jpg",
+                    "likes": "0",
+                    "added": "2021-01-30 00:32:31"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3a84db7d-480f-4f49-99b5-ff3150fcde47",
+            "albumcover": [
+                {
+                    "id": "326470",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/anyone-60183d927588a.jpg",
+                    "likes": "0",
+                    "added": "2021-02-01 17:50:48"
+                }
+            ]
+        },
+        {
+            "release_group_id": "74264ede-bd10-4ca1-a382-d834e2339ace",
+            "albumcover": [
+                {
+                    "id": "326471",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/holy-60183db8b41dc.jpg",
+                    "likes": "0",
+                    "added": "2021-02-01 17:50:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ca652fe4-614d-4cc4-8bb0-77aac378187d",
+            "albumcover": [
+                {
+                    "id": "342784",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/hold-on-60ba81b4c9883.jpg",
+                    "likes": "0",
+                    "added": "2021-06-04 21:31:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "04de5d0b-1e38-4890-93a3-34bc5fdda4dc",
+            "albumcover": [
+                {
+                    "id": "342785",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/peaches-60ba81b4d96d1.jpg",
+                    "likes": "0",
+                    "added": "2021-06-04 21:32:07"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4f2b1c26-6eb9-4ad7-8c8a-df965deed1aa",
+            "albumcover": [
+                {
+                    "id": "343315",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-60be59dd7c14b.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 18:00:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "0531083e-ae29-4267-9dc6-a26bdb3f5924",
+            "albumcover": [
+                {
+                    "id": "343316",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-afrojack-remix-60be5a113a8a0.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 18:00:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3c30a97d-93d0-418c-893a-3e4ea9773b6d",
+            "albumcover": [
+                {
+                    "id": "343317",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-frnds-remix-60be5a40c4cda.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 18:00:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "721d46a2-35a6-49a4-afea-7b1ce1275d00",
+            "albumcover": [
+                {
+                    "id": "343318",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-glowinthedark-remix-60be5a6dd7e0a.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 18:00:00"
+                }
+            ]
+        },
+        {
+            "release_group_id": "12e3e9ce-a331-4bd4-ba98-6c1f4a55d8ab",
+            "albumcover": [
+                {
+                    "id": "343319",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-morten-remix-60be5a8e498aa.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 17:59:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8aabeaef-e853-4d42-9c88-e61752e7538c",
+            "albumcover": [
+                {
+                    "id": "343320",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-r3hab-remix-60be5ac2ed802.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 17:59:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1142460c-9292-49cf-9b01-6741c002151d",
+            "albumcover": [
+                {
+                    "id": "343321",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-robin-schulz-remix-60be5aedeb529.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 17:59:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f61601b3-bbb4-44d9-886a-8b005cb41fa6",
+            "albumcover": [
+                {
+                    "id": "343322",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-sub-zero-remix-60be5b1a17fea.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 17:59:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "3ef8aa24-0e11-4a24-bc98-07d41e44e1e8",
+            "albumcover": [
+                {
+                    "id": "343331",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/2u-tujamo-remix-60be7502251f8.jpg",
+                    "likes": "0",
+                    "added": "2021-06-07 21:44:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "866674da-d46a-43d5-aae2-bb3a25070faf",
+            "albumcover": [
+                {
+                    "id": "344325",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/freedom-60c6a75f1365f.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 01:02:38"
+                }
+            ]
+        },
+        {
+            "release_group_id": "06a4d84c-7489-4c35-9ede-b685b56ea074",
+            "albumcover": [
+                {
+                    "id": "344326",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/monster-60c6a817590d8.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 01:02:36"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c455bd3b-0a29-4206-b31a-1e4c62afc42f",
+            "albumcover": [
+                {
+                    "id": "344327",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/peaches-dj-dx-remix-60c6a863b5117.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 01:02:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "916d9148-7d23-4f84-99b9-175211bd1551",
+            "albumcover": [
+                {
+                    "id": "344328",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/my-world-60c6a969d3444.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 01:02:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "32b9bcc7-0009-4f61-b0a9-b5fca3d28317",
+            "albumcover": [
+                {
+                    "id": "344329",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/holy-60c6aade11ee9.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 01:04:22"
+                }
+            ]
+        },
+        {
+            "release_group_id": "19000dcb-9232-4c4e-b63b-383de7173626",
+            "albumcover": [
+                {
+                    "id": "344330",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/mood-remix-60c6ad384ec98.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:26:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1b406e15-832e-4d0f-b8a0-01d521f7c56d",
+            "albumcover": [
+                {
+                    "id": "344331",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/10000-hours-piano-60c6adeb37a2e.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:26:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "06ed26bd-4a17-481c-8884-1f4d570e8402",
+            "albumcover": [
+                {
+                    "id": "344332",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/bad-guy-60c6aee02587c.jpeg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:26:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "daf2f5fc-a156-4d92-bed0-41fc94bbb533",
+            "albumcover": [
+                {
+                    "id": "344333",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/i-dont-care-chronixx--koffee-remix-60c6b058505df.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:26:08"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1c5d9451-872e-4c7b-bf16-c604ce9fef67",
+            "albumcover": [
+                {
+                    "id": "344334",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/i-dont-care-loud-luxury-remix-60c6b07e8d129.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:26:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2cf5a428-ebbc-48f4-a55f-e8ed13ad01f0",
+            "albumcover": [
+                {
+                    "id": "344335",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/i-dont-care-jonas-blue-remix-60c6b09d37fe2.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:26:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c46fdadb-2db3-4f21-bc4d-5213800da5a1",
+            "albumcover": [
+                {
+                    "id": "344336",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/one-dance-remix-60c6b3fb98b1f.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:25:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "acfcac55-0848-407f-957b-aafd91fb56db",
+            "albumcover": [
+                {
+                    "id": "344337",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/despacito-remix-60c6b43ebdceb.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:25:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "db98bbfd-90ef-433d-926d-b57cd88f026b",
+            "albumcover": [
+                {
+                    "id": "344340",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/stuck-with-u-60c6b6b133b02.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:24:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "014ef56d-8704-44ee-af8c-a88f30327cd3",
+            "albumcover": [
+                {
+                    "id": "344344",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/intentions-60c6b7d606578.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:24:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "970c067d-53af-4ae2-b866-dcf643f9589c",
+            "albumcover": [
+                {
+                    "id": "344345",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/get-me-60c6b9123037f.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:24:10"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e51fdd2b-df00-4d8a-a808-a26c7de210dc",
+            "albumcover": [
+                {
+                    "id": "344347",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/love-thru-the-computer-60c6bb5baec2d.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:23:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "48b2eb04-3f63-49b1-8857-fec64ab65618",
+            "albumcover": [
+                {
+                    "id": "344348",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/cold-water-60c6bcdc7bf86.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 06:23:45"
+                }
+            ]
+        },
+        {
+            "release_group_id": "84414930-8b82-4d19-8cd8-fcdc90297516",
+            "albumcover": [
+                {
+                    "id": "344389",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/deja-vu-60c74e2d155e7.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:31:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "349cd353-a4b9-485d-a48a-c4e4d48f4499",
+            "albumcover": [
+                {
+                    "id": "344390",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/no-brainer-60c74e57a570d.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:31:33"
+                }
+            ]
+        },
+        {
+            "release_group_id": "af77a98a-cea8-4a52-b66c-828a3e6c1ce0",
+            "albumcover": [
+                {
+                    "id": "344394",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/where-are--now-60c753a18decf.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:31:10"
+                },
+                {
+                    "id": "344395",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/where-are--now-60c753d245cf3.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:31:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "41d7e3c4-9c0e-4612-a477-703eb4509ffd",
+            "albumcover": [
+                {
+                    "id": "344396",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/party-60c7558070ea5.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:30:58"
+                }
+            ]
+        },
+        {
+            "release_group_id": "791635fe-3480-4827-80aa-4e3f2d547fdc",
+            "albumcover": [
+                {
+                    "id": "344397",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/couple-goals-60c755e57d9fc.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:30:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "957bf0d3-27e3-466a-b446-3f00c10550a8",
+            "albumcover": [
+                {
+                    "id": "344398",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/work-from-home-60c75621c65ef.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:30:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "69d8f5bc-b012-450c-b3fa-509929466260",
+            "albumcover": [
+                {
+                    "id": "344399",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/rbieber-60c7565aade23.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:30:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "115c9315-b6e6-4479-bc01-7651a71218fe",
+            "albumcover": [
+                {
+                    "id": "344400",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/tbt-60c75706e10dd.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:30:28"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5ae2caad-9752-4e0c-b861-38da08d2b9fd",
+            "albumcover": [
+                {
+                    "id": "344401",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/jb6-60c75748c58a6.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:30:17"
+                }
+            ]
+        },
+        {
+            "release_group_id": "07ad53b2-88c8-4a4a-9edf-c6fc47fa1a81",
+            "albumcover": [
+                {
+                    "id": "344402",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/tiny-desk-concert-60c757a17c561.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:29:20"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f9152b1d-811e-4427-ae1a-929f638abff8",
+            "albumcover": [
+                {
+                    "id": "344403",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/one-less-lonely-girl-60c75853db3e1.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:28:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5583fb70-5bcb-4097-8e3b-4a8695d39e69",
+            "albumcover": [
+                {
+                    "id": "344404",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/beauty-and-a-beat-remixes-60c758d0e0f0d.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 13:27:49"
+                }
+            ]
+        },
+        {
+            "release_group_id": "58f04574-d84a-40dc-a2b0-87bf3fffcd2f",
+            "albumcover": [
+                {
+                    "id": "344405",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/one-life-60c75b4e1a743.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 14:02:09"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e8a39155-2fa1-44b7-a5f7-65bc9d3626ad",
+            "albumcover": [
+                {
+                    "id": "344406",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/roller-coaster-60c75b6d04e37.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 14:02:07"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cf900029-ef77-4b40-ae1b-e47d349b619d",
+            "albumcover": [
+                {
+                    "id": "344407",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/recovery-60c75b9675cc7.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 14:02:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c9692b07-219f-4865-a7dc-cf6022b67770",
+            "albumcover": [
+                {
+                    "id": "344408",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/biebs-and-chill-60c75d52dd33c.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 14:02:02"
+                }
+            ]
+        },
+        {
+            "release_group_id": "d705225f-98f6-4532-99ee-5731333d7c3e",
+            "albumcover": [
+                {
+                    "id": "344410",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/boyfriend-remixes-60c75ec2e0b00.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 14:01:57"
+                }
+            ]
+        },
+        {
+            "release_group_id": "04e3ec2a-75ed-4fdb-8e04-2268dd163745",
+            "albumcover": [
+                {
+                    "id": "344411",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/never-say-never-the-remixes-60c75ee6885cc.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 14:01:55"
+                }
+            ]
+        },
+        {
+            "release_group_id": "af8c2176-4ec3-4ee4-9271-4a74a1845f8c",
+            "albumcover": [
+                {
+                    "id": "344412",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/swap-it-out-60c76213369f8.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:30:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7a1a059a-a1a3-4f74-93d2-98018de933e3",
+            "albumcover": [
+                {
+                    "id": "344414",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/whats-hatnin-60c7623345e30.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:30:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "80264751-0972-4bbd-83a2-53fcfc58dfd8",
+            "albumcover": [
+                {
+                    "id": "344415",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/memphis-60c76383aed37.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:30:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7b391d8e-d23d-4e5e-b8e8-b2907ed91be1",
+            "albumcover": [
+                {
+                    "id": "344416",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/confident-60c763a870892.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:31:09"
+                }
+            ]
+        },
+        {
+            "release_group_id": "dd9e4be1-4aed-4a87-a9cb-06f3f73a388e",
+            "albumcover": [
+                {
+                    "id": "344417",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/backpack-60c7644c25dce.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:31:11"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cbae175d-ff3a-461d-b8a6-a7615010137e",
+            "albumcover": [
+                {
+                    "id": "344418",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/change-me-60c7653383e8b.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:31:13"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5dd74f55-f503-4773-aa1b-72ca5f5d3252",
+            "albumcover": [
+                {
+                    "id": "344419",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/pyd-60c765d26bdf0.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:04"
+                }
+            ]
+        },
+        {
+            "release_group_id": "979c4a2c-9da7-46a0-87a1-757dd644e2ef",
+            "albumcover": [
+                {
+                    "id": "344420",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/all-bad-60c7664e16753.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:06"
+                }
+            ]
+        },
+        {
+            "release_group_id": "5d0d0180-d340-445b-b8b7-1b97a153c616",
+            "albumcover": [
+                {
+                    "id": "344421",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/bad-day-60c766d6ceaa3.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:08"
+                }
+            ]
+        },
+        {
+            "release_group_id": "4e2a47ce-1bca-4eba-8b88-6f5331eac114",
+            "albumcover": [
+                {
+                    "id": "344423",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/hold-tight-60c76815d3bb3.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "91c5400f-de8d-4362-a618-d685cd7a4be1",
+            "albumcover": [
+                {
+                    "id": "344425",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/all-that-matters-60c768d1f2eef.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:21"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f5a24c9b-94c6-447a-b21a-0a67b74e1c6b",
+            "albumcover": [
+                {
+                    "id": "344426",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/heartbreaker-60c76988dfd73.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:32"
+                }
+            ]
+        },
+        {
+            "release_group_id": "1372738e-7bb2-4849-8811-03560a24ff6a",
+            "albumcover": [
+                {
+                    "id": "344427",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/lolly-60c76c2caa70b.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:34:35"
+                }
+            ]
+        },
+        {
+            "release_group_id": "38a2f712-00ae-456c-9562-055ea897aed2",
+            "albumcover": [
+                {
+                    "id": "344428",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/thatpower-60c76d56a39f9.jpg",
+                    "likes": "0",
+                    "added": "2021-06-14 17:36:12"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ad895ed9-b28c-49b0-9ae2-ffac63d97f7c",
+            "albumcover": [
+                {
+                    "id": "344445",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/as-long-as-you-love-me-60c79af53e1f6.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:11:37"
+                }
+            ]
+        },
+        {
+            "release_group_id": "2b0521b0-6de9-43e2-90e0-6797ef5707d0",
+            "albumcover": [
+                {
+                    "id": "344448",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/baby-60c79bb9820d4.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:13:40"
+                }
+            ]
+        },
+        {
+            "release_group_id": "e6bc18b1-e970-4b43-b706-7c3d5e4bc7e5",
+            "albumcover": [
+                {
+                    "id": "344449",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/eenie-meenie-60c79c573efcd.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:13:42"
+                }
+            ]
+        },
+        {
+            "release_group_id": "05dea7ec-7bcc-460d-bcbc-63e11aee5a22",
+            "albumcover": [
+                {
+                    "id": "344450",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/favorite-girl-60c79cf43ea08.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:13:54"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b4dc2590-1996-498a-ac7b-6bd8f642c14c",
+            "albumcover": [
+                {
+                    "id": "344451",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/home-for-christmas-60c79dbee2cf6.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:13:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "26bf5b5c-363e-40a6-9ec6-92f5df8901e9",
+            "albumcover": [
+                {
+                    "id": "344457",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/let-me-love-you-60c7a2e98fd10.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:20:16"
+                },
+                {
+                    "id": "344458",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/let-me-love-you-60c7a30372151.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:20:19"
+                }
+            ]
+        },
+        {
+            "release_group_id": "46ec5c16-5a7a-4b78-8472-7219af10d312",
+            "albumcover": [
+                {
+                    "id": "344459",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/live-my-life-60c7a3d3eabb6.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:20:41"
+                }
+            ]
+        },
+        {
+            "release_group_id": "b9e628c6-3a81-4c71-b226-926d72535c56",
+            "albumcover": [
+                {
+                    "id": "344461",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/mistletoe-60c7a51f0ba6d.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:20:47"
+                }
+            ]
+        },
+        {
+            "release_group_id": "6e366f37-b047-4cdc-86f7-4241dcf1ea9c",
+            "albumcover": [
+                {
+                    "id": "344462",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/next-to-you-60c7a6a1bb377.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:21:03"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8feb6109-2f42-4a70-8647-be4b2e4e89c9",
+            "albumcover": [
+                {
+                    "id": "344463",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/one-time-60c7a76a1927e.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:21:05"
+                },
+                {
+                    "id": "344464",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/one-time-60c7a783366c2.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:21:07"
+                }
+            ]
+        },
+        {
+            "release_group_id": "a6cc05a7-6525-4fcf-ba53-e03e3bbda678",
+            "albumcover": [
+                {
+                    "id": "344465",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/pray-60c7a80d103cd.jpg",
+                    "likes": "0",
+                    "added": "2021-06-15 00:21:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "28b82b10-c2bc-4798-aac1-53a59dc84ad3",
+            "albumcover": [
+                {
+                    "id": "344829",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/what-do-you-mean-60ca7ef6b89a3.jpg",
+                    "likes": "0",
+                    "added": "2021-06-17 02:52:15"
+                }
+            ]
+        },
+        {
+            "release_group_id": "c0fa267d-762d-4772-af18-9bebc08a14aa",
+            "albumcover": [
+                {
+                    "id": "378930",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/10000-hours-6283174d810ae.jpg",
+                    "likes": "0",
+                    "added": "2022-05-17 18:05:34"
+                }
+            ]
+        },
+        {
+            "release_group_id": "55cbc576-d56e-4263-96d8-b2d793b5a38a",
+            "albumcover": [
+                {
+                    "id": "397572",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/peaches-masterkraft-remix-feat-alpha-p--omah-lay-639b75d888190.jpg",
+                    "likes": "0",
+                    "added": "2022-12-15 19:34:56"
+                }
+            ]
+        },
+        {
+            "release_group_id": "93cb4e57-ca15-41a1-a720-6f0c313a935b",
+            "albumcover": [
+                {
+                    "id": "397573",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/peaches-remix-639b75dad1517.jpg",
+                    "likes": "0",
+                    "added": "2022-12-15 19:34:52"
+                }
+            ]
+        },
+        {
+            "release_group_id": "79cc6a2c-c7a8-4d13-8b85-0d60876b2ab4",
+            "albumcover": [
+                {
+                    "id": "411110",
+                    "url": "https://assets.fanart.tv/fanart/music/e0140a67-e4d1-4f13-8a01-364355bee46e/albumcover/wait-for-a-minute-64930ce029a9b.jpg",
+                    "likes": "0",
+                    "added": "2023-06-22 02:04:58"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "김제니",
+    "mbid_id": "779351de-0da5-4943-928b-495a3c40e8c0",
+    "hdmusiclogo": [
+        {
+            "id": "253213",
+            "url": "https://assets.fanart.tv/fanart/music/779351de-0da5-4943-928b-495a3c40e8c0/hdmusiclogo/kim-jennie-5c165d4850ab8.png",
+            "likes": "1",
+            "added": "2018-12-17 05:03:37"
+        }
+    ],
+    "musicbanner": [
+        {
+            "id": "253215",
+            "url": "https://assets.fanart.tv/fanart/music/779351de-0da5-4943-928b-495a3c40e8c0/musicbanner/kim-jennie-5c16630a5bc00.jpg",
+            "likes": "0",
+            "added": "2018-12-16 23:11:01"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "00357cda-0ea2-4429-9c88-638a608348b0",
+            "cdart": [
+                {
+                    "id": "253214",
+                    "url": "https://assets.fanart.tv/fanart/music/779351de-0da5-4943-928b-495a3c40e8c0/cdart/solo-5c165edb0eac3.png",
+                    "likes": "0",
+                    "disc": "1",
+                    "size": "1000",
+                    "added": "2018-12-16 23:03:14"
+                }
+            ],
+            "albumcover": [
+                {
+                    "id": "253216",
+                    "url": "https://assets.fanart.tv/fanart/music/779351de-0da5-4943-928b-495a3c40e8c0/albumcover/solo-5c166336af504.jpg",
+                    "likes": "0",
+                    "added": "2018-12-16 23:08:33"
+                }
+            ]
+        }
+    ]
+}

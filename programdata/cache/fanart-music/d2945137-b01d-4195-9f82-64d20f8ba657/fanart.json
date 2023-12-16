@@ -1,0 +1,39 @@
+{
+    "name": "Myke Towers",
+    "mbid_id": "d2945137-b01d-4195-9f82-64d20f8ba657",
+    "albums": [
+        {
+            "release_group_id": "36353272-2b9f-4bbd-9169-d0292c8416c5",
+            "albumcover": [
+                {
+                    "id": "396455",
+                    "url": "https://assets.fanart.tv/fanart/music/d2945137-b01d-4195-9f82-64d20f8ba657/albumcover/caramelo-remix-6387bbb3a63f3.jpg",
+                    "likes": "0",
+                    "added": "2022-12-01 03:19:53"
+                }
+            ]
+        },
+        {
+            "release_group_id": "ba4614d4-2bdc-4bc1-9de5-ab0f39598d60",
+            "albumcover": [
+                {
+                    "id": "398211",
+                    "url": "https://assets.fanart.tv/fanart/music/d2945137-b01d-4195-9f82-64d20f8ba657/albumcover/mi-nia-remix-63a2a3a356f34.jpg",
+                    "likes": "0",
+                    "added": "2022-12-21 06:30:51"
+                }
+            ]
+        },
+        {
+            "release_group_id": "f6c7b84a-7187-43ac-a7ac-67160b7c9d92",
+            "albumcover": [
+                {
+                    "id": "398258",
+                    "url": "https://assets.fanart.tv/fanart/music/d2945137-b01d-4195-9f82-64d20f8ba657/albumcover/me-gusta-63a30ec427a46.jpg",
+                    "likes": "0",
+                    "added": "2022-12-21 19:02:49"
+                }
+            ]
+        }
+    ]
+}

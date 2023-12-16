@@ -1,0 +1,1 @@
+define(["exports"],function(_exports){var tempDiv;Object.defineProperty(_exports,"__esModule",{value:!0}),_exports.default=void 0;_exports.default={htmlEncode:function(value){var div=tempDiv;if(!div){var doc="undefined"==typeof document?null:document;if(!doc)return value;div=doc.createElement("div"),tempDiv=div}return div.textContent=value,div.innerHTML}}});

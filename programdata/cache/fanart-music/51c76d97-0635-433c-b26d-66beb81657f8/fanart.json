@@ -1,0 +1,91 @@
+{
+    "name": "Lord Huron",
+    "mbid_id": "51c76d97-0635-433c-b26d-66beb81657f8",
+    "hdmusiclogo": [
+        {
+            "id": "232056",
+            "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/hdmusiclogo/lord-huron-5a35763f666a3.png",
+            "likes": "1",
+            "added": "2017-12-16 20:32:02"
+        },
+        {
+            "id": "291247",
+            "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/hdmusiclogo/lord-huron-5e79374a1537b.png",
+            "likes": "0",
+            "added": "2020-03-24 08:02:29"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "106612",
+            "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/artistthumb/lord-huron-52a4ab61cc85b.jpg",
+            "likes": "0",
+            "added": "2013-12-17 08:53:00"
+        }
+    ],
+    "artistbackground": [
+        {
+            "id": "129452",
+            "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/artistbackground/lord-huron-53bdb1d767bb6.jpg",
+            "likes": "0",
+            "added": "2014-07-10 08:25:07"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "56174f36-62c3-4c68-87d3-0052a09a7132",
+            "albumcover": [
+                {
+                    "id": "104911",
+                    "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/albumcover/lonesome-dreams-528a6f0127b79.jpg",
+                    "likes": "0",
+                    "added": "2013-11-18 22:13:30"
+                }
+            ]
+        },
+        {
+            "release_group_id": "7c4e9b88-1f66-4805-bf75-0300d2d3549d",
+            "albumcover": [
+                {
+                    "id": "204810",
+                    "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/albumcover/strange-trails-5804959505afb.jpg",
+                    "likes": "0",
+                    "added": "2016-10-17 20:33:05"
+                }
+            ]
+        },
+        {
+            "release_group_id": "cbdf5fcf-2111-4765-8313-7e9454897a86",
+            "albumcover": [
+                {
+                    "id": "204811",
+                    "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/albumcover/the-night-we-met-580495b80c1bc.jpg",
+                    "likes": "0",
+                    "added": "2016-10-17 20:33:16"
+                }
+            ]
+        },
+        {
+            "release_group_id": "8bdcb59d-6dd8-4489-a9de-601af56ff8f7",
+            "albumcover": [
+                {
+                    "id": "249418",
+                    "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/albumcover/vide-noir-5bc11e0634b71.jpg",
+                    "likes": "0",
+                    "added": "2018-10-13 03:03:23"
+                }
+            ]
+        },
+        {
+            "release_group_id": "86832b46-99be-44fd-afcd-4b3ad327c0ec",
+            "albumcover": [
+                {
+                    "id": "334906",
+                    "url": "https://assets.fanart.tv/fanart/music/51c76d97-0635-433c-b26d-66beb81657f8/albumcover/long-lost-607893eae035f.jpg",
+                    "likes": "0",
+                    "added": "2021-04-16 05:39:18"
+                }
+            ]
+        }
+    ]
+}

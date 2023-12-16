@@ -1,0 +1,109 @@
+{
+    "name": "S.H.E",
+    "mbid_id": "bbf19cef-0352-48a1-b37c-8627a5a4bd44",
+    "artistbackground": [
+        {
+            "id": "58741",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-508a55dd51e7e.jpg",
+            "likes": "1",
+            "added": "2012-10-29 10:38:35"
+        },
+        {
+            "id": "58532",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a2ebbb.jpg",
+            "likes": "0",
+            "added": "2012-10-29 10:18:35"
+        },
+        {
+            "id": "58533",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a2f253.jpg",
+            "likes": "0",
+            "added": "2012-10-29 10:18:58"
+        },
+        {
+            "id": "58534",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a2f82b.jpg",
+            "likes": "0",
+            "added": "2012-10-27 00:15:37"
+        },
+        {
+            "id": "58535",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a2fddd.jpg",
+            "likes": "0",
+            "added": "2012-10-29 10:19:19"
+        },
+        {
+            "id": "58536",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a302b6.jpg",
+            "likes": "0",
+            "added": "2012-10-29 10:19:39"
+        },
+        {
+            "id": "58537",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a3093b.jpg",
+            "likes": "0",
+            "added": "2012-10-29 10:20:00"
+        },
+        {
+            "id": "58538",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistbackground/she-5088bb0a30e2c.jpg",
+            "likes": "0",
+            "added": "2012-10-29 10:20:21"
+        }
+    ],
+    "artistthumb": [
+        {
+            "id": "58539",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistthumb/she-5088bb266957a.jpg",
+            "likes": "0",
+            "added": "2012-10-27 16:27:46"
+        },
+        {
+            "id": "58540",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistthumb/she-5088bb2669e8e.jpg",
+            "likes": "0",
+            "added": "2012-10-27 16:27:49"
+        },
+        {
+            "id": "58541",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistthumb/she-5088bb266a391.jpg",
+            "likes": "0",
+            "added": "2012-10-27 16:27:51"
+        },
+        {
+            "id": "58742",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/artistthumb/she-508a5641082ff.jpg",
+            "likes": "0",
+            "added": "2012-10-27 16:28:17"
+        }
+    ],
+    "hdmusiclogo": [
+        {
+            "id": "58744",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/hdmusiclogo/she-508a59884d52f.png",
+            "likes": "0",
+            "added": "2012-10-26 23:45:16"
+        }
+    ],
+    "musiclogo": [
+        {
+            "id": "58745",
+            "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/musiclogo/she-508a59972c848.png",
+            "likes": "0",
+            "added": "2012-10-27 00:05:09"
+        }
+    ],
+    "albums": [
+        {
+            "release_group_id": "46eaaa07-0681-3dd1-b469-b82f6fc991d6",
+            "albumcover": [
+                {
+                    "id": "216181",
+                    "url": "https://assets.fanart.tv/fanart/music/bbf19cef-0352-48a1-b37c-8627a5a4bd44/albumcover/-58e59cdb4a6a5.jpg",
+                    "likes": "0",
+                    "added": "2017-04-06 03:09:21"
+                }
+            ]
+        }
+    ]
+}
